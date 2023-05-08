@@ -8,4 +8,5 @@
 * [Overview page](overview-page/README.md)
   * [Contributors](overview-page/contributors.md)
   * [Contributor Leaderboard](overview-page/contributor-leaderboard.md)
+  * [Best Practice Score](overview-page/best-practice-score.md)
 * [Page 1](page-1.md)
