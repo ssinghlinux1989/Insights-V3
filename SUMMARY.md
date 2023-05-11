@@ -9,4 +9,7 @@
   * [Contributors](overview-page/contributors.md)
   * [Contributor Leaderboard](overview-page/contributor-leaderboard.md)
   * [Best Practice Score](overview-page/best-practice-score.md)
+  * [Commits](overview-page/commits.md)
+  * [Geographical Distribution](overview-page/geographical-distribution.md)
+  * [Active Days](overview-page/active-days.md)
 * [Page 1](page-1.md)
