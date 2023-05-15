@@ -13,4 +13,5 @@
   * [Geographical Distribution](overview-page/geographical-distribution.md)
   * [Active Days](overview-page/active-days.md)
   * [Forks](overview-page/forks.md)
+* [Velocity](velocity.md)
 * [Page 1](page-1.md)
