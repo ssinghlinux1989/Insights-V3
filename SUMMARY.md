@@ -19,7 +19,7 @@
   * [Average Review Time By Pull Request Size](velocity/average-review-time-by-pull-request-size.md)
   * [Average Wait Time For 1st Review](velocity/average-wait-time-for-1st-review.md)
   * [Code Review Engagement](velocity/code-review-engagement.md)
-* [Productivity](page-1/README.md)
+* [Productivity](page-1.md)
   * [Commits Per Active Day](page-1/commits-per-active-day.md)
   * [Work Time Distribution Impact](page-1/work-time-distribution-impact.md)
   * [New Contributors](page-1/new-contributors.md)
