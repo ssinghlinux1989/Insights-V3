@@ -4,4 +4,5 @@ A velocity dashboard can help project managers and stakeholders understand the t
 - The dashboard helps project managers in estimating the team's capacity, team's progress, and the team's performance over the time. It provides insights into the team's historical productivity, and better resource allocation.
 - The velocity dashboard allows development teams to assess their own performance and productivity. They can track their progress, identify patterns, and improve their estimation accuracy by comparing planned work with actual velocity.
 - The velocity dashboard provides stakeholders with visibility into the progress and productivity of the development team. It enables them to track the status of deliverables, understand the team's capacity, and make informed decisions based on real-time data.
+
 Overall, a velocity dashboard is a useful tool for project management, performance evaluation, collaboration, and decision-making, benefiting all stakeholders involved in the open source software development process.
