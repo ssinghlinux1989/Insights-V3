@@ -16,6 +16,6 @@
   * [Performance Metrics](velocity/performance-metrics.md)
   * [Lead Time](velocity/lead-time.md)
   * [Average Lead Time By Pull Request Size](velocity/average-lead-time-by-pull-request-size.md)
-  * [Page 4](velocity/page-4.md)
-  * [Page 5](velocity/page-5.md)
+  * [Average Review Time By Pull Request Size](velocity/average-review-time-by-pull-request-size.md)
+  * [Average Wait Time For 1st Review](velocity/average-wait-time-for-1st-review.md)
 * [Productivity](page-1.md)
