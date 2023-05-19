@@ -4,6 +4,7 @@
   * [What is Insights V3](insights-v3/what-is-insights-v3.md)
   * [How does Insights V3 help you?](insights-v3/how-does-insights-v3-help-you.md)
   * [Getting Started](readme/getting-started.md)
+  * [Select Date Range](readme/select-date-range.md)
 * [Overview page](overview-page/README.md)
   * [Contributors](overview-page/contributors.md)
   * [Commits](overview-page/commits.md)
