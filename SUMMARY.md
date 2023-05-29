@@ -35,3 +35,4 @@
   * [Engagement Gap](page-1/engagement-gap.md)
   * [Effort By Pull Request Back Size](page-1/effort-by-pull-request-back-size.md)
 * [Glossary](page-5.md)
+* [Troubleshooting and FAQs](troubleshooting-and-faqs.md)
