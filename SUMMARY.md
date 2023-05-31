@@ -14,6 +14,7 @@
 * [Overview page](overview-page/README.md)
   * [Contributors Metric](overview-page/contributors.md)
   * [Commits](overview-page/commits.md)
+  * [Issues](overview-page/issues.md)
   * [Contributor Leaderboard](overview-page/contributor-leaderboard.md)
   * [Best Practice Score](overview-page/best-practice-score.md)
   * [Geographical Distribution](overview-page/geographical-distribution.md)

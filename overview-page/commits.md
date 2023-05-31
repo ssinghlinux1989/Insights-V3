@@ -12,7 +12,7 @@ Each commit includes the following:
 The metric enables project maintainers and stakeholders to gain valuable insights into code changes and progress within a specified period.
 
 * It provides insights into the volume and frequency of code changes made by contributors. By visualizing commit data in a bar chart, you can track the progress of development efforts over time.
-* Changes in commit counts may reveal periods of intense development, periods of slower activity, or the impact of specific events or milestones on the project.
+* Changes in commit counts provide periods of intense development, periods of slower activity, or the impact of specific events or milestones on the project.
 
 ### Interact with the chart
 
