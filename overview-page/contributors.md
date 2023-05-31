@@ -27,7 +27,7 @@ When you want to see the health of your open source project, the **Contributor C
 
 ### Interact with the chart
 
-The line chart on the dashboard visualizes the analysis, allowing users to explore contributor data over time. Hover over the chart to see the number of contributors for the specific month for the selected time period.&#x20;
+The line chart on the dashboard visualizes the analysis and allows you to explore contributor data over time. Hover over the chart to see the number of contributors for the specific month for the selected time period.&#x20;
 
 This interactive download feature (Icon ) enables you to download the chart in CSV and PNG file formats.
 
