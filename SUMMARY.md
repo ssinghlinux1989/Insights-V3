@@ -21,6 +21,8 @@
   * [Active Days](overview-page/active-days.md)
   * [Forks](overview-page/forks.md)
   * [Select Date Range](overview-page/select-date-range.md)
+  * [Pull Requests](overview-page/pull-requests.md)
+  * [Stars](overview-page/stars.md)
 * [Velocity](velocity/README.md)
   * [Performance Metrics](velocity/performance-metrics.md)
   * [Lead Time](velocity/lead-time.md)
