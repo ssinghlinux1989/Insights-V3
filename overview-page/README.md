@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxkYXRhJTIwYW5hbHl0aWNzfGVufDB8fHx8MTY4NjEzMTY3M3ww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Overview page
 
 The overview page should provide a high-level summary of the project's activity, contributors, and performance metrics, including:
