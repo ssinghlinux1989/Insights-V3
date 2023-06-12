@@ -8,7 +8,7 @@ Stars represent a way for you to bookmark or indicate your interest in and appre
 
 ### Why is this metric important?
 
-
+The metric helps you analyze your project's popularity. A higher number of stars generally suggests a widely recognized and appreciated project, potentially attracting more contributors.
 
 ### Interact with the chart
 
