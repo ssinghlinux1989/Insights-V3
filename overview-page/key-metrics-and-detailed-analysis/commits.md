@@ -1,6 +1,6 @@
 # Commits
 
-The **Commits** metric refers to the quantification and analysis of code commits made by contributors within a specified timeframe. A code commit represents a unit of change to the software's source code repository.&#x20;
+The **Commits** metric refers to the quantification and analysis of code commits made by contributors within a specified timeframe. A code commit represents a unit of change to the software's source code repository.
 
 Each commit includes the following:
 
@@ -19,10 +19,3 @@ The metric enables project maintainers and stakeholders to gain valuable insight
 The bar chart on the dashboard represents the analysis, displaying the number of commits over time. Hover over a specific bar to access the detailed commit information for that particular month within the selected period.
 
 The interactive download feature (Icon ) enables you to download the chart in CSV and PNG file formats.
-
-
-
-
-
-
-

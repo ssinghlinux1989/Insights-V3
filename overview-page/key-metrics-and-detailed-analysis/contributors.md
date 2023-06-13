@@ -2,7 +2,7 @@
 
 The data visualization on the overview page shows real-time data on the total number of contributors across all monitored repositories during the selected time period.
 
-Contributors can include individuals who actively participate in the development of the project and perform one or many activities:&#x20;
+Contributors can include individuals who actively participate in the development of the project and perform one or many activities:
 
 * `issue-comment`
 * `issues-closed`
@@ -27,13 +27,6 @@ When you want to see the health of your open source project, the **Contributor C
 
 ### Interact with the chart
 
-The line chart on the dashboard visualizes the analysis and allows you to explore contributor data over time. Hover over the chart to see the number of contributors for the specific month for the selected time period.&#x20;
+The line chart on the dashboard visualizes the analysis and allows you to explore contributor data over time. Hover over the chart to see the number of contributors for the specific month for the selected time period.
 
 This interactive download feature (Icon ) enables you to download the chart in CSV and PNG file formats.
-
-
-
-
-
-
-

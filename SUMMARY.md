@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Insights V3](README.md)
+  * [Release Notes](readme/release-notes.md)
   * [What is Insights V3](readme/what-is-insights-v3.md)
   * [Intended Audience](readme/intended-audience.md)
   * [System Requirements](readme/system-requirements.md)
