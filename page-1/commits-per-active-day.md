@@ -1,2 +1,0 @@
-# Commits Per Active Day
-

@@ -1,2 +1,0 @@
-# Geographical Distribution
-

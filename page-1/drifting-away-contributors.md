@@ -1,2 +1,0 @@
-# Drifting Away Contributors
-
