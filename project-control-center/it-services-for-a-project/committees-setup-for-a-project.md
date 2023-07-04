@@ -109,7 +109,7 @@ After adding a first member to a committee, if you want to add another member to
 * If a member does not have a LFID, <img src="../../.gitbook/assets/Inv (1).png" alt="" data-size="line"> icon is displayed.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Icons.png" alt=""><figcaption><p>Member LFID Status </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Icons (1).png" alt=""><figcaption><p>Member LFID Status </p></figcaption></figure>
 
 ## Send a Message&#x20;
 
@@ -177,7 +177,7 @@ To update the committee, perform the following steps:
 
 1.Under Manage, click the <img src="../../.gitbook/assets/elicp.png" alt="" data-size="line"> and select **Edit**.&#x20;
 
-<figure><img src="../../.gitbook/assets/Edit.png" alt=""><figcaption><p>Edit</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Edit (1).png" alt=""><figcaption><p>Edit</p></figcaption></figure>
 
 2.The Manage Committee dialog box appears. Update the committee as per your requirements and click **Save**.&#x20;
 

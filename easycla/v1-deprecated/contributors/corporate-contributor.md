@@ -82,7 +82,7 @@ This message appears if you are added to the approved list, and your CLA doesn't
 
 1\. Read the Confirmation of Association statement and select the checkbox.
 
-![](../../../.gitbook/assets/cla-github-confirmation-of-association.png)
+![](<../../../.gitbook/assets/cla-github-confirmation-of-association (1).png>)
 
 2\. Click **CONTINUE**.
 
@@ -126,7 +126,7 @@ If your company has not signed CLA, Verify Your Permission window appears. To pr
     **YES**— You will be redirected to the [CLA Corporate Console](https://corporate.v1.easycla.lfx.linuxfoundation.org) to [sign a CLA](../cla-manager/sign-a-corporate-cla-for-company.md).
 
     **NO**— A **Request Access** form appears. Continue to next step.\
-    ![](<../../../.gitbook/assets/request access (1).png>)
+    ![](<../../../.gitbook/assets/request access.png>)
 2.  Complete the form and click **SEND**.
 
     The CCLA manager signs a Corporate CLA and adds you to the approved list.
@@ -143,7 +143,7 @@ If you don't find your company's name in the list:
     **YES**— You will be redirected to the [CLA Corporate Console](https://corporate.v1.easycla.lfx.linuxfoundation.org) to [add your company](../cla-manager/add-a-company-to-a-project.md) to a project.
 
     **NO**— A **Request Access** form appears. Continue to next step.\
-    ![](<../../../.gitbook/assets/request access (1).png>)
+    ![](<../../../.gitbook/assets/request access.png>)
 3.  Complete the form and click **SEND**.
 
     The CCLA manager signs a Corporate CLA and adds you to the approved list.

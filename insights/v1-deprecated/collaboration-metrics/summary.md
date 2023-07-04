@@ -23,7 +23,7 @@ Summary provides a high-level metrics about each data source for which the proje
 
 **Top 10 Channels** lists the top ten slack channels where most amount of communication is happening. It shows the channel name, number of messages per channel, and percentage of messages per channel. Following is an example of chat room dashboard:
 
-![Chat Room](<../../../.gitbook/assets/chat room.png>)
+![Chat Room](<../../../.gitbook/assets/chat room (1).png>)
 
 ### **Mailing List**
 

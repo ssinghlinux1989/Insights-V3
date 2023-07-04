@@ -62,7 +62,7 @@ Click in the field, type a project name or select from the drop-down list, and c
 
 After the project maintainer adds you to the project, you will get an email notification informing you that you are added to the project, and the status changes to **Added**.
 
-![](<../../../.gitbook/assets/mentorship project details.png>)
+![](<../../../.gitbook/assets/mentorship project details (1).png>)
 
 ### Terms and Conditions <a href="#createamentorprofile-termsandconditions" id="createamentorprofile-termsandconditions"></a>
 

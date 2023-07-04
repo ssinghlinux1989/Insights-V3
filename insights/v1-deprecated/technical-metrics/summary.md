@@ -109,7 +109,7 @@ Mouse over a color in the doughnut chart to view company name and number of comm
 
 Following an example of Issue Management overview section for a project that uses Jira, GitHub Issues, and Bugzilla to manage issues:
 
-![Issue Management](<../../../.gitbook/assets/issue management (1).png>)
+![Issue Management](<../../../.gitbook/assets/issue management.png>)
 
 ### **CI/CD**
 

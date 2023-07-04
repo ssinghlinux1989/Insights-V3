@@ -34,7 +34,7 @@ Earned coupons will allow you to claim a discount for training, certifications, 
 
 3\. A pop-up message appears. Click **Claim Code**.
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption><p>Redeem coupon</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption><p>Redeem coupon</p></figcaption></figure>
 
 4\. Copy the discount code and paste this code at checkout on the [Training Portal](https://trainingportal.linuxfoundation.org).
 

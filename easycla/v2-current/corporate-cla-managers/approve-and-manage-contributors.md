@@ -22,7 +22,7 @@ As a CLA manager for a project, you can:
 2. Click a project of interest.
 3. Click **+ Add Approval Criteria** under **Approved List Of Contributions From My Organization**.
 
-![Add Approval Criteria](<../../../.gitbook/assets/add approval criteria (1).png>)
+![Add Approval Criteria](<../../../.gitbook/assets/add approval criteria (2).png>)
 
 4\. On the **Add Approval Criteria** window, select an option from the drop-down list, and provide details in the field next to it.
 

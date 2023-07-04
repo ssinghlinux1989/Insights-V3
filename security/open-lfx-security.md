@@ -58,7 +58,7 @@ To view the individual projects, perform the following steps:
 * Upstream Dependencies
 * Types of Licenses Found
 
-![Security Summary](<../.gitbook/assets/Project\_Foundation (1).gif>)
+![Security Summary](../.gitbook/assets/Project\_Foundation.gif)
 
 {% hint style="info" %}
 The warning ![](../.gitbook/assets/War.png) icon provides information on why the security scan is failed for the repositories.

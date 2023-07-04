@@ -14,9 +14,9 @@ You can also disconnect your accounts anytime you want.
 
 3\. Select the account that you want to connect to, and click **Connect**.
 
-![Connect your accounts](<../../.gitbook/assets/Connected Accounts (6).png>)
+![Connect your accounts](<../../.gitbook/assets/Connected Accounts (3).png>)
 
 5\. To connect to any other social account, such as Google, navigate to the respective card under **Social Accounts** and click **Connect** under the card.
 
-6\. Click ![](<../../.gitbook/assets/image (4).png>)icon if you want to delete your connected accounts.
+6\. Click ![](<../../.gitbook/assets/image (30).png>)icon if you want to delete your connected accounts.
 

@@ -37,9 +37,9 @@ In this case you will have your membership to be renewed automatically.
 
 ![Not Enrolled Status](<../../../.gitbook/assets/not enrolled.png>)
 
-![Enrolled and Expiring Soon Status](<../../../.gitbook/assets/image (81).png>)
+![Enrolled and Expiring Soon Status](<../../../.gitbook/assets/image (13).png>)
 
-![Enrolled and Expired Status](<../../../.gitbook/assets/image (62).png>)
+![Enrolled and Expired Status](<../../../.gitbook/assets/image (79).png>)
 
 3\. **Auto Renew:**
 
@@ -55,12 +55,12 @@ Disabling the auto renew, allow you to **renew manually**.
 
 To \*\*\*\* view the purchase history of your enrollments; you have to look at the **purchase history section** from "My Profile" page
 
-![Menu Access to "My Profile"](<../../../.gitbook/assets/image (64).png>)
+![Menu Access to "My Profile"](<../../../.gitbook/assets/image (66).png>)
 
-![My Transaction Section (My Profile)](<../../../.gitbook/assets/image (23).png>)
+![My Transaction Section (My Profile)](<../../../.gitbook/assets/image (9).png>)
 
 6\. To view all individual projects that you have enrolled in from my profile.
 
 You can view the projects that you have enrolled in from my profile (My Individual Enrollments Section), with the status of your enrollments.
 
-![Individual Enrollment Section (My Profile)](<../../../.gitbook/assets/image (33).png>)
+![Individual Enrollment Section (My Profile)](<../../../.gitbook/assets/image (67).png>)

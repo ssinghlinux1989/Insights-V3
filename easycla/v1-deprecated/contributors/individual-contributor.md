@@ -28,7 +28,7 @@ The CLA Contributor Console appears and shows the CLA group for your project. Th
 
 5\. Click **Individual** and then click **OPEN CLA**.
 
-![](<../../../.gitbook/assets/individual cla (1).png>)
+![](<../../../.gitbook/assets/individual cla.png>)
 
 DocuSign presents the agreement that you must sign. The ICLA is not tied to any employer you may have, so enter your @personal address in the E-Mail field.
 

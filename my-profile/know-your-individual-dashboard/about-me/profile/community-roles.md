@@ -14,4 +14,4 @@ The **Community** **Roles** are populated automatically based on the individual'
 
 If you are a point of contact on behalf of your company, which is a partner of the Linux Foundation and its projects, then your role in the context of your employer's participation in the project is also displayed. These roles are assigned by your company administrator during the membership enrollment process.
 
-<figure><img src="../../../../.gitbook/assets/Community Roles (1).PNG" alt=""><figcaption><p>community roles</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Community Roles.PNG" alt=""><figcaption><p>community roles</p></figcaption></figure>

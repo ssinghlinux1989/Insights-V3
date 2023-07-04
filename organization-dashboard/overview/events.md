@@ -19,7 +19,7 @@ The events tab provides you the information on the following:
   * Top 5 events which had highest number of speakers
   * Top 5 speakers of the events
 
-<figure><img src="../../.gitbook/assets/ev1.png" alt=""><figcaption><p>Events</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ev1 (1).png" alt=""><figcaption><p>Events</p></figcaption></figure>
 
 ## Events Widget
 

@@ -19,14 +19,14 @@ To enable or disable a repository for vulnerability scan, perform the following 
 You can also navigate to Security from the Vertical Sidebar navigation menu. Click **LFX Tools** and then select **Security**.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Sec2 (3).png" alt=""><figcaption><p>Security</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Sec2 (2).png" alt=""><figcaption><p>Security</p></figcaption></figure>
 
 3.The Security page appears. Click **Manage Vulnerabilities** tab, all repositories of the project are listed in alphabetical order.
 
 ![Manage Vulnerabilities](../../../.gitbook/assets/MV.png)
 
 {% hint style="info" %}
-The fail scan details for the repository such as time and date of the is displayed when you click the <img src="../../../.gitbook/assets/Info (1).png" alt="" data-size="line"> icon.
+The fail scan details for the repository such as time and date of the is displayed when you click the <img src="../../../.gitbook/assets/Info.png" alt="" data-size="line"> icon.
 {% endhint %}
 
 4.Under **Scan Vulnerabilities** tab, toggle **scan** button to enable or disable a repository from scanning.
@@ -42,7 +42,7 @@ You can also enable or disable scanning for all repositories by toggle of **Scan
 When the scan of the repository is successful, it is displayed as **Successful** and if there are any errors, it will be displayed as **Failed**.
 
 {% hint style="info" %}
-The fail scan details for the repository such as time and date of the is displayed when you click the <img src="../../../.gitbook/assets/Info.png" alt="" data-size="line"> icon.
+The fail scan details for the repository such as time and date of the is displayed when you click the <img src="../../../.gitbook/assets/Info (1).png" alt="" data-size="line"> icon.
 {% endhint %}
 
 ![Last Scan Results](../../../.gitbook/assets/MV3.png)

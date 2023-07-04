@@ -12,7 +12,7 @@ The **My Profile** section provides details, such as your name, profile image, y
 
 The status shows your profile's progress. It shows the steps that are required to be completed before profile completion.
 
-<figure><img src="../../../../.gitbook/assets/profile progress (1).PNG" alt=""><figcaption><p>Profile Progress</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/profile progress.PNG" alt=""><figcaption><p>Profile Progress</p></figcaption></figure>
 
 #### 3. Connect accounts
 
@@ -47,7 +47,7 @@ Click **Add Email Address** to add your other Email addresses**.**
 <figure><img src="../../../../.gitbook/assets/review your email.png" alt=""><figcaption><p><strong>Add your Email Addresses</strong></p></figcaption></figure>
 
 {% hint style="info" %}
-![](../../../../.gitbook/assets/image.png) shows that the Email address is your primary Email address.
+![](<../../../../.gitbook/assets/image (45).png>) shows that the Email address is your primary Email address.
 {% endhint %}
 
 #### 5. About Me
@@ -81,7 +81,7 @@ Your affiliations also get published to **LFX Insights Community** Dashboards an
 
 To connect your LinkedIn account with your LF account, follow these steps:
 
-1. Click ![](<../../../../.gitbook/assets/image (1).png>) icon on the profile complete page.
+1. Click ![](<../../../../.gitbook/assets/image (46).png>) icon on the profile complete page.
 2. On the LinkedIn login page, enter your credentials. Click **Sign in.**
 
 <figure><img src="../../../../.gitbook/assets/linkedIn sign in.PNG" alt=""><figcaption><p>LinkedIn login page </p></figcaption></figure>
@@ -94,7 +94,7 @@ To connect your LinkedIn account with your LF account, follow these steps:
 
 To connect your GitHub account with your LF account, follow these steps:
 
-1. Click ![](<../../../../.gitbook/assets/image (2).png>) icon on the profile completion page.
+1. Click ![](<../../../../.gitbook/assets/image (1).png>) icon on the profile completion page.
 2. on the next page, authorize your GitHub account.
 
 {% hint style="info" %}

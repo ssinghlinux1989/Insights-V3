@@ -1,7 +1,7 @@
 # Filter Metrics Visualizations
 
 On a project dashboard, click **Get Short URL**, and click the icon next to the URL to copy the link of a respective dashboard for a project.\
-![](<../../../.gitbook/assets/get short url (1).png>)
+![](<../../../.gitbook/assets/get short url.png>)
 
 Refer the following to filter different metrics cards:
 

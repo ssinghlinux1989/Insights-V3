@@ -17,7 +17,7 @@ Insights platform shows Trends dashboard, and project and project group cards, i
 
 A project is a standalone project maintained by The Linux Foundation. Under **View All Projects**, click the project name or **Go to Overview** to navigate to the project dashboard.
 
-![Project Overview](<../../.gitbook/assets/project overview.png>)
+![Project Overview](<../../.gitbook/assets/project overview (1).png>)
 
 Each project card shows the following information:
 
@@ -28,7 +28,7 @@ Each project card shows the following information:
 * **Commits** shows the total number of commits to the project.
 * **Repositories** shows the total number of repositories created for the project.
 * **Lines of Code** shows total number of lines of code added and modified for the project repository.
-* **Data Sources** shows the logos of different data sources, such as <img src="../../.gitbook/assets/18088191 (4) (3) (4).png" alt="" data-size="line"> for GitHub and/or Gerrit, <img src="../../.gitbook/assets/18088260 (3) (3) (3) (3) (1) (1) (2) (1).png" alt="" data-size="line"> for Jira, or <img src="../../.gitbook/assets/18088264 (2) (2) (2) (2) (1) (1) (2).png" alt="" data-size="line"> for Slack, and so on.
+* **Data Sources** shows the logos of different data sources, such as <img src="../../.gitbook/assets/18088191 (4) (3) (2).png" alt="" data-size="line"> for GitHub and/or Gerrit, <img src="../../.gitbook/assets/18088260 (3) (3) (3) (3) (1) (1) (2) (1).png" alt="" data-size="line"> for Jira, or <img src="../../.gitbook/assets/18088264 (2) (2) (2) (2) (1) (1) (2).png" alt="" data-size="line"> for Slack, and so on.
 
 ### Project Group
 
@@ -48,7 +48,7 @@ Each card shows the following information:
 * **Projects** ![](../../.gitbook/assets/18088267.png)shows the logos of sub-projects under the project group.
 
 On a project dashboard, click **Get Short URL**, and click the icon next to the URL to copy the link of a respective dashboard for a project.\
-![](<../../.gitbook/assets/get short url (1).png>)
+![](<../../.gitbook/assets/get short url.png>)
 
 ## **Insights Features**
 

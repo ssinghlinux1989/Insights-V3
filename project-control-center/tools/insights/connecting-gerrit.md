@@ -52,7 +52,7 @@ Tags will allows you to group bunch of repositories. This will allow you to  hav
 
 To add tags, preform the following steps:
 
-1 Click the <img src="../../../.gitbook/assets/PL Ico.png" alt="" data-size="line"> icon listed next to the repository.&#x20;
+1 Click the <img src="../../../.gitbook/assets/PL Ico (1).png" alt="" data-size="line"> icon listed next to the repository.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Plus Rep.png" alt=""><figcaption><p>Tags</p></figcaption></figure>
 

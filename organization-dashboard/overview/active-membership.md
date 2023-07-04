@@ -14,7 +14,7 @@ The active membership table in the dashboard provides you the following details:
 * When you click **View Membership Summary**, the Membership Summary page appears that provides you details related to all active membership associated with your organization. For more information, refer [Active Membership in your Organization](https://docs.linuxfoundation.org/lfx/organization-dashboard-pre-release/my-organization/membership-summary/active-memberships-in-your-organization).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Mem.png" alt=""><figcaption><p>Active Membership</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Mem (2).png" alt=""><figcaption><p>Active Membership</p></figcaption></figure>
 
 {% hint style="info" %}
 Total active membership is also displayed on top of the dashboard below your company name.

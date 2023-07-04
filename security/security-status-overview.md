@@ -27,7 +27,7 @@ To access Security Overview page, perform the following:
 
 2.The Landing page appears. Go to your required project and click **View Dashboard**.
 
-![View Dashboard](../.gitbook/assets/View\_Dashboard.png)
+![View Dashboard](<../.gitbook/assets/View\_Dashboard (1).png>)
 
 3.By default, you will see the **Overview** page.
 
@@ -65,13 +65,13 @@ A project's criticality score defines the influence and importance of a project.
 * Number of months when the project was last updated
 * Number of dependents of your project
 
-![Project Criticality Score](<../.gitbook/assets/PC (2).png>)
+![Project Criticality Score](../.gitbook/assets/PC.png)
 
 ## Code Secrets Detected
 
 Code Secrets Detected donut chart provides you the number of code secrets detected in the project. It shows you various code secrets detected in the project. On click of the detected code secret, the page navigates to the Code Secret details page.
 
-![Code Secrets  Detected](<../.gitbook/assets/Code Secret (1).gif>)
+![Code Secrets  Detected](<../.gitbook/assets/Code Secret (3).gif>)
 
 ## Recent Alerts
 
@@ -83,7 +83,7 @@ Recent Alerts provides you with list of code secrets alerts. This list provides 
 
 The Non Inclusive Language cloud chart displays the list of non inclusive words that are used in the project.
 
-![Non Inclusive Language](../.gitbook/assets/NIL.png)
+![Non Inclusive Language](<../.gitbook/assets/NIL (1).png>)
 
 ## Vulnerabilities Detected
 

@@ -26,9 +26,9 @@ To setup the GitHub account to your project, perform the following steps:
 You can also navigate to Source Control from the Vertical Sidebar navigation menu. Click **IT Services** and then select **Development**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/SC1 (2).png" alt=""><figcaption><p>Source Control</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SC1.png" alt=""><figcaption><p>Source Control</p></figcaption></figure>
 
-3.The Source Control page appears. Click **GitHub** and click the <img src="../../.gitbook/assets/PL Ico (1).png" alt="" data-size="line"> icon available in front of **Connect**.
+3.The Source Control page appears. Click **GitHub** and click the <img src="../../.gitbook/assets/PL Ico.png" alt="" data-size="line"> icon available in front of **Connect**.
 
 ![GitHub](https://gblobscdn.gitbook.com/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MMBvrEsjsliBZECYf7t%2F-MMByCcDTjZ9B5Zxy5DQ%2FConnect.png?alt=media\&token=0891165d-b8cb-48a3-9253-6880ae5511dd)
 
@@ -47,10 +47,45 @@ Make sure to enter a valid GitHub organization name.
 
 5.Once the connection is setup, you can see the status of GitHub project and its repositories.
 
-![GitHub Status](https://gblobscdn.gitbook.com/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MMBvrEsjsliBZECYf7t%2F-MMBzrTuxMl6EmxWkMKU%2FStatus.png?alt=media\&token=0e6568b7-142b-4b7b-b899-50119dd69a8f)
+<figure><img src="../../.gitbook/assets/Status.png" alt=""><figcaption><p>GitHub Status</p></figcaption></figure>
 
 {% hint style="danger" %}
 If the Organization name is changed in the GitHub, you need to connect the renamed organization again. The renamed organization won't be automatically connected even though the organization with the old name was connected.
+{% endhint %}
+
+### Setup GitHub Repositories  <a href="#invite-users-to-organization" id="invite-users-to-organization"></a>
+
+You can manually add the repositories to the configured GitHub server.&#x20;
+
+To add repositories to the GitHub server, perform the following steps:
+
+1.Go to the GitHub server in the Source Control and click **+ Add Repository**. &#x20;
+
+<figure><img src="../../.gitbook/assets/DCO1 (2).png" alt=""><figcaption><p>Add Repository</p></figcaption></figure>
+
+2.The Add Repository dialog box appears. Enter the **Repository Name, Website,** **Description**. Click **Add** to add the repository. &#x20;
+
+{% hint style="info" %}
+You can also enable the DCO, Issues and Wiki by using the **Enable DCO**, **Enable Issues** and **Enable Wiki** toggle button respectively.&#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/DCO - Copy.png" alt=""><figcaption><p>Repository Details </p></figcaption></figure>
+
+{% hint style="warning" %}
+You have to install the DCO app before enabling the DCO on the repository. Refer [GitHub DCO ](https://githttps/github.com/apps/dcohub.com/apps/dco)for configuration. After configuring the DCO in GitHub, you can enable the DCO in the PCC.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+Enabling DCO in the PCC:
+
+* Adds branch protection rules for the default branch, so that PRs must be made before changes can be merged.
+* It adds a required DCO status check for PRs
+
+&#x20;
+{% endhint %}
+
+{% hint style="warning" %}
+If the DCO app is not installed and configured for the organization before DCO is enabled on a repository, all changes to the default branch will be blocked until the app is added.&#x20;
 {% endhint %}
 
 ### Invite The Linux Foundation user to your Organization <a href="#invite-users-to-organization" id="invite-users-to-organization"></a>
@@ -83,7 +118,7 @@ To delete the GitHub organization that is added in the PCC, perform the followin
 
 ![GitHub Organization](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwCcGG1dBv-of9Ain%2FG1.png?alt=media\&token=3650f3de-977b-4541-a4d9-5cf6b3ef5dc2)
 
-4.Click the ![](<../../.gitbook/assets/Setting .png>) icon and click **Disassociate**.
+4.Click the ![](<../../.gitbook/assets/Setting  (1).png>) icon and click **Disassociate**.
 
 ![](https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MT\_pAMg4FUQlUpKbPvg%2F-MWSsYEQB2dSZ8dYMPfb%2F-MWSwaLjn4A4gyhFMSNm%2FG2.png?alt=media\&token=d324770c-e5df-4ecf-9707-809e592496af)
 
@@ -107,7 +142,7 @@ To setup the GitLab account to your project, perform the following steps:
 You can also navigate to Source Control from the Vertical Sidebar navigation menu. Click **IT Services** and then select **Development**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/SC1 (1).png" alt=""><figcaption><p>Source Control</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SC1 (2).png" alt=""><figcaption><p>Source Control</p></figcaption></figure>
 
 3.The Source Control page appears. Click **GitLab** and click the![](https://firebasestorage.googleapis.com/v0/b/gitbook-legacy-files/o/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MM6s2eHhjQ\_tQZBLg-r%2F-MM6sWbUBHCbO-u3210L%2FIcon.png?alt=media\&token=5797d8be-df9f-4f97-bb25-6c699e9d6253) icon available in front of **Connect**.
 
@@ -137,7 +172,7 @@ Gerrit is a web-based code review tool, which is integrated with Git and built o
 You can also navigate to Source Control from the Vertical Sidebar navigation menu. Click **Development** and then select **Source Control**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/SC1.png" alt=""><figcaption><p>Source Control</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SC1 (1).png" alt=""><figcaption><p>Source Control</p></figcaption></figure>
 
 3.The Source Control page appears. Click **Gerrit** and then click **File Ticket** to submit a ticket to configure Gerrit server for your project.&#x20;
 
@@ -175,7 +210,7 @@ You can update the repository name and other changes with respect to the listed 
 
 To update the repository details, perform the following steps:
 
-1.Go to the required repository and click the ellipsis  <img src="../../.gitbook/assets/Icon (7).png" alt="" data-size="line">icon and select Edit Repository.&#x20;
+1.Go to the required repository and click the ellipsis  <img src="../../.gitbook/assets/Icon (5).png" alt="" data-size="line">icon and select Edit Repository.&#x20;
 
 <figure><img src="../../.gitbook/assets/Edit Repo.png" alt=""><figcaption><p>Edit Repository</p></figcaption></figure>
 
@@ -185,7 +220,7 @@ To update the repository details, perform the following steps:
 
 ### Making a Repository as Writeable or Readable&#x20;
 
-You can set a repository as readable from writeable or from writeable to readable. To set the repository as readable or writeable, click the ellipsis <img src="../../.gitbook/assets/Icon.png" alt="" data-size="line"> icon and select **Set Repository as Readable** or **Set Repository as Writeable**.&#x20;
+You can set a repository as readable from writeable or from writeable to readable. To set the repository as readable or writeable, click the ellipsis <img src="../../.gitbook/assets/Icon (6).png" alt="" data-size="line"> icon and select **Set Repository as Readable** or **Set Repository as Writeable**.&#x20;
 
 {% hint style="info" %}
 When the repository is set as Writeable, the Read-only column is set as **Yes** and when the repository is set as Readable, the Read-only column is set to **No**.&#x20;
@@ -195,12 +230,12 @@ When the repository is set as Writeable, the Read-only column is set as **Yes** 
 
 ### Hiding a Repository and Restrict All  Access&#x20;
 
-You can hide a repository and restrict all access to the repository by clicking the ellipsis <img src="../../.gitbook/assets/Icon (5).png" alt="" data-size="line"> icon and selecting the **Hide Repository and Restrict All Access**.&#x20;
+You can hide a repository and restrict all access to the repository by clicking the ellipsis <img src="../../.gitbook/assets/Icon (4).png" alt="" data-size="line"> icon and selecting the **Hide Repository and Restrict All Access**.&#x20;
 
 <figure><img src="../../.gitbook/assets/Hide Repo.png" alt=""><figcaption><p>Hide Repository </p></figcaption></figure>
 
 ### Deleting a Repository&#x20;
 
-You can delete the listed repository by clicking the ellipsis <img src="../../.gitbook/assets/Icon (5).png" alt="" data-size="line"> icon and selecting the **Delete Repository**.
+You can delete the listed repository by clicking the ellipsis <img src="../../.gitbook/assets/Icon (4).png" alt="" data-size="line"> icon and selecting the **Delete Repository**.
 
 <figure><img src="../../.gitbook/assets/Del Repo.png" alt=""><figcaption><p>Delete Repository </p></figcaption></figure>

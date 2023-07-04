@@ -9,4 +9,4 @@ As a CLA manager, sign in to the EasyCLA Corporate Console to add your company t
 
     The CLA Corporate Console appears and shows Companies.
 
-![cla corporate console](<../../../.gitbook/assets/cla corporate console (1).png>)
+![cla corporate console](<../../../.gitbook/assets/cla corporate console.png>)

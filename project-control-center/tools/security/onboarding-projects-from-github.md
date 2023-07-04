@@ -16,7 +16,7 @@ You can also navigate to Security from the Vertical Sidebar navigation menu. Cli
 
 <figure><img src="../../../.gitbook/assets/Sec2 (5).png" alt=""><figcaption><p>Security</p></figcaption></figure>
 
-3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](<../../../.gitbook/assets/Icon (8).png>) icon available next to **Connect**.
+3.The Security page appears. From the **GitHub Onboarding** tab, click the ![](<../../../.gitbook/assets/Icon (13).png>) icon available next to **Connect**.
 
 ![GitHub Onboarding](../../../.gitbook/assets/GitHub.png)
 
@@ -161,7 +161,7 @@ To associate an individual repository, perform the following:
 
 2.Select the required project and click **Security** from the **LFX Tools** dropdown menu.
 
-<figure><img src="../../../.gitbook/assets/Sec2 (2).png" alt=""><figcaption><p>Security</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Sec2 (3).png" alt=""><figcaption><p>Security</p></figcaption></figure>
 
 {% hint style="info" %}
 Make sure you see **Security bot configured** status under **Configuration Status** column. You can only select the required repository if the security bot is configured. \\
@@ -171,4 +171,4 @@ If the status shows as **Security bot not configured**, you cannot select the re
 
 3\. Select the required individual repository from the **Assigned to Project** column that you want to assign to the project.
 
-![Repository Selection](<../../../.gitbook/assets/Select Sec.png>)
+![Repository Selection](<../../../.gitbook/assets/Select Sec (1).png>)

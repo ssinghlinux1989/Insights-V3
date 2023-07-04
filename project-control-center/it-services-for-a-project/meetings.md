@@ -17,7 +17,7 @@ The Meeting Management widget provides you the following details:
 
 You can view the meetings either in **List View** or in **Calendar View**. List view provides list of meetings that are scheduled and the Calendar view shows the scheduled meetings in a calendar.
 
-<figure><img src="../../.gitbook/assets/Meeting View (1).gif" alt=""><figcaption><p>Meeting View</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Meeting View.gif" alt=""><figcaption><p>Meeting View</p></figcaption></figure>
 
 ### Scheduling a Meeting
 
@@ -68,7 +68,7 @@ In the Meeting list, **Host Key** will be a blank field until the time is one ho
 <figure><img src="../../.gitbook/assets/Host Key.png" alt=""><figcaption><p>Host Key</p></figcaption></figure>
 
 {% hint style="info" %}
-When the meeting is within one hour of the scheduled time, the Host Key appears as a masked key. You can click the <img src="../../.gitbook/assets/Eye.png" alt="" data-size="line">  icon to see the host copy and click the <img src="../../.gitbook/assets/Copy.png" alt="" data-size="line"> icon to copy the host key.&#x20;
+When the meeting is within one hour of the scheduled time, the Host Key appears as a masked key. You can click the <img src="../../.gitbook/assets/Eye.png" alt="" data-size="line">  icon to see the host copy and click the <img src="../../.gitbook/assets/Copy (1).png" alt="" data-size="line"> icon to copy the host key.&#x20;
 {% endhint %}
 
 ![Host  Key](../../.gitbook/assets/Meetings\_Host.gif)
@@ -168,7 +168,7 @@ To remove the participant, perfrom the following steps:
 
 4.A confirmation dialog box appears. Click **Delete** to remove the participant.&#x20;
 
-<figure><img src="../../.gitbook/assets/Del.png" alt=""><figcaption><p>Delete </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Del (1).png" alt=""><figcaption><p>Delete </p></figcaption></figure>
 
 ### Share Meeting&#x20;
 
@@ -180,7 +180,7 @@ To share a public meeting, perform the following steps:
 
 <figure><img src="../../.gitbook/assets/Share.png" alt=""><figcaption><p>Share Meeting</p></figcaption></figure>
 
-2.The Share Meeting pop message appears. Click the Copy <img src="../../.gitbook/assets/Copy (1).png" alt="" data-size="line"> icon to copy the meeting link and click **OK**.
+2.The Share Meeting pop message appears. Click the Copy <img src="../../.gitbook/assets/Copy.png" alt="" data-size="line"> icon to copy the meeting link and click **OK**.
 
 <figure><img src="../../.gitbook/assets/Share Mee.png" alt=""><figcaption><p>Meeting Link  </p></figcaption></figure>
 

@@ -20,7 +20,7 @@ To access code secrets for a project or repository, perform the following steps:
 
 1.Login to [LFX Security](https://security.lfx.linuxfoundation.org) and select the required project and click **View Dashboard**.
 
-![View Dashboard](<../.gitbook/assets/View\_Dashboard (1).png>)
+![View Dashboard](../.gitbook/assets/View\_Dashboard.png)
 
 2.Select **Code Secrets** from the top menu. The Code secrets are listed under the **CODE SECRETS EXPOSED** tab.
 
@@ -49,7 +49,7 @@ To check the details related to the listed code secrets, perform the following s
 
 2\. Click the ![](../.gitbook/assets/IC.png)icon listed in front of Take Action.
 
-![Code Secrets Details](<../.gitbook/assets/CS Details (1).png>)
+![Code Secrets Details](<../.gitbook/assets/CS Details.png>)
 
 3\. The code secret details box appears with a list of all the details related to the code secret. The following details are available for you to check out:
 
@@ -79,7 +79,7 @@ To perform actions on the code secrets, perform the following steps:
 
 2\. Click the ![](../.gitbook/assets/IC.png) icon listed in front of Take Action.
 
-![Code Secret](<../.gitbook/assets/CS Details (1).png>)
+![Code Secret](<../.gitbook/assets/CS Details.png>)
 
 3\. The code secret details box appears with a list of all the details related to the code secret. Click **Actions** and select the required action to be performed for the listed code secret.
 

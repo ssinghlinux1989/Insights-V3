@@ -4,7 +4,7 @@
 By default, Bot Commits and Issues Only are filtered. Dashboard shows data only for number of issues, not for comments, and other values. You can include these filter values by navigating to the filter section of dashboard. For details, see [Add and Manage Data Filters](../../filter-data/add-and-manage-data-filters.md).
 {% endhint %}
 
-Click ![](<../../../../.gitbook/assets/get short url.png>) to copy the path of respective dashboards.
+Click ![](<../../../../.gitbook/assets/get short url (1).png>) to copy the path of respective dashboards.
 
 The Jira dashboards under **Issue Management** represents a set of metrics that shows an analysis of Jira issues . Following are the various dashboards of Jira dashboard:
 
@@ -46,7 +46,7 @@ Overview shows information about issues in repositories and who submitted the is
 
 **Issues By Organization** shows a table that lets you sort values by organization name, number of issues, submitters, assignees, average number of watchers, and average time in days to close the issues over time.
 
-***
+
 
 ## Effort
 

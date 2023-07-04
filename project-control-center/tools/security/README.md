@@ -11,4 +11,4 @@ The Security service tool allows you to perform the following:
 
 For more information on Security Services, visit [Security Documentation](https://docs.linuxfoundation.org/lfx/security).
 
-<figure><img src="../../../.gitbook/assets/Sec2 (4).png" alt=""><figcaption><p>Security</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Sec2 (1).png" alt=""><figcaption><p>Security</p></figcaption></figure>

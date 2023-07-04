@@ -49,7 +49,7 @@ To add a new member to the mailing list, perform the following steps:
 
 1.Go to the Mailing List and click on the **Members** listed in the Mailing List.
 
-![Add Member](../../.gitbook/assets/Member1.png)
+![Add Member](<../../.gitbook/assets/Member1 (1).png>)
 
 2\. The Manage List Members page appears with list of members available in the mailing list. Click **+ Add New List Member** to add a new member to the mailing list.
 

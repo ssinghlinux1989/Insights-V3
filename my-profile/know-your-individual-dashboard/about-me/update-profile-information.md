@@ -10,7 +10,7 @@ To change your basic information, such as name, email address, postal address, a
 
 2\. From left side navigation pane click the arrow ![](../../../.gitbook/assets/arrow.png) to expand, and navigate to **Profile > Basic Information**.
 
-![Profile Information](<../../../.gitbook/assets/profile information (2).png>)
+![Profile Information](<../../../.gitbook/assets/profile information (1).png>)
 
 2\. Under **Basic Information** section, you can update the following details:
 

@@ -8,12 +8,12 @@ You can add, edit, or delete an organization to sponsor a fund on behalf of the 
     \*\*\*\*\
     ![](../../../.gitbook/assets/7418578.png)\\
 
-    ***
+
 2. Complete the dialog fields and click **Submit.**\
    \*\*\*\*\
-   \*\*\*\*![](<../../../.gitbook/assets/7418586 (1).png>)\
+   \*\*\*\*![](<../../../.gitbook/assets/7418586 (3).png>)\
    You are returned to the New Donation dialog. The organization is pending review by Linux Foundation.\
-   ![](<../../../.gitbook/assets/7418599 (3) (1).png>)\
+   ![](<../../../.gitbook/assets/7418599 (3) (2).png>)\
    **Note:** After your organization is approved by Linux Foundation, you can see the name in the list.\\
 3. Select **Edit** if you want to edit or delete the organization.
 

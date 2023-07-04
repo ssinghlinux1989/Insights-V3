@@ -21,7 +21,7 @@ To update basic information for a project, perform the following steps:
 You can also navigate to Project Definitions from the Vertical Sidebar navigation menu. Click **Operations** and then select **Project Definition**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Pro Def (1).png" alt=""><figcaption><p>Project Defination</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pro Def.png" alt=""><figcaption><p>Project Defination</p></figcaption></figure>
 
 3.The Basic page appears. Click **Edit** available in the Basic tab.
 
@@ -54,7 +54,7 @@ To update branding information for a project, perform the following steps:
 
 1.Click on the required project and click **Project Definition** .
 
-<figure><img src="../../.gitbook/assets/Def.png" alt=""><figcaption><p>Project Definition</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Def (1).png" alt=""><figcaption><p>Project Definition</p></figcaption></figure>
 
 2\. Click **Edit** from the Branding and Media section to update branding details.
 
@@ -72,7 +72,7 @@ To update personnel information for a project, perform the following steps:
 
 1.Click on the required project and click **Project Definition** .
 
-<figure><img src="../../.gitbook/assets/Def.png" alt=""><figcaption><p>Project Definition</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Def (1).png" alt=""><figcaption><p>Project Definition</p></figcaption></figure>
 
 2\. Click **Edit** from the Personnel section to update personnel details.
 

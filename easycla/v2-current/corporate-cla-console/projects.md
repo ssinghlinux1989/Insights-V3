@@ -82,6 +82,6 @@ Shows the child projects that have EasyCLA enabled. Click **View Details** to na
 
 If your company has not yet signed a CCLA for a project, the following screen will appear.
 
-![CLA not signed](<../../../.gitbook/assets/company has not signed cla (1).png>)
+![CLA not signed](<../../../.gitbook/assets/company has not signed cla.png>)
 
 For details about signing a CCLA, see [Getting Started](../../v1-deprecated/getting-started/) and [coordinating signing a CCLA](https://github.com/communitybridge/docs/blob/master/easycla/v2-current/corporate-cla-console/broken-reference/README.md).

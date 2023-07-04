@@ -207,7 +207,7 @@ Administrator has an option to remove an employee from a project. &#x20;
 
 To remove an employee from the project, perform the following steps:
 
-1.Click the ellipsis <img src="../.gitbook/assets/Icon (9).png" alt="" data-size="line"> icon and select **Remove from Organization**.&#x20;
+1.Click the ellipsis <img src="../.gitbook/assets/Icon (12).png" alt="" data-size="line"> icon and select **Remove from Organization**.&#x20;
 
 <figure><img src="../.gitbook/assets/Remove .png" alt=""><figcaption><p>Remove Employee</p></figcaption></figure>
 

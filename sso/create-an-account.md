@@ -12,7 +12,7 @@ When you log in for the first time to any Linux Foundation managed service that 
 You can also sign in using one of the options given on the **SIGNIN** page. For more information, see [Sign in options](sign-in/) .
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/New SSO.png" alt="Create an account signin page"><figcaption><p>Create an account</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/New SSO (1).png" alt="Create an account signin page"><figcaption><p>Create an account</p></figcaption></figure>
 
 3\. On the **CREATE YOUR ACCOUNT** page, enter your first name, last name, Email address, username, and password. Click **Create Account** CTA button.
 

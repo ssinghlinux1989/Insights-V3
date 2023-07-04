@@ -24,7 +24,7 @@ You may need to consult with your management or legal department for guidance on
 
 4\. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
 
-![](<../../../.gitbook/assets/company has not signed cla.png>)
+![](<../../../.gitbook/assets/company has not signed cla (1).png>)
 
 * **Yes:** You _are_ going to be your company's initial CLA Manager. Continue to next step.
 * **No:** [Designate someone else as the initial CLA Manager](coordinate-signing-cla-and-become-initial-cla-manager.md#designating-another-initial-cla-manager).
@@ -70,7 +70,7 @@ You will now be able to [approve contributors](approve-and-manage-contributors.m
 
 If you clicked **No** in step 4 above, the **Identify CLA Manager** form appears:
 
-![](<../../../.gitbook/assets/identify cla manager.png>)
+![](<../../../.gitbook/assets/identify cla manager (1).png>)
 
 Enter the name and email address of the person who should be the initial CLA Manager, and click **Submit Request**.
 

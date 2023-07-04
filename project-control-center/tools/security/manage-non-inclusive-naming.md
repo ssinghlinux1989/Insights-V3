@@ -14,11 +14,11 @@ To add non inclusive words, perform the following steps:
 You can also navigate to Security from the Vertical Sidebar navigation menu. Click **LFX Tools** and then select **Security**.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Sec2.png" alt=""><figcaption><p>Security</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Sec2 (4).png" alt=""><figcaption><p>Security</p></figcaption></figure>
 
 3.The Security page appears. From the **Manage Inclusive Naming** tab, click **Proceed**.
 
-![Manage Non Inclusive Names](../../../.gitbook/assets/Non\_Inclusive\_Language.png)
+![Manage Non Inclusive Names](<../../../.gitbook/assets/Non\_Inclusive\_Language (1).png>)
 
 4.Enter the non inclusive word in the **Add word** box and click **+Add**. The added non inclusive words are listed under NON-INCLUSIVE LANGUAGE.
 
@@ -30,7 +30,7 @@ To delete a non inclusive word, perform the following steps:
 
 1.From the **Manage Inclusive Naming** tab, click ![](../../../.gitbook/assets/Del\_Icon.png) icon that you want to delete from the list.
 
-![Delete Non Inclusive Word](<../../../.gitbook/assets/Del (2).png>)
+![Delete Non Inclusive Word](../../../.gitbook/assets/Del.png)
 
 2\. The Delete Keyword dialog box appears. Click **Delete** to confirm the deletion of the word.
 

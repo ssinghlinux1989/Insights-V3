@@ -24,7 +24,7 @@ You cannot change the primary domain for the project, if you want to change the 
 You can update the details of the domain by click of the edit ![](../../.gitbook/assets/Edit\_Icon.png) icon.
 {% endhint %}
 
-![Add Domain](../../.gitbook/assets/Add\_Domains.png)
+![Add Domain](<../../.gitbook/assets/Add\_Domains (1).png>)
 
 4.The Add Domain dialog box appears. Enter the **Domain Name** and click the **Check Availability** button.
 
@@ -60,7 +60,7 @@ To setup a primary domain for a project, perform the following:
 
 3.The domain will be selected and listed as Primary Domain.
 
-<figure><img src="../../.gitbook/assets/PD2 (2).png" alt=""><figcaption><p>Primary Domain </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PD2 (1).png" alt=""><figcaption><p>Primary Domain </p></figcaption></figure>
 
 ## Redirecting a Domain
 
@@ -80,10 +80,10 @@ To redirect a domain from one domain to another domain, perform the following:
 
 4.The redirected domain is listed under **Existing Redirects** list.
 
-![Existing Redirect](<../../.gitbook/assets/Redirect list (1).png>)
+![Existing Redirect](<../../.gitbook/assets/Redirect list.png>)
 
 {% hint style="info" %}
-If you want to update the redirect domain, click the edit ![](<../../.gitbook/assets/Edit (2).png>) icon.
+If you want to update the redirect domain, click the edit ![](../../.gitbook/assets/Edit.png) icon.
 
 If you want to delete the redirect domain, click the delete ![](../../.gitbook/assets/Delete\_Icon.png) icon.
 {% endhint %}
@@ -118,7 +118,7 @@ To disable the auto renew of the domain, perform the following:
 
 2.The Disable auto renew dialog box appears. Click Yes to cancel the auto renewal of the domain.
 
-![Cancel Auto Renewal](<../../.gitbook/assets/Disabled (1).png>)
+![Cancel Auto Renewal](../../.gitbook/assets/Disabled.png)
 
 3\. A flyer message appears informing that the auto renewal of the domain is disabled. You can also see ![](<../../.gitbook/assets/Cross (1) (1) (1) (1).png>) icon under Auto Renew column.
 
@@ -172,7 +172,7 @@ To delegate the DNS through PCC, perform the following:
 
 1.Go to the Domains list and click the ![](../../.gitbook/assets/Dot\_Icon.png) icon and click **Delegate DNS (no managed DNS)**.
 
-![Delegate DNS](../../.gitbook/assets/DNS.png)
+![Delegate DNS](<../../.gitbook/assets/DNS (1).png>)
 
 2.The Delegate DNS server pop box appears. Provide the required **Name Servers** and select the **I Understand** statement and click **Delegate**.
 

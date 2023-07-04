@@ -4,7 +4,7 @@ To access the Linux Foundation's tools, you must sign in using your LF account c
 
 1\. On the **Sign In** window, enter your SSO account credentials and click **SIGN IN**.
 
-![](<../../.gitbook/assets/New SSO (1).png>)
+![](<../../.gitbook/assets/New SSO.png>)
 
 2\. The Single Sign-On service allows users to authenticate with social and external authentication providers instead of a username and a password.
 

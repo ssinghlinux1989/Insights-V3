@@ -196,7 +196,7 @@ This additional step is eliminated by implementing the Auto Enable Acknowledgeme
 
 If your company has not yet signed a CLA, the **No Signed CLA Found** window appears after selecting your company.
 
-![company has not signed cla](<../../../.gitbook/assets/company has not signed cla.png>)
+![company has not signed cla](<../../../.gitbook/assets/company has not signed cla (1).png>)
 
 1. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
 
@@ -226,7 +226,7 @@ If your company has not yet signed a CLA, the **No Signed CLA Found** window app
 ### **No (If someone else will become the initial CLA Manager)**
 
 1. An **Identify CLA Manager** window appears.\
-   ![](<../../../.gitbook/assets/identify cla manager (1).png>)
+   ![](<../../../.gitbook/assets/identify cla manager.png>)
 2. Complete the form, and click **Submit Request**. If you don't know the email address of the person who should become the CLA Manager of your company, then (unless you just created the company record) you can click the **Contact Company Admin** link, which may let you reach out to your company's LFX administrative contact if your company has set someone up with this role.
 3. Click **Exit EasyCLA**.\
    You can contribute after your company signs the project's CCLA, and the CLA Manager adds you to the approved list.

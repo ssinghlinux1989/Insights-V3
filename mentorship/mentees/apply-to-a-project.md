@@ -2,7 +2,7 @@
 
 1\. To apply to a mentorship program [Sign in](../../sso/sign-in/) to the [Mentorship](https://mentorship.lfx.linuxfoundation.org). If you haven't created a profile yet, click on **Become a Mentee** navigation menu.
 
-![](<../../.gitbook/assets/Become a Mentee (1).png>)
+![](<../../.gitbook/assets/Become a Mentee.png>)
 
 {% hint style="info" %}
 * Create a profile as described in [Create a Mentee Profile](create-a-mentee-profile.md) section.
