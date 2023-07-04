@@ -17,7 +17,7 @@ A Project card displays the following key metrics:
 * Participating organizations
 * Issue response time&#x20;
 * Average wait time for 1st review
-* Best practise score
+* Best practice score
 
 </details>
 
