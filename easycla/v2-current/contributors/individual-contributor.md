@@ -2,6 +2,11 @@
 
 An individual contributor is one who contributes code on their own behalf (and not on behalf of an employer). If you are contributing code on behalf of your employer, see the [Corporate Contributor](corporate-contributor.md) workflow.
 
+Please go through the [EasyCLA](https://easycla.lfx.linuxfoundation.org/#/) Website.
+Login through your LFID profile.
+
+Than Please Navigate through the developers section and select learn more , you will be redirected to a page , than select individiual contributor button.
+
 Upon creating a pull request in GitHub or GitLab or submitting changed code in Gerrit, EasyCLA will check whether the contributor is authorized under a signed CLA for that project. If they are not, and if they are contributing on their own behalf, then they must sign an ICLA.
 
 * [GitHub](individual-contributor.md#github)
