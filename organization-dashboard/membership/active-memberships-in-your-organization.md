@@ -5,11 +5,9 @@ Active Membership tab under Membership provides you an overview on the active me
 * Open source project name for which your organization has availed the membership.
 * Type of membership that your organization has purchased.
 * Renewal date of the membership.
-* A progressive graph that provides you the percentage of benefits that are available for your membership.
-* Number of contributors for the open source project from your organization.
-* Number of contributions for the open source project provided from your organization.
+* Benefits claimed from the membership.
 
-<figure><img src="../../.gitbook/assets/Member1.png" alt=""><figcaption><p>Active Membership</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Mem.png" alt=""><figcaption><p>Active Membership</p></figcaption></figure>
 
 ### Managing your Team
 
