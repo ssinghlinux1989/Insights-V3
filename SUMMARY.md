@@ -523,6 +523,7 @@
     * [Project Contributions](organization-dashboard/overview/project-contributions.md)
     * [Events](organization-dashboard/overview/events.md)
     * [Training and Certifications](organization-dashboard/overview/training-and-certifications.md)
+  * [Onboarding Widget](organization-dashboard/onboarding-widget.md)
   * [Membership](organization-dashboard/membership/README.md)
     * [Active Memberships in your Organization](organization-dashboard/membership/active-memberships-in-your-organization.md)
     * [Expired Membership in your Organization](organization-dashboard/membership/expired-membership-in-your-organization.md)
