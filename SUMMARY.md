@@ -94,6 +94,7 @@
       * [Drifting Away Contributors](insights/v3-current/productivity/drifting-away-contributors.md)
       * [Engagement Gap](insights/v3-current/productivity/engagement-gap.md)
       * [Effort By Pull Request Batch Size](insights/v3-current/productivity/effort-by-pull-request-batch-size.md)
+    * [Reports](insights/v3-current/reports.md)
     * [Troubleshooting and FAQs](insights/v3-current/troubleshooting-and-faqs.md)
     * [Glossary](insights/v3-current/glossary.md)
   * [V2](insights/v2/README.md)
