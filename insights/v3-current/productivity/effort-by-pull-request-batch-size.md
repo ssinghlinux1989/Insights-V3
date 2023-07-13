@@ -4,6 +4,8 @@ The **Effort By Pull Request Batch Size** metric analyzes the relationship betwe
 
 ### Interact with the chart
 
+<figure><img src="../../../.gitbook/assets/2023-07-13_15h19_15.png" alt=""><figcaption></figcaption></figure>
+
 ### Why is this metric important?
 
 * **Development Cycle Time:** The **Effort By Pull Request Batch Size** metric provides insights into the overall development cycle time. By analyzing the relationship between batch size and effort, you can identify trends that affect the time taken to review and merge pull requests.

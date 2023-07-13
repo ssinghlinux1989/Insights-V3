@@ -12,7 +12,7 @@ In a given time period if a contributor has commented 10 times on one or more PR
 
 ### Interact with the chart
 
-
+<figure><img src="../../../.gitbook/assets/2023-07-13_15h14_34.png" alt=""><figcaption></figcaption></figure>
 
 ### Why is this metric important?
 
