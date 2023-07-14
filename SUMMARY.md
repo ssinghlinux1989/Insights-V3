@@ -14,6 +14,7 @@
   * [Log Out](sso/sign-out.md)
 * [Individual Dashboard (MyProfile)](my-profile/README.md)
   * [Release Notes](my-profile/release-notes/README.md)
+    * [V0.7.0](my-profile/release-notes/v0.7.0.md)
     * [V0.6.25 and V0.6.26](my-profile/release-notes/v0.6.25-and-v0.6.26.md)
   * [Complete your LFX Profile](my-profile/complete-your-lfx-profile.md)
   * [Know your Individual Dashboard](my-profile/know-your-individual-dashboard/README.md)
