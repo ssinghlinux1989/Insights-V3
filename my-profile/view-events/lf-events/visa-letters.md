@@ -18,10 +18,10 @@ To apply for the new visa letter, follow these steps:
 <figure><img src="../../../.gitbook/assets/select_event.png" alt=""><figcaption><p>Select an event</p></figcaption></figure>
 
 {% hint style="info" %}
-If you have not registered for an event, then you must register else you cannot proceed further.
+If you have not registered for an event, then you must register for the event first.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Pop-up window</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2023-07-14_15h58_17.png" alt=""><figcaption><p>Pop-up window</p></figcaption></figure>
 
 5\. On the Terms and Conditions page, read the terms and conditions for the visa application and click **Next Step**.
 

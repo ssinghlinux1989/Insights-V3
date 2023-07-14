@@ -20,4 +20,4 @@ Commits include the following:
 * Commits Authored: These are the number of commits where the author of the commit is the selected user. The number is a hyperlink and on click opens a modal that shows the LOC ++ (added) and LOC --(deleted).
 * Commits Co-Authored: These are the number of commits where the user has been a co-author.
 
-For more information, see [commits](http://localhost:5000/s/zjggInQ6n1Ge9AlqC36U/).
+For more information, see [commits](http://127.0.0.1:5000/s/zjggInQ6n1Ge9AlqC36U/).

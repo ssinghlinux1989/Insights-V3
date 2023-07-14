@@ -8,7 +8,7 @@ Only organization administrators can edit and update organization information. Y
 
 Organization Profile displays the following sections:
 
-* ​[Organization Profile Header](http://localhost:5000/s/-M2DCN9UgoRgMEkgnLyP-3789850253/corporate-cla-console/manage-organization#organization-profile-header)​​[Team Member Roles - Services](http://localhost:5000/s/-M2DCN9UgoRgMEkgnLyP-3789850253/corporate-cla-console/manage-organization#team-member-roles-services)​
+* ​[Organization Profile Header](http://127.0.0.1:5000/s/-M2DCN9UgoRgMEkgnLyP-3789850253/corporate-cla-console/manage-organization#organization-profile-header)​​[Team Member Roles - Services](http://127.0.0.1:5000/s/-M2DCN9UgoRgMEkgnLyP-3789850253/corporate-cla-console/manage-organization#team-member-roles-services)​
 
 ## Organization Profile Header <a href="#organization-profile-header" id="organization-profile-header"></a>
 

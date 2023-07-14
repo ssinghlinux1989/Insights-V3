@@ -8,7 +8,7 @@ EasyCLA was previously enabled for a GitHub repository, but someone other than t
 
 ### Enable Branch Protection <a href="#enable-branch-protection" id="enable-branch-protection"></a>
 
-GitHub is set up to permit administrators and organization owners to have maximum flexibility, which includes disabling installed applications, such as EasyCLA. To avoid this, you must enable branch protection by [selecting the Enable Branch Protection check box](http://localhost:5000/s/-M2DCN9UgoRgMEkgnLyP-3789850253/easycla/getting-started/easycla-troubleshooting/easycla-is-disabled) after the GitHub organization is added to a project.
+GitHub is set up to permit administrators and organization owners to have maximum flexibility, which includes disabling installed applications, such as EasyCLA. To avoid this, you must enable branch protection by [selecting the Enable Branch Protection check box](http://127.0.0.1:5000/s/-M2DCN9UgoRgMEkgnLyP-3789850253/easycla/getting-started/easycla-troubleshooting/easycla-is-disabled) after the GitHub organization is added to a project.
 
 You can also add the branch protection rule manually, as described below:
 
