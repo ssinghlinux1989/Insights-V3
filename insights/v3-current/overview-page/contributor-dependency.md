@@ -6,7 +6,7 @@ Contributor dependency shows the relationship between contributors or entities w
 
 ### Analyze the chart
 
-<figure><img src="../../../.gitbook/assets/2023-06-24_17h50_48.gif" alt=""><figcaption><p>Contributor Dependency</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2023-07-14_16h08_18.gif" alt=""><figcaption><p>Contributor Dependency</p></figcaption></figure>
 
 ### Why is this metric important?
 
