@@ -78,7 +78,6 @@
       * [Best Practice Score](insights/v3-current/overview-page/best-practice-score/README.md)
         * [Checks](insights/v3-current/overview-page/best-practice-score/checks/README.md)
           * [Documentation Checks](insights/v3-current/overview-page/best-practice-score/checks/documentation-checks.md)
-          * [License Checks](insights/v3-current/overview-page/best-practice-score/checks/license-checks.md)
           * [Best Practices Checks](insights/v3-current/overview-page/best-practice-score/checks/best-practices-checks.md)
           * [Security Checks](insights/v3-current/overview-page/best-practice-score/checks/security-checks.md)
           * [Legal Checks](insights/v3-current/overview-page/best-practice-score/checks/legal-checks.md)
