@@ -1,5 +1,7 @@
 # Legal Checks
 
+### &#x20;<a href="#trademark-disclaimer" id="trademark-disclaimer"></a>
+
 ### Trademark disclaimer <a href="#trademark-disclaimer" id="trademark-disclaimer"></a>
 
 **ID**: `trademark_disclaimer`
