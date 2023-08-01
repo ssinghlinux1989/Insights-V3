@@ -1,8 +1,10 @@
 # Dashboard Overview
 
-The **landing page** dashboard provides you with all the important information about your analytics projects. It's designed to give you a quick overview of your data and help you navigate through the tool easily.
+The **home page** provides you with all the important information about your analytics projects. It is designed to give you a quick overview of your data and help you navigate through the tool easily.
 
-1. On the left side of the landing page, you'll find the navigation menus. These menus are like shortcuts that help you move around the tool.&#x20;
+
+
+1. On the left side of the landing page, you'll find the navigation menus. These menus are like shortcuts that help you move around the tool.
 
 {% hint style="info" %}
 On the left-side navigation menu, only the **Insights Dashboard** is active. Other menus are exciting features that will be integrated in the future.
@@ -10,7 +12,7 @@ On the left-side navigation menu, only the **Insights Dashboard** is active. Oth
 
 <figure><img src="../../../../.gitbook/assets/2023-06-22_18h02_35.png" alt=""><figcaption></figcaption></figure>
 
-2. **Select the Projects and Repositories:** The search box at the top of the main menu helps you to find a particular project or repository.
+2. **Select the Projects and the Foundations:** The search box at the top of the main menu helps you find a particular project or repository.
 
 <details>
 
