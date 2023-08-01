@@ -1,8 +1,8 @@
 # Dashboard Overview
 
-The **home page** provides you with all the important information about your analytics projects. It is designed to give you a quick overview of your data and help you navigate through the tool easily.
+The **Landing Page** provides you with all the important information about your analytics projects. It is designed to give you a quick overview of your data and help you navigate through the tool easily.
 
-
+This page focuses on the **Foundation Cards** and the individual **Project Cards**, which serve as the core navigational elements, presenting the key data metrics.
 
 1. On the left side of the landing page, you'll find the navigation menus. These menus are like shortcuts that help you move around the tool.
 
@@ -24,5 +24,6 @@ On the left-side navigation menu, only the **Insights Dashboard** is active. Oth
 
 </details>
 
-3. **Project Cards:** On the main page, you will see the project cards. Each card represents an individual open source project. When you click on a project card, It takes you to a dedicated [overview page](../../overview-page/) for that project. These cards show you real-time data about each project, such as important numbers and updates.
+3. **Foundation Cards:** Foundation Cards are like summary cards that provide key insights into different open source foundations. When you click on one of these cards, you will be redirected to a detailed page specifically dedicated to that foundation.
+4. **Project Cards:** On the main page, you will see the project cards. Each card represents an individual open source project. When you click on a project card, It takes you to a dedicated [overview page](../../overview-page/) for that project. These cards show you real-time data about each project, such as important numbers and updates.
 
