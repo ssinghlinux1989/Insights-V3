@@ -19,4 +19,13 @@ A foundation card displays the following key metrics:
 
 ### Interact with Foundation Cards
 
-When you click on a foundation card, it opens up a Foundation Dashboard dedicated to that specific project.
+When you click on a foundation card, it opens up a [Foundation Dashboard](foundation-dashboard.md) dedicated to that foundation. Here, you'll find more detailed information about the foundation's contributions to the open source community.
+
+A foundation card has the following details:
+
+1.
+
+<figure><img src="../../../../.gitbook/assets/2023-08-01_23h38_31 (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
