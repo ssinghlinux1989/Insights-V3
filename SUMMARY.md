@@ -62,6 +62,7 @@
       * [Accessing Insights V3](insights/v3-current/getting-started/accessing-insights-v3.md)
       * [Dashboard Overview](insights/v3-current/getting-started/dashboard-overview/README.md)
         * [Foundation Cards](insights/v3-current/getting-started/dashboard-overview/foundation-cards.md)
+        * [Foundation Dashboard](insights/v3-current/getting-started/dashboard-overview/foundation-dashboard.md)
         * [Project Cards](insights/v3-current/getting-started/dashboard-overview/project-cards.md)
         * [COCOMO](insights/v3-current/getting-started/dashboard-overview/cocomo.md)
       * [Navigation and Menus](insights/v3-current/getting-started/navigation-and-menus.md)

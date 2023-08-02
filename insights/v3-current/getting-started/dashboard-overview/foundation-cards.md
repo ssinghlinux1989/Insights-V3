@@ -18,3 +18,5 @@ A foundation card displays the following key metrics:
 </details>
 
 ### Interact with Foundation Cards
+
+When you click on a foundation card, it opens up a Foundation Dashboard dedicated to that specific project.
