@@ -29,7 +29,7 @@
         * [Supported Projects](my-profile/know-your-individual-dashboard/about-me/profile/supported-projects.md)
       * [Basic Information](my-profile/know-your-individual-dashboard/about-me/update-profile-information.md)
       * [Email Management](my-profile/know-your-individual-dashboard/about-me/email-management/README.md)
-        * [Email Addresses](my-profile/know-your-individual-dashboard/about-me/email-management/email-addresses.md)
+        * [Email Preferences](my-profile/know-your-individual-dashboard/about-me/email-management/email-preferences.md)
         * [Purchase a Linux.com Email](my-profile/know-your-individual-dashboard/about-me/email-management/purchasing-linux-email.md)
       * [My Work History](my-profile/know-your-individual-dashboard/about-me/my-work-history.md)
       * [Individual Enrollments](my-profile/know-your-individual-dashboard/about-me/individual-enrollments.md)
