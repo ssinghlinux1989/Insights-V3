@@ -39,3 +39,13 @@ If you have added only one email address, then by default the same email address
 4. After selecting your preferences, you will receive the following email at your preferred email address.
 
 <figure><img src="../../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you change or modify your email preferences from one email to another, you will get the following notification on your old email address:
+
+
+{% endhint %}
+
+<figure><img src="../../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+
+5. To change your primary email, repeat the above steps.
