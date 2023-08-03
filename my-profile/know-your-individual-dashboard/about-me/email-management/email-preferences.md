@@ -52,10 +52,14 @@ If you change or modify your email preferences from one email to another, you wi
 
 ### Delete your Email address
 
-To delete your email address, click **Delete** next to the chosen email address.
+1. To delete your email address, click **Delete** next to the chosen email address.
 
 <figure><img src="../../../../.gitbook/assets/2023-08-03_23h08_31.png" alt=""><figcaption></figcaption></figure>
 
-On the pop-up window, click the **Delete** button and your email will be deleted.
+2. On the pop-up window, click the **Delete** button.
 
 <figure><img src="../../../../.gitbook/assets/2023-08-03_23h09_37.png" alt=""><figcaption></figcaption></figure>
+
+### **Troubleshooting**
+
+If you encounter any issues or do not receive the expected emails, ensure that the chosen email addresses are valid and properly configured. If you still face the same issue, contact the [support team](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/255).
