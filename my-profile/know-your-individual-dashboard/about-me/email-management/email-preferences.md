@@ -49,3 +49,13 @@ If you change or modify your email preferences from one email to another, you wi
 <figure><img src="../../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 5. To change your primary email, repeat the above steps.
+
+### Delete your Email address
+
+To delete your email address, click **Delete** next to the chosen email address.
+
+<figure><img src="../../../../.gitbook/assets/2023-08-03_23h08_31.png" alt=""><figcaption></figcaption></figure>
+
+On the pop-up window, click the **Delete** button and your email will be deleted.
+
+<figure><img src="../../../../.gitbook/assets/2023-08-03_23h09_37.png" alt=""><figcaption></figcaption></figure>
