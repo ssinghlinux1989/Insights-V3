@@ -38,15 +38,11 @@ If you have added only one email address, then by default the same email address
 
 4. After selecting your preferences, you will receive the following email at your preferred email address.
 
-<figure><img src="../../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2023-08-07_10h29_48.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you change or modify your email preferences from one email to another, you will get the following notification on your old email address:
-
-
+If you change or modify your email preferences from one email to another, you will get a notification on your old email address.
 {% endhint %}
-
-<figure><img src="../../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 5. To change your primary email, repeat the above steps.
 
@@ -62,4 +58,4 @@ If you change or modify your email preferences from one email to another, you wi
 
 ### **Troubleshooting**
 
-If you encounter any issues or do not receive the expected emails, ensure that the chosen email addresses are valid and properly configured. If you still face the same issue, contact the [support team](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/255).
+If you encounter any issues or do not receive the expected emails, ensure the chosen email addresses are valid and properly configured. If you still face the same problem, contact the [support team](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/255).
