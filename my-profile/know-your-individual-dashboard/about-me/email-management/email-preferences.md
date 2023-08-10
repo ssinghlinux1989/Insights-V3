@@ -50,6 +50,10 @@ If you change or modify your email preferences from one email to another, you wi
 
 1. To delete your email address, click **Delete** next to the chosen email address.
 
+{% hint style="info" %}
+You can only delete the email address that you have not selected for any communication preferences. If you have selected your email ID for Primary or for meeting invitations, you cannot delete that.
+{% endhint %}
+
 <figure><img src="../../../../.gitbook/assets/2023-08-03_23h08_31.png" alt=""><figcaption></figcaption></figure>
 
 2. On the pop-up window, click the **Delete** button.
