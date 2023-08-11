@@ -2,6 +2,12 @@
 
 For a project to use EasyCLA, it must meet the following requirements:
 
+* EasyCLA only supports for the projects that are hosted in the Linux Foundation.
+
+{% hint style="info" %}
+&#x20;It does not support the projects or repositories that are hosted outside the Linux Foundation.&#x20;
+{% endhint %}
+
 * The project repositories are in GitHub or Gerrit or GitLab
 * If the project uses Gerrit source control, the Gerrit instance should be hosted on The Linux Foundation platform.
 * The repository administrator should enable Branch Restrictions and Branch Protection for the repository in GitHub or GitLab. The restrictions and protection should be set to enable required status checks on a branch regardless of the role for the organization.
