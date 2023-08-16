@@ -23,7 +23,7 @@ To view Membership Settings for a project, perform the following steps:
 | Invoicing              | Provides information if the invoicing option is selected or not.       |
 | LFX Member Enrollment  | Provides information if Auto-join is enabled for the project or not    |
 
-
+<figure><img src="../../../.gitbook/assets/Membership Settings (1).png" alt=""><figcaption><p>Membership Settings</p></figcaption></figure>
 
 ## Membership Tier
 
@@ -45,10 +45,4 @@ To view Membership Settings for a project, perform the following steps:
 | Active           | Provides information if the membership is active or expired.             |
 | Auto-Join        | Provides information if the Auto Join is enabled for the project or not. |
 
-4.The Membership Tiers are added and listed under Membership Tiers.
-
-{% hint style="info" %}
-If you want to update the existing membership tiers details, click the edit ![](../../../.gitbook/assets/Edit\_Icon.png) icon.
-
-If you want to delete the existing membership tiers, click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon.
-{% endhint %}
+<figure><img src="../../../.gitbook/assets/Membership Tier .png" alt=""><figcaption><p>Membership Tiers</p></figcaption></figure>
