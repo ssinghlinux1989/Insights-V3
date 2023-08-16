@@ -576,6 +576,7 @@
     * [Operations](project-control-center/v2-current/operations/README.md)
       * [Project Defination](project-control-center/v2-current/operations/project-defination.md)
       * [Membership](project-control-center/v2-current/operations/membership.md)
+      * [Domains](project-control-center/v2-current/operations/domains.md)
       * [Cloud Providers](project-control-center/v2-current/operations/cloud-providers.md)
     * [Collaborations](project-control-center/v2-current/collaborations/README.md)
       * [Committees](project-control-center/v2-current/collaborations/committees.md)

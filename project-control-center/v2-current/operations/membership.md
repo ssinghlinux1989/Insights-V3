@@ -1,56 +1,49 @@
 # Membership
 
-Membership setup of project allows you to provide information on:
+Membership setup of project allows you to view information on:
 
 * Membership Settings
 * Membership Tier
 
 ## Membership Settings <a href="#billing-information" id="billing-information"></a>
 
-You have to setup few parameters before you add Membership Tiers. You can add and update membership billing information related to the project such as auto renew, payment frequency, prorated information and invoicing.
+You can view membership billing information related to the project such as auto renew, payment frequency, prorated information and invoicing.
 
-{% hint style="info" %}
-Without updating the **Membership Settings**, the **+ Add Tier** will not be enabled.
-{% endhint %}
+To view Membership Settings for a project, perform the following steps:
 
-To add membership settings for a project, perform the following steps:
+1.Click on the required project and click **Membership.**
 
-1.Click on the required project and click **Membership** from the **Operations** tab.
+2.In the Membership Settings pane, you can view the membership settings details related to the project.&#x20;
 
-{% hint style="info" %}
-You can also navigate to Membership from the Vertical Sidebar navigation menu. Click **Operations** and then select **Membership**.
-{% endhint %}
+| **Field**              | **Information**                                                        |
+| ---------------------- | ---------------------------------------------------------------------- |
+| Auto Renew             | Provides information if the membership is set to auto renew or not.    |
+| Payment Frequency      | Provides information for payment frequency for the membership billing. |
+| Prorated Available     | Provides information for the prorated membership billing.              |
+| Invoicing              | Provides information if the invoicing option is selected or not.       |
+| LFX Member Enrollment  | Provides information if Auto-join is enabled for the project or not    |
 
-2\. The Membership page appears. Click **Edit** to add the membership billing details.
 
-3.The Edit Membership Settings dialog box appears. Update the following details and click **Save**:
-
-| **Field**          | **Action**                                                                                                |
-| ------------------ | --------------------------------------------------------------------------------------------------------- |
-| Auto Renew         | Select the required option to auto renew the membership billing. Click **Yes**, if you want to auto renew |
-| Payment Frequency  | Select the required payment frequency for the membership billing                                          |
-| Prorated Available | Select the required option for the prorated membership billing                                            |
-| Do Not Invoice     | Select the **Do Not Invoice** option, if you do not want the invoice for your membership billing          |
 
 ## Membership Tier
 
-You can add and update membership tier information related to the project such as name, pricing type, price point, membership term and description.
+You can view membership tier information related to the project such as name, pricing type, price point, membership term and description.
 
-To add membership tier information for a project, perform the following steps:
+To view Membership Settings for a project, perform the following steps:
 
-1.Click on the required project and click **Membership**.
+1.Click on the required project and click **Membership.**
 
-2.The Membership page appears. Click **+Add Tier** to add the membership tier details.
+2.In the Membership Tier pane, you can view the membership tier details related to the project.&#x20;
 
-3.The Add Membership Tier dialog box appears. Update the following details and click **Save**:
-
-| **Field**        | **Action**                                     |
-| ---------------- | ---------------------------------------------- |
-| Name             | Select the required membership type            |
-| Pricing Type     | Select the required pricing type               |
-| Price Points ($) | Enter the price points for the membership      |
-| Membership term  | Select the required membership term            |
-| Description      | Provide the description on the membership tier |
+| **Field**        | **Information**                                                          |
+| ---------------- | ------------------------------------------------------------------------ |
+| Tier             | Provides information on membership type                                  |
+| Pricing Type     | Provides information on   pricing type                                   |
+| Employees        | Number of employees                                                      |
+| Price Points ($) | Provides information on  price points for the membership                 |
+| Membership term  | Provides information on  membership term                                 |
+| Active           | Provides information if the membership is active or expired.             |
+| Auto-Join        | Provides information if the Auto Join is enabled for the project or not. |
 
 4.The Membership Tiers are added and listed under Membership Tiers.
 
