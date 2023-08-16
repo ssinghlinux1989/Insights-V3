@@ -84,4 +84,4 @@ All Projects lists all the projects that are created irrespective of who has cre
 
 You can search for the required project using the search tabs available on right top of the dashboard as well as on the left menu bar.
 
-![Search](<../../.gitbook/assets/Search (1).png>)
+![Search](<../../.gitbook/assets/Search (1) (1).png>)

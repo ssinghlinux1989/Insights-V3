@@ -15,7 +15,7 @@ This dashboard provides details such as:
   * To schedule a meeting&#x20;
 * Project staff details such has Executive Director and Program Manager
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Dashboard</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Dash.png" alt=""><figcaption><p>Dashboard</p></figcaption></figure>
 
 To access PCC dashboard and its services, you need to login into [PCC](http://projectadmin.lfx.linuxfoundation.org) using your LF SSO account. As you login into the PCC, the Dashboard appears.
 
@@ -25,9 +25,9 @@ You can create a support ticket if you are having issues with any of your projec
 
 To create a support ticket, perform the following steps:
 
-1.Click the **help** <img src="broken-reference" alt="" data-size="line"> icon  and select **Support**.
+1.Click the **help** <img src="../../.gitbook/assets/Help.png" alt="" data-size="line"> icon  and select **Support**.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Support</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Suppot.png" alt=""><figcaption><p>Support</p></figcaption></figure>
 
 2.You will be navigated to the LFX Support page. You have to enter the relevant details and click **Create** to submit your support request.
 
@@ -43,19 +43,19 @@ For more information on how to add a project, refer [add a project](https://docs
 As a administrator, you need to create the projects and sub projects as per the needs of the company.
 {% endhint %}
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Add a Project</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Add A project.png" alt=""><figcaption><p>Add a Project </p></figcaption></figure>
 
 ## View All Projects
 
 View All Projects lists all the projects that are created irrespective of who has created them.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>View All Projects</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/View All Projects.png" alt=""><figcaption><p>View All Projects </p></figcaption></figure>
 
 ## Search Functionality
 
 You can search for the required project using the search tabs available on right top of the dashboard as well as on the left menu bar.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Search</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Search.png" alt=""><figcaption><p>Search</p></figcaption></figure>
 
 ## Calendar View
 
@@ -65,7 +65,7 @@ Calendar view will provide you with a calendar view which displays all the meeti
 You can use the toggle button if you want to enable or disable the calendar view for your project&#x20;
 {% endhint %}
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Calendar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Calendar.png" alt=""><figcaption><p>Calendar</p></figcaption></figure>
 
 ## Quick Links&#x20;
 
@@ -77,7 +77,7 @@ Quick Links assist you in creating the following tasks:
 * Create a mailing list, for more information refer [create a mailing list](https://docs.linuxfoundation.org/lfx/project-control-center/it-services-for-a-project/mailing-list)
 * Schedule a meeting, for more information refer [schedule a meeting](https://docs.linuxfoundation.org/lfx/project-control-center/it-services-for-a-project/meetings#scheduling-a-meeting)
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Quick Links</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Quick links.png" alt=""><figcaption><p>Quick Links </p></figcaption></figure>
 
 ## Adding Project Staff&#x20;
 
@@ -89,4 +89,4 @@ To update the project staff, perform the following:
 
 2.The Edit Project Staff dialog box appears. Update the project staff details and click **Confirm**.&#x20;
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Project Staff</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Project Staff.gif" alt=""><figcaption><p>Project Staff</p></figcaption></figure>
