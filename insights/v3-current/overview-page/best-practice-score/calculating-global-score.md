@@ -40,7 +40,7 @@ Assign weights to each category based on their relative importance. These weight
 
 <details>
 
-<summary>Legal (10)</summary>
+<summary>Legal (10%)</summary>
 
 Approved licences: 10
 
@@ -52,7 +52,39 @@ For each criterion within a category, evaluate the project and assign a score.
 
 Use a numerical scale (0–10) or any other suitable scale.
 
-### Documentation
+#### Documentation
 
 * Code of conduct: 8
 * Governance: 9
+* Maintainer: 8
+* Website: 7
+
+#### Standards
+
+* Analytics: 9
+* GitHub Discussion: 10
+* Community meetings: 8
+
+#### Security
+
+* Binary Artifacts: 8
+* Dangerous Workflow: 9
+
+#### Legal
+
+* Approved Licenses: 9
+
+### Calculate category scores
+
+It is calculated by the average score\* weights
+
+* `Documentation : ((8+9+8+7)/4)*.4= 3.2`
+* `Standards: ((9+10+8)/3)*.30= 2.7`
+* `Security: ((8+9)/2)*.20= 1.7`
+* `Legal: 9*.10= .9`
+
+**Calculate Global Score**
+
+Sum up the category scores to obtain the global score for the best practice score of the open-source project.
+
+Documentation+ Standards+Security+Legal= 3.2+2.7+1.7+.9 = 15.58
