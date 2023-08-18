@@ -83,6 +83,7 @@
           * [Best Practices Checks](insights/v3-current/overview-page/best-practice-score/checks/best-practices-checks.md)
           * [Security Checks](insights/v3-current/overview-page/best-practice-score/checks/security-checks.md)
           * [Legal Checks](insights/v3-current/overview-page/best-practice-score/checks/legal-checks.md)
+        * [Calculating Global Score](insights/v3-current/overview-page/best-practice-score/calculating-global-score.md)
       * [Geographical Distribution](insights/v3-current/overview-page/geographical-distribution.md)
       * [Active Days](insights/v3-current/overview-page/active-days.md)
       * [Contributor Dependency](insights/v3-current/overview-page/contributor-dependency.md)
