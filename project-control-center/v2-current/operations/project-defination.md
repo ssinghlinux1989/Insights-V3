@@ -16,7 +16,7 @@ To access the Project Definition, perform the following steps:
 
 2.The Project dashboard appears. Click **Project Definition** from the **Operations** tab.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Project Defination </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Project Defination</p></figcaption></figure>
 
 ## Project Details&#x20;
 
@@ -28,7 +28,7 @@ To update basic information for a project, perform the following steps:
 
 2.Click **Edit** from the Project Details section to update basic information.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Edit Project Details </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Edit Project Details </p></figcaption></figure>
 
 3.The Edit Basic dialog box appears. Update the following details and click **Save**.
 
@@ -47,7 +47,7 @@ To update basic information for a project, perform the following steps:
 | **OpenSSF Best Practice Badge  ID** | Enter the OPenSSF Best Practice Badge ID. Earlier referred as CII Project ID.                                                                                                                                             |
 | **Description**                     | Provide a short description for your project.                                                                                                                                                                             |
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Edit Basic</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Edit Basic</p></figcaption></figure>
 
 ## Legal Details
 
@@ -61,7 +61,7 @@ To update legal details for a project, perform the following steps:
 
 2.Click **Edit** from the Project Details section to update legal information.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Legal Details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Legal Details</p></figcaption></figure>
 
 3.The Edit Legal Details page appears. Update the following details and click **Save**:
 
@@ -88,8 +88,6 @@ Based on the type of **Entity Type** selected, the fields will vary accordingly.
 | **Manage Services Agreement URL**   | Enter the manage services agreement URL.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **Manage Services Effectivity**     | Enter the manage services effectivity.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Manage Services Expiration Date** | Enter the manage services expiration date.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-
-<figure><img src="broken-reference" alt=""><figcaption><p>Edit Legal</p></figcaption></figure>
 
 Branding and Media
 
