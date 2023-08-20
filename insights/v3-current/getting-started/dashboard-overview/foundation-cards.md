@@ -23,9 +23,9 @@ When you click on a foundation card, it opens up a [Foundation Dashboard](founda
 
 A foundation card has the following details:
 
-1. Click on the![](<../../../../.gitbook/assets/image (1) (1).png>)icon to open the GitHub page of the foundation.
-2. Click on the ![](<../../../../.gitbook/assets/image (2) (1).png>) icon to open the foundation's webpage.
-3. Hover over the ![](<../../../../.gitbook/assets/image (3) (1).png>) to see the inception year of the foundation.
+1. Click on the![](<../../../../.gitbook/assets/image (1) (1) (1).png>)icon to open the GitHub page of the foundation.
+2. Click on the ![](<../../../../.gitbook/assets/image (2) (1) (1).png>) icon to open the foundation's webpage.
+3. Hover over the ![](<../../../../.gitbook/assets/image (3) (1) (1).png>) to see the inception year of the foundation.
 
 <figure><img src="../../../../.gitbook/assets/2023-08-01_23h38_31 (2).png" alt=""><figcaption></figcaption></figure>
 
