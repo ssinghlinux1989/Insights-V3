@@ -14,7 +14,7 @@ To deploy a new Jira board for a project, perform the following steps:
 
 <figure><img src="broken-reference" alt=""><figcaption><p>Issue Tracker </p></figcaption></figure>
 
-3.The Issue Tracking page appears. Click the <img src="../../../.gitbook/assets/P Icon (1).png" alt="" data-size="line"> icon available in front of **Connect Existing/Deploy New** and click **Deploy New**, enter the Jira **URL** and then click **Deploy**.
+3.The Issue Tracking page appears. Click the <img src="../../../.gitbook/assets/P Icon (1) (1).png" alt="" data-size="line"> icon available in front of **Connect Existing/Deploy New** and click **Deploy New**, enter the Jira **URL** and then click **Deploy**.
 
 ![Deploy New](https://lh5.googleusercontent.com/LXHMBmL0NfWXWYIrl4S4UbYtRq9Rg3Ai8Hy2me2xXcXpvU89VMRZLH4HPkif\_PsHgGDCe5De4KdNz63tQx\_K1mQQXidEkXrAFSGdvjWveAjJ9Zgxvh5Lexpo9aGO-XggtBaEgFr3vR4jZuDFaro)
 
@@ -26,7 +26,7 @@ To connect to the existing Jira board for a project, perform the following steps
 
 1.Search for the required project. The Project dashboard appears. Click **Issue Tracker** from the **Collaborations** tab.
 
-2.The Issue Tracking page appears. Click the <img src="../../../.gitbook/assets/P Icon.png" alt="" data-size="line"> icon available in front of **Connect Existing/Deploy New** and click **Connect Existing**, enter the existing Jira **URL** and then click **Connect**.
+2.The Issue Tracking page appears. Click the <img src="../../../.gitbook/assets/P Icon (1).png" alt="" data-size="line"> icon available in front of **Connect Existing/Deploy New** and click **Connect Existing**, enter the existing Jira **URL** and then click **Connect**.
 
 ![Connect Existing](https://lh3.googleusercontent.com/1CCFzZu4NHODZNeZYXkBaw1H5UiUQ6XmROI-N0RiXFLzBlp4upj5AAJw\_7NwJtmJhT9hWvWIN3sh7bL7W97ELB0CjJiSowPp8AcW-\_6KJ9bZmR7SvHze5rYD7I8VAr1ymC3bx1VpVhGG5MufJ4g)
 
