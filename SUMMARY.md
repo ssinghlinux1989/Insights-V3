@@ -87,6 +87,7 @@
       * [Geographical Distribution](insights/v3-current/overview-page/geographical-distribution.md)
       * [Active Days](insights/v3-current/overview-page/active-days.md)
       * [Contributor Dependency](insights/v3-current/overview-page/contributor-dependency.md)
+      * [Organization Dependency](insights/v3-current/overview-page/organization-dependency.md)
       * [Organization Leaderboard](insights/v3-current/overview-page/organization-leaderboard.md)
       * [Work Time Distribution](insights/v3-current/overview-page/work-time-distribution.md)
     * [Velocity](insights/v3-current/velocity/README.md)
