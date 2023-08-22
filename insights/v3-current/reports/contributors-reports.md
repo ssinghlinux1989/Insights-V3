@@ -40,13 +40,13 @@ Currently, both GitHub and Git are selected as the data sources by default.
 
 #### Total Contributors Chart
 
-1. Explore the "Total Contributor" chart section. When you toggle the **New Contributors** button, it displays the total new contributors.
+1. Explore the **Total Contributors** chart section. When you toggle the **New Contributors** button, it displays the total new contributors.
 2. Hover over the data points to view specific counts for that time.
 
 #### Active Contributors Today/This Week/This Month
 
 1. Explore **Active Contributors Today**, **Active Contributors This Week**, or **Active Contributors This Month** charts. The Charts are date filter independent. They show real-time data
-2. Click **View** to expand the list on the right side and see additional contributors.
+2. Click **View** to expand the list on the right side and see the list of contributors.
 
 <figure><img src="../../../.gitbook/assets/2023-08-22_11h36_36.png" alt=""><figcaption></figcaption></figure>
 
