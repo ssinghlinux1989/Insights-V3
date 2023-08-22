@@ -12,7 +12,7 @@ To deploy a new Jira board for a project, perform the following steps:
 
 2\. The Project dashboard appears. Click **Issue Tracker** from the **Collaboration** tab.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Issue Tracker </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Issue Tracker </p></figcaption></figure>
 
 3.The Issue Tracking page appears. Click the <img src="../../../.gitbook/assets/P Icon (1) (1).png" alt="" data-size="line"> icon available in front of **Connect** and click **Deploy New** and click **Connect**.
 
