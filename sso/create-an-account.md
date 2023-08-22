@@ -1,6 +1,6 @@
 # Create an Account
 
-When you log in for the first time to any Linux Foundation managed service that is protected with Single Sign On (SSO), you must create an account. To create an LF account, follow these steps:
+When you log in for the first time to any Linux Foundation-managed service that is protected with Single Sign On (SSO), you must create an account. To create an LF account, follow these steps:
 
 1\. Navigate to the [LFX Platform](http://lfx.linuxfoundation.org) and click **CREATE LFX PROFILE (2)** at the top right corner of the main menu. Alternatively, you can also click the **Create Your LFX Profile** (3) link from the page. If you already have an LF profile, click **My LF Profile (1)** to go to the next page.
 
@@ -9,12 +9,12 @@ When you log in for the first time to any Linux Foundation managed service that 
 2\. On the SIGN IN page, click **Create an account to** create an LF account. If you already have an LF account, then enter your username or Email ID and password. Click **SIGN IN**  to continue with your LF Account**.**
 
 {% hint style="info" %}
-You can also sign in using one of the options given on the **SIGNIN** page. For more information, see [Sign in options](sign-in/) .
+You can also sign in using one of the options given on the **SIGNIN** page. For more information, see Sign-in[ options](sign-in/).
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/New SSO (1).png" alt="Create an account signin page"><figcaption><p>Create an account</p></figcaption></figure>
 
-3\. On the **CREATE YOUR ACCOUNT** page, enter your first name, last name, Email address, username, and password. Click **Create Account** CTA button.
+3\. On the **CREATE YOUR ACCOUNT** page, enter your first name, last name, Email address, username, and password. Click the **Create Account** CTA button.
 
 ![Create Account](<../.gitbook/assets/Individual Dashboard (1).PNG>)
 
@@ -22,7 +22,7 @@ You can also sign in using one of the options given on the **SIGNIN** page. For 
 
 ![Resend Email](../.gitbook/assets/CM3.png)
 
-5\. Check your inbox for the mail from `The Linux Foundation:Create Account` email and open it. Click **Verify Email** CTA button. Below is an example of the email you will receive.
+5\. Check your inbox for mail from `The Linux Foundation:Create Account` email and open it. Click **Verify Email** CTA button. Below is an example of the email you will receive.
 
 ![Verify Email](../.gitbook/assets/CM4.png)
 
