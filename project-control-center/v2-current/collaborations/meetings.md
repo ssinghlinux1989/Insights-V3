@@ -128,10 +128,77 @@ To resend the meeting invite again to a participant, perform the following steps
 
 1.Select the scheduled meeting, click the <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Manage Meetings**.
 
+<figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption><p>Manage Meetings</p></figcaption></figure>
+
 2.The Manage Recurring Meeting dialog box appears. You can either update the changes to only the current occurrence meeting or to all the occurrences and select the **Continue**.&#x20;
 
-
+<figure><img src="../../../.gitbook/assets/image (99).png" alt=""><figcaption><p>Manage Recurring Meeting </p></figcaption></figure>
 
 3.Click the <img src="../../../.gitbook/assets/elicp (2).png" alt="" data-size="line"> icon for the required participant and select **Resend Invite**. A flyer message appears that informs that the invite has been successfully sent to the selected participant.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Resent Invite.png" alt=""><figcaption><p>Resend Invite</p></figcaption></figure>
+
+#### Remove Participant&#x20;
+
+You can remove the participant from the meeting.&#x20;
+
+To remove the participant, perform the following steps:
+
+1.Select the scheduled meeting that you want to update, click <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Manage Meeting**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Manage Meetings.png" alt=""><figcaption><p>Manage Meeting</p></figcaption></figure>
+
+2.The Manage Recurring Meeting dialog box appears. You can either update the changes to only the current occurrence meeting or to all the occurrences and select the **Continue**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Manage Recurence Meeting.png" alt=""><figcaption><p>Manage Recurring Meeting </p></figcaption></figure>
+
+3.Click the <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> icon and select **Remove Participant** to remove the participant. &#x20;
+
+<figure><img src="../../../.gitbook/assets/Remove Participant.png" alt=""><figcaption><p>Remove Participant </p></figcaption></figure>
+
+### Share Meeting&#x20;
+
+You can share the public meeting link with the various participants who can get registered to the shared meeting.&#x20;
+
+To share a public meeting, perform the following steps:
+
+1.Select the scheduled public meeting that you want to share, click <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Share Meeting**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Share  Meetings.png" alt=""><figcaption><p>Share Meeting</p></figcaption></figure>
+
+2.The Share Meeting pop message appears. Click **Copy** to copy the meeting link.
+
+<figure><img src="../../../.gitbook/assets/Share Meeting Popup.png" alt=""><figcaption><p>Meeting Link  </p></figcaption></figure>
+
+### Clone Meetings&#x20;
+
+You can clone a particular meeting and update the clone meeting as per your requirements. Clone meeting allows to retain the meeting of a particular meeting and make the changes to it.&#x20;
+
+To clone a meeting, perform the following steps:
+
+1.Select the scheduled public meeting that you want to clone, click <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Clone Meeting**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Clone Meetings.png" alt=""><figcaption><p>Clone Meeting</p></figcaption></figure>
+
+2.The Clone Meeting page appears with the meeting details of the meeting that is selected to clone. You can make the changes as per your requirement and click **Save** to schedule the cloned meeting.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Clone Meeting Sch.png" alt=""><figcaption><p>Clone Meeting</p></figcaption></figure>
+
+### Delete Meetings
+
+You can delete the scheduled meetings. You also has an option either to delete a particular occurrence or the all the occurrence of the recurring meeting. &#x20;
+
+To delete a meeting,  perform the following steps:
+
+1.Select the scheduled meeting that you want to delete, click <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Delete Meeting**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Delete Meetings.png" alt=""><figcaption><p>Delete Meeting</p></figcaption></figure>
+
+2.The Delete Recurring Meeting dialog box appears. You can either select:&#x20;
+
+* **Delete this occurrence only** or&#x20;
+* **Delete this occurrence and all the future occurrences in this series.**&#x20;
+
+Click **Delete** after selecting the required option.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Del Mee.png" alt=""><figcaption><p>Delete Meeting Options</p></figcaption></figure>
