@@ -13,11 +13,11 @@ To apply for the new fund requests, follow these steps:
 3. From the left-side navigation pane, navigate to **EVENTS>LF Events**.
 4. On the **MY EVENTS** page, click the **Travel Funding** tab. Click the **New Funding Application** CTA to access the application page.
 
-<figure><img src="../../../.gitbook/assets/image-2023-4-25_0-34-18.png" alt=""><figcaption><p>New Funding Application</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-2023-4-25_0-34-18.png" alt=""><figcaption><p>New Funding Application</p></figcaption></figure>
 
 &#x20; 5\. On the **Travel Funding Application** page, scroll down and check the event that you want to attend. Click the **Select** button to choose the event. After selecting the event, click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image-2023-4-25_0-35-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-2023-4-25_0-35-19.png" alt=""><figcaption></figcaption></figure>
 
 > <pre><code><strong>You can select the event by using the Filter by Name, Time, and Location search buttons given at the top of the Travel Funding Application Page.
 > </strong></code></pre>
@@ -45,6 +45,6 @@ To apply for the new fund requests, follow these steps:
 Once you submit your request, you can see your application status on the **Travel Funding** page. \
 
 
-<figure><img src="../../../.gitbook/assets/image-2023-4-28_21-53-15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-2023-4-28_21-53-15.png" alt=""><figcaption></figcaption></figure>
 
 Once your request is approved by the event team, you can see the status change as **Approved** on the **Travel Funding** page**.**
