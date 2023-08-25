@@ -13,11 +13,11 @@ To apply for the new fund requests, follow these steps:
 3. From the left-side navigation pane, navigate to **EVENTS>LF Events**.
 4. On the **MY EVENTS** page, click the **Travel Funding** tab. Click the **New Funding Application** CTA to access the application page.
 
-<figure><img src="../../../../.gitbook/assets/image-2023-4-25_0-34-18.png" alt=""><figcaption><p>New Funding Application</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-2023-4-25_0-34-18.png" alt=""><figcaption><p>New Funding Application</p></figcaption></figure>
 
 &#x20; 5\. On the **Travel Funding Application** page, scroll down and check the event that you want to attend. Click the **Select** button to choose the event. After selecting the event, click **Next**.
 
-<figure><img src="../../../../.gitbook/assets/image-2023-4-25_0-35-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-2023-4-25_0-35-19.png" alt=""><figcaption></figcaption></figure>
 
 > <pre><code><strong>You can select the event by using the Filter by Name, Time, and Location search buttons given at the top of the Travel Funding Application Page.
 > </strong></code></pre>
@@ -28,23 +28,19 @@ To apply for the new fund requests, follow these steps:
 > * Click the **Previous Step** button to go back to the event selection page.
 > * For questions, please contact [travelfund@linuxfoundation.org](mailto:travelfund@linuxfoundation.org).
 
-7\. On the **About ME** page, fill out the following information to complete the application:
+7\. On the **About Me** page, fill out the following information to complete the application. Click **Next Step**.
 
-* **I am applying for:** From the drop-down, select if you are applying for yourself or for someone else.
-* **Attendee Type:** Select whether you are attending the event or are invited as a speaker.
-* **LFID Username:** It will be the default ID by which you logged in to the Individual Dashboard.
-* **First and Last Name:** Enter your name if you are applying for yourself; otherwise, enter the name of the person for whom you are applying.
-* **Email Address and Company:** Enter your email address and the company name if you are applying for yourself; otherwise, enter the email address and company name for whom you are applying.
-* **Can you receive funds from your organization?:** Select from the drop-down.
-* **Link to your LinkedIn, personal website, or GitHub page:**
-* **If you checked Partial Assistance above, please explain what the company will or will not pay for:** If you select that you are getting partial help from your company, then explain in the text box.
-* **Briefly describe the ways in which you are involved in technology and/or open source communities and why you’d like to attend this conference:** Enter your justification in the text box.
+<figure><img src="../../../.gitbook/assets/2023-08-25_15h35_43.gif" alt=""><figcaption></figcaption></figure>
+
+8\. Click **Next Step.** On the **Expenses,** fill in your expense details and submit the application.
+
+<figure><img src="../../../.gitbook/assets/2023-08-25_15h44_47.png" alt=""><figcaption></figcaption></figure>
 
 ### Travel Fund Request Status <a href="#applyfortravelfunds-endusers-travelfundrequeststatus" id="applyfortravelfunds-endusers-travelfundrequeststatus"></a>
 
 Once you submit your request, you can see your application status on the **Travel Funding** page. \
 
 
-<figure><img src="../../../../.gitbook/assets/image-2023-4-28_21-53-15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-2023-4-28_21-53-15.png" alt=""><figcaption></figcaption></figure>
 
 Once your request is approved by the event team, you can see the status change as **Approved** on the **Travel Funding** page**.**

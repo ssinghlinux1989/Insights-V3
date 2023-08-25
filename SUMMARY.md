@@ -47,7 +47,7 @@
       * [Registered](my-profile/view-events/lf-events/registered.md)
       * [Past](my-profile/view-events/lf-events/past.md)
       * [Visa Letters](my-profile/view-events/lf-events/visa-letters.md)
-      * [Travel Funding](my-profile/view-events/lf-events/travel-funding/README.md)
+      * [Travel Funding](my-profile/view-events/lf-events/travel-funding.md)
         * [Community Events Funding](my-profile/view-events/lf-events/travel-funding/community-events-funding.md)
     * [My Meetings](my-profile/view-events/my-meetings.md)
 * [Insights](insights/README.md)
