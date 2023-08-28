@@ -57,3 +57,13 @@ To compute velocity, the following metrics are used:
 1. On the Y-axis, there's a logarithmic scale representing PRs and Issues.
 2. On the X-axis, there's a logarithmic scale representing commits.
 3. The chart visualizes the correlation between code changes and collaboration.
+
+#### Project Cards
+
+1. Below the charts and metrics, explore the project cards.
+2. Each card represents a specific project within the foundation.
+3. Project cards provide a snapshot of essential project details.
+
+#### Interacting with Project Cards
+
+1. Click on a project card to access the overview page that gives you more insights about that project.
