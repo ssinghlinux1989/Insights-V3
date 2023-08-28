@@ -79,7 +79,7 @@ Following are few pointers related to Meeting Settings:
 
 * When you are scheduling a meeting which is a **Private meeting** and where the **Restricted** settings is enabled, then the participant can login by providing their name and email ID that has been added during the scheduling of the meeting. Participant cannot login with guest credentials, they have to mandatorily use the email.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Committee with Board </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Committee with Board </p></figcaption></figure>
 
 ## Past Meetings
 
