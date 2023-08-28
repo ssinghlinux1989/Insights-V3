@@ -25,7 +25,7 @@ At the top, you will see the following four high-level metrics:
 
 The **Project Velocity** chart displays data from the last calendar year.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -58,6 +58,22 @@ To compute velocity, the following metrics are used:
 2. On the X-axis, there's a logarithmic scale representing commits.
 3. The chart visualizes the correlation between code changes and collaboration.
 
+#### Leaderboard: Project Velocity
+
+1. Review the top projects based on their commit numbers.
+2. Compare their commit count, PRs, and issues in a single view.
+
+<details>
+
+<summary>Definitions</summary>
+
+* **Authors** are defined as a number of distinct commits/changesets authors across all project repositories.
+* **Issues** value is defined as a number of distinct issues/bugs/emails (depending on data source type, like GitHub, Gerrint, Linux Kernel mail archives, etc.).
+* **PRs** value is defined as a number of distinct Pull Requests/Merge Requests (depending on data source type).
+* Chart uses the logarithmic scale number of commits for the X-axis, the logarithmic scale number of the sum of issues and PRs for the Y-axis, and the square root of the number of authors for the bubble size.
+
+</details>
+
 #### Project Cards
 
 1. Below the charts and metrics, explore the project cards.
@@ -67,3 +83,7 @@ To compute velocity, the following metrics are used:
 #### Interacting with Project Cards
 
 1. Click on a project card to access the overview page that gives you more insights about that project.
+
+#### Navigating Back
+
+Click the <img src="../../../../.gitbook/assets/image.png" alt="" data-size="original"> icon to return to the **Landing Page**.

@@ -16,7 +16,7 @@ To setup Confluence for your project, perform the following:
 
 2\. The Project dashboard appears. Click **Wiki**  from the **Collaboration** tab.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Wiki</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Wiki</p></figcaption></figure>
 
 3.You have two options to setup a Confluence page:
 
@@ -29,7 +29,7 @@ a) If you want to connect to the existing server, Click **Existing**. Enter **UR
 You should have setup the Primary Domain to the project, before you connect to the existing Confluence page.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Existing Wiki</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Existing Wiki</p></figcaption></figure>
 
 b) If you want to connect to a new server, select **Deploy New** and click **Connect**. The Confluence page will be setup to a new service provider.
 
