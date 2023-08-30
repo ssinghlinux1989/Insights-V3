@@ -1,7 +1,5 @@
 ---
 description: UPDATING SOON
-cover: ../../../../.gitbook/assets/2023-08-30_12h04_33.png
-coverY: 0
 ---
 
 # Best Practice Score
