@@ -23,6 +23,12 @@ At the top, you will see the following four high-level metrics:
 
 #### Project Velocity Chart
 
+Project velocity in open source projects refers to the rate at which development tasks are completed and features are delivered. It measures the amount of work completed in a specific amount of time.
+
+A higher velocity suggests increased efficiency and progress, while a lower velocity may indicate challenges or bottlenecks.
+
+Monitoring project velocity helps teams assess their performance and plan future tasks accordingly, ensuring steady project advancement.
+
 The **Project Velocity** chart displays data from the last calendar year.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
