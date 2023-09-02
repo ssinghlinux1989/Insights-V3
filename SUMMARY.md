@@ -545,7 +545,6 @@
     * [Expired Membership in your Organization](organization-dashboard/membership/expired-membership-in-your-organization.md)
     * [Discover New Open Source Project](organization-dashboard/membership/discover-new-open-source-project.md)
   * [Events Insights](organization-dashboard/events-insights/README.md)
-    * [Events Widget](organization-dashboard/events-insights/events-widget.md)
     * [Attendee Insights](organization-dashboard/events-insights/attendee-insights.md)
     * [Speaker Insights](organization-dashboard/events-insights/speaker-insights.md)
   * [Training and Certifications](organization-dashboard/training-and-certifications/README.md)

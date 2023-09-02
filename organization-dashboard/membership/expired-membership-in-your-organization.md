@@ -19,7 +19,7 @@ To renew expired membership, perform the following steps:
 
 1.Access the Membership.
 
-2.Click **Expired Membership** tab and select the **Renew** button for the membership that you want to renew.
+2.Click **Expired** tab and select the **Renew** button for the membership that you want to renew.
 
 <figure><img src="../../.gitbook/assets/Expired Renew.png" alt=""><figcaption><p>Renew</p></figcaption></figure>
 

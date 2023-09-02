@@ -17,7 +17,7 @@ To access events, perform the following steps:
 
 2.On the vertical sidebar navigation menu, in the **Search** box enter your company or organization name. By default, the dashboard page appears. Click the **Events** menu available on the Vertical Sidebar navigation menu.
 
-![Events](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgvS33TuQqsZGEexBph%2F-MgvShJFQeX-iueC6voF%2FEvents\_Main.png?alt=media\&token=f73b0234-e369-48f3-949f-5c2ba841518c)
+<figure><img src="../../.gitbook/assets/Events Image.png" alt=""><figcaption><p>Events</p></figcaption></figure>
 
 ## Yearly Filters
 
