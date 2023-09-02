@@ -16,7 +16,7 @@ This list provides you the following details:
 A green dot will be glowing next to **Actively Contributing** on the top right if the organization is actively contributing to the open source project. You don't see the green mark for the projects, where there are no regular contributions from your organization.
 {% endhint %}
 
-![Discover New Project](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgvB-FOhvMOUR2DndWo%2F-MgvBXW2g4nxBfolCVVm%2FNew%20Project.png?alt=media\&token=6ff3f299-47d2-4eb8-8bfa-f3d11c32ae91)
+<figure><img src="../../.gitbook/assets/Discover.png" alt=""><figcaption><p>Discover New Project</p></figcaption></figure>
 
 ## Exploring and Applying for Membership
 

@@ -1,6 +1,6 @@
 # Expired Membership in your Organization
 
-Expired Membership tab under Membership provides you with a list of open source projects for which your organization has purchased the membership and the current status of the membership is in expired state. With an expired membership, your organization will bound to loose the benefits and discounts. The expired projects are listed based on the contributions provided by your organization.
+Expired Membership tab under Membership provides you with a list of open source projects for which your organization has purchased the membership and the current status of the membership is in expired state. With an expired membership, your organization will bound to loose the benefits and discounts that comes with the membership. The expired projects are listed based on the contributions provided by your organization.
 
 The list provides you the following details related to the expired membership:
 
@@ -9,7 +9,7 @@ The list provides you the following details related to the expired membership:
 * A button to renew the membership.
 * Open source project name and any child projects if available.
 
-![Expired Membership](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgtJC8twjfCEAZ9u\_Pf%2F-MgtJIc7N4diQAtWdQQB%2FExpired\_Membership%20.png?alt=media\&token=e6417194-6d1a-4c6a-9597-6b8985ff9a7a)
+<figure><img src="../../.gitbook/assets/Expired.png" alt=""><figcaption><p>Expired Membership </p></figcaption></figure>
 
 ## Renewing Expired Membership
 
@@ -21,7 +21,7 @@ To renew expired membership, perform the following steps:
 
 2.Click **Expired Membership** tab and select the **Renew** button for the membership that you want to renew.
 
-![Renew](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgtJNDs\_rmRDPQQfpTt%2F-MgttYpOsM7p84QdKkue%2FRenew.png?alt=media\&token=4452db8d-df7e-48cb-8e09-ddee6d30a4b2)
+<figure><img src="../../.gitbook/assets/Expired Renew.png" alt=""><figcaption><p>Renew</p></figcaption></figure>
 
 3.The Project details page appears which provides you an overview about the open source project and membership details such as membership fees. Click the **Renew** button available at the top left side.
 
