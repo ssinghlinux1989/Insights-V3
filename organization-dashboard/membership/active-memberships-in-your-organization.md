@@ -7,7 +7,7 @@ Active Membership tab under Membership provides you an overview on the active me
 * Renewal date of the membership.
 * Benefits claimed from the membership.
 
-<figure><img src="../../.gitbook/assets/Mem.png" alt=""><figcaption><p>Active Membership</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Membership.png" alt=""><figcaption><p>Active Membership</p></figcaption></figure>
 
 ### Managing your Team
 

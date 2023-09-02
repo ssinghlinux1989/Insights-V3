@@ -48,11 +48,11 @@ This table provides information on top 5 training programs which has highest num
 ![Top 5 Training Programs](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgjIFZOfHJQLFN3DmSm%2F-MgjJ7CgrUZAQSsS9vVM%2FTop%205%20Trainings.png?alt=media\&token=0f988356-7a78-4e6f-b665-1619c59668ab)
 
 {% hint style="info" %}
-* When you click **View More** button, the Training Insights page appears. For more information, refer to [Training Insights](https://docs.linuxfoundation.org/lfx/organization-dashboard-pre-release/my-organization/training-and-certifications/training-insights).
+* When you click **View More** button, the Training Insights page appears. For more information, refer to [Training Insights](https://docs.linuxfoundation.org/lfx/organization-dashboard/training-and-certifications).
 * When you click **View Details** button, you see a popup box that provides you details such as training program name, employee name enrolled for the training and the date of enrollment.
 {% endhint %}
 
-![Enrolled Employees for Training](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgjIFZOfHJQLFN3DmSm%2F-MgjJiQKBuSzCcwrpqQi%2FTraining\_employees.png?alt=media\&token=872e26ba-d824-4f59-8aa2-3feb991357fd)
+<figure><img src="../../.gitbook/assets/Emloyees Org.png" alt=""><figcaption><p>Enrolled Employees for Training</p></figcaption></figure>
 
 ### New Employees Enrolled for Trainings
 
@@ -85,7 +85,7 @@ This table provides information on top 5 certification programs which has highes
 ![Top  5 Certifications](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgjOJa-v42NXB73IFNS%2F-MgjOnyZc17EdGxX0\_Jk%2FTop%205%20Certifications.png?alt=media\&token=f7e054d3-dbe3-4916-bcb3-ae5f948c08ed)
 
 {% hint style="info" %}
-* When you click **View More** button, the Certifications Insights page appears. For more information, refer [Certification Insights](https://docs.linuxfoundation.org/lfx/organization-dashboard-pre-release/my-organization/training-and-certifications/certification-insights).
+* When you click **View More** button, the Certifications Insights page appears. For more information, refer [Certification Insights](https://docs.linuxfoundation.org/lfx/organization-dashboard/training-and-certifications/certification-insights).
 * When you click **View Details** button, you see a popup box that provides you details such as certification program name, employee certified and the date of enrollment.
 {% endhint %}
 
