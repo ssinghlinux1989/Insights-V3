@@ -17,11 +17,11 @@ A widget is available in the Project Contribution tab which provides you with ov
 
 * Total number of commits from your organization for the open source projects.
 * Total number of Pull Requests(PR) raised from your organization for the open source projects.
-* Total number of issues raised from your organization on the open source project.
+* Total number of issues raised from your organization on the open source projects.
 * Total number of projects for which your organization is contributing to the open source projects.
 * Total number of code lines contributed by your organization.
 * Total number of active projects your organization is contributing.
-* A donut chart which provides provides info on:
+* A donut chart which provides provides information on:
   * Total number of active employees in your organization.
   * Total number of employees contributing to the open source project.
   * Total number of employees who have raised issues and submitted PRs.
