@@ -39,20 +39,20 @@ The data provided in this widget is based on last 12 months or last year.
 
 Events Engagement under Events tab assists you to manage all activities and information related to the open source events. Events Management provides various table and graphs that assists you to gather the events KPI's as required. Event Management provides the following information:
 
-* Events attended by your organization.
+* Top 5 events attended by your organization based on number of attendees.
 * Total number of attendees for open source events from your organization.
 * Top 5 events which had highest number of speakers.
 * Top 5 speakers of the events.
 
-### Events Attended by your Organization
+### Top 5 Events Attended by your Organization
 
-This table provides information on events attended by your organization. The events are listed based on the highest number of attendees for the open source events. This table provides you the following details:
+This table provides information on the top 5 events attended by your organization based on the number of attendees. The events are listed based on the highest number of attendees for the open source events. This table provides you the following details:
 
 * Event name.
 * Total number of attendees from your organization participated in the open source events.
 * A link to view details of attendees.
 
-<figure><img src="../../.gitbook/assets/Even.png" alt=""><figcaption><p>Events Attended by your Organization </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Top 5 Events.png" alt=""><figcaption><p>Top 5 Events Attended by your Organization </p></figcaption></figure>
 
 {% hint style="info" %}
 When you click **View Details** button, you can see a popup box that provides you details such as event name, attendee name and job title of the attendee.
@@ -67,7 +67,7 @@ This bar graph provides you with information on total attendees from your organi
 ![Total Attendees](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-Mj4DLMwF7i5FrN\_0aC1%2F-Mj4EyaKWe6lmZMLdiff%2FTotal\_Attendees.png?alt=media\&token=80cedd61-7aaa-4307-8402-dc2137f1dc37)
 
 {% hint style="info" %}
-When you click **View Attendees Insights** button, the Events Insights page appears that provides you complete insights on the attendees insights for the events. For more information refer [Events Insights](https://docs.linuxfoundation.org/lfx/organization-dashboard-pre-release/my-organization/events-insights).
+When you click **View Attendees Insights** button, the Events Insights page appears that provides you complete insights on the attendees insights for the events. For more information refer [Events Insights](https://docs.linuxfoundation.org/lfx/organization-dashboard/events-insights).
 {% endhint %}
 
 ### Top 5 Events Based on the Highest Speakers from your Organization
@@ -94,10 +94,10 @@ This table provides information on top 5 speakers who have attended highest numb
 * Total number of events participated from the speaker in the open source events
 * A link to view event details
 
-![Top Speakers](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MgAESFs0H7zYsmTgcOZ%2F-MgikSknqGAV\_w5xuUx3%2F-MginDD\_IWGOHUxSI-X-%2FTop%20Speakers.png?alt=media\&token=a03bdbff-d376-447d-b40b-a1fe9af06acf)
+<figure><img src="../../.gitbook/assets/Top 5 Speakers.png" alt=""><figcaption><p>Top 5 Speakers</p></figcaption></figure>
 
 {% hint style="info" %}
-* When you click **View Speaker Insights** button, the Events Insights page appears that provides you complete insights on the speaker insights for the events. For more information, refer [Speaker Insights](https://docs.linuxfoundation.org/lfx/organization-dashboard-pre-release/my-organization/events-insights/speaker-insights).
+* When you click **View Speaker Insights** button, the Events Insights page appears that provides you complete insights on the speaker insights for the events. For more information, refer [Speaker Insights](https://docs.linuxfoundation.org/lfx/organization-dashboard/events-insights/speaker-insights).
 * When you click **View Events** button, you can see a popup box that provides you details such as speaker name, speaker email and event names participated by the speaker.
 {% endhint %}
 
