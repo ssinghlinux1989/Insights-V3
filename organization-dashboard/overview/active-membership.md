@@ -7,14 +7,14 @@ The active membership table in the dashboard provides you the following details:
 * Open source project for which your organization has an active membership.
 * Lists you the percentage of benefits available for different projects.
 * Links to view project engagement.
-* Link to explore more on membership management.
+* Link to explore more on active membership management.
 
 {% hint style="info" %}
 * When you click **View Project Engagement** button, the Project Contribution page appears that provide you the details related to the project contribution from your organization. For more information, refer [Project Contributions](https://docs.linuxfoundation.org/lfx/organization-dashboard-pre-release/projects/project-contributions).
-* When you click **View Membership Summary**, the Membership Summary page appears that provides you details related to all active membership associated with your organization. For more information, refer [Active Membership in your Organization](https://docs.linuxfoundation.org/lfx/organization-dashboard-pre-release/my-organization/membership-summary/active-memberships-in-your-organization).
+* When you click **View All Active Membership**, the Membership Summary page appears that provides you details related to all active membership associated with your organization. For more information, refer [Active Membership in your Organization](https://docs.linuxfoundation.org/lfx/organization-dashboard/membership).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Mem (2).png" alt=""><figcaption><p>Active Membership</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Active Membership.png" alt=""><figcaption><p>Active Membership</p></figcaption></figure>
 
 {% hint style="info" %}
 Total active membership is also displayed on top of the dashboard below your company name.
