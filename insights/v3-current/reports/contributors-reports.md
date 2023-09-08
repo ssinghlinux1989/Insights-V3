@@ -75,27 +75,3 @@ Returning contributors can potentially transition back to being active contribut
 1. Navigate to the "Leaderboard" section.
 2. You will find a list of the most active contributors.
 3. Review their names and corresponding activity levels.
-
-
-
-
-
-####
-
-\
-
-
-
-
-####
-
-
-
-
-
-
-
-####
-
-
-
