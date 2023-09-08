@@ -12,8 +12,8 @@
 #### Select the Date Filter
 
 1. On the top-right corner, locate the date filter option.
-2. Click on it to open a calendar.
-3. Choose your desired start and end dates to focus on specific data.
+2. Click on it to open.
+3. Choose your desired duration to focus on specific data.
 4. Click **Apply** to update the dashboard with your selected date range.
 
 #### Platforms Selection
