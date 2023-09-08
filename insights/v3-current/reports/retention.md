@@ -7,6 +7,8 @@
 
 #### Interacting with the Charts
 
+<figure><img src="../../../.gitbook/assets/2023-09-08_13h33_21.gif" alt=""><figcaption></figcaption></figure>
+
 #### Select the Date Filter
 
 1. On the top-right corner, locate the date filter option.
