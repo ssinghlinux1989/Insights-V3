@@ -97,5 +97,5 @@ Average Contributor Active Days =45/3 = 15 days
 
 #### Retention Breakdown Step Chart
 
-
+This chart helps you understand the retention of contributors over time. It provides insights into how many new contributors joined in a specific month and how many of them remained actively engaged in subsequent months.
 
