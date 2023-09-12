@@ -6,7 +6,7 @@ The **Reports Dashboard** enables you to generate comprehensive reports based on
 
 At the core of the **Reports Dashboard** are the following four major metrics:
 
-* **Contributors**&#x20;
-* **Organizations**&#x20;
-* **Activities**&#x20;
-* **Retentions**&#x20;
+* [**Contributors** ](reports/contributors-reports.md)
+* [**Organizations**](reports/organizations-reports.md)&#x20;
+* [**Activities** ](reports/activities.md)
+* [**Retention**](reports/retention.md)
