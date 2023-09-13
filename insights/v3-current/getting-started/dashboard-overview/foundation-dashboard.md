@@ -31,7 +31,7 @@ Monitoring project velocity helps teams assess their performance and plan future
 
 The **Project Velocity** chart displays data from the last calendar year.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -92,4 +92,4 @@ To compute velocity, the following metrics are used:
 
 #### Navigating Back
 
-Click the <img src="../../../../.gitbook/assets/image.png" alt="" data-size="original"> icon to return to the **Landing Page**.
+Click the <img src="../../../../.gitbook/assets/image (1).png" alt="" data-size="original"> icon to return to the **Landing Page**.
