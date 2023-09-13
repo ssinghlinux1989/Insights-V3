@@ -14,7 +14,7 @@ To set up your LFX profile, you need to complete the following three steps:
 You can see your profile completion progress on the left navigation pane of the individual dashboard.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/2023-09-13_12h59_59.png" alt=""><figcaption><p>Profile Completion Status</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023-09-13_12h59_59 (1).png" alt=""><figcaption><p>Profile Completion Status</p></figcaption></figure>
 
 1. When you create your LF account and enter your Name and Email addresses, you complete the first step.
 2. Click **Claim Code Contributions** to link your GitHub account to verify your contributions and identify your maintainer badges**.** You can continue to connect your LinkedIn account and complete step 3 or follow the next step.
