@@ -4,7 +4,7 @@ A **Contribution Leadership** board visualization displays the contributions mad
 
 ### Analyze the leaderboard
 
-<figure><img src="../../../.gitbook/assets/2023-06-24_15h08_03.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2023-06-24_15h08_03.gif" alt=""><figcaption></figcaption></figure>
 
 ### Why is this metric important?
 
