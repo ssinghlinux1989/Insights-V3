@@ -98,7 +98,7 @@ To connect your LinkedIn account with your LF account, follow these steps:
 
 To connect your GitHub account with your LF account, follow these steps:
 
-1. Click ![](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) icon on the profile completion page.
+1. Click ![](<../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) icon on the profile completion page.
 2. On the next page, authorize your GitHub account.
 
 {% hint style="info" %}
