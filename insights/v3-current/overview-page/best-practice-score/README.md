@@ -1,12 +1,8 @@
----
-description: UPDATING SOON
----
-
 # Best Practice Score
 
 A best practice score visualization is a tool that helps project leads and managers assess the overall health and quality of an open source software project.
 
-It typically evaluates the project against a set of best practices or standards for software development, such as the categories**`Documentation`**`,`**`Standards`**`,`**`Security`**`` `and` ``**`Legal`.** It generates a score or rating based on how well the project meets these criteria.
+It typically evaluates the project against a set of best practices or standards for software development, such as the categories**`Documentation`**`,`**`Standards`**`,`**`Security`**` `` `**`` Legal` and `Reliance` ``.** It generates a score or rating based on how well the project meets these criteria.
 
 ### Analyze the Dashboard
 
@@ -15,7 +11,7 @@ It typically evaluates the project against a set of best practices or standards 
 3. Scroll down to find the best practice score dashboard.
 4. You can see the aggregated score (3) and each category's score on the dashboard.
 5. Click the **Download** icon ![](<../../../../.gitbook/assets/image (93).png>)to download the dashboard.&#x20;
-6. Click on any category to see the expanded page where you can see the detailed analyis for each repositories
+6. Click on any category to see the expanded page where you can see the detailed analysis for each repository.
 
 <figure><img src="../../../../.gitbook/assets/2023-08-30_12h53_49.gif" alt=""><figcaption></figcaption></figure>
 

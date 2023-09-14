@@ -8,7 +8,7 @@ To change your Linux Foundation password, follow these steps:
 
 2\. From the left-side navigation pane, click the arrow to expand and navigate to **Settings > Password**.
 
-![ Password Dashboard](../../.gitbook/assets/password\_reset.png)
+![ Password Dashboard](../../.gitbook/assets/2023-09-14\_20h41\_39.png)
 
 3\. Provide details in the respective fields, and click **Save**.
 
