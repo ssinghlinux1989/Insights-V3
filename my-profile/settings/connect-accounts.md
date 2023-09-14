@@ -10,11 +10,11 @@ You can also disconnect your accounts anytime you want.
 
 1\. Log in to [https://openprofile.dev](https://openprofile.dev).
 
-2\. From the left side navigation pane of the landing page, navigate to **Settings > Connected Accounts.**&#x20;
+2\. From the left-side navigation pane of the landing page, navigate to **Settings > Connected Accounts.**&#x20;
 
 3\. Select the account that you want to connect to, and click **Connect**.
 
-![Connect your accounts](<../../.gitbook/assets/Connected Accounts (3).png>)
+![Connect your accounts](<../../.gitbook/assets/2023-09-14\_20h46\_08 (1).png>)
 
 5\. To connect to any other social account, such as Google, navigate to the respective card under **Social Accounts** and click **Connect** under the card.
 
