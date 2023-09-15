@@ -6,35 +6,33 @@ On this page, you can add all your email addresses and manage your communication
 
 Follow these steps to add your email addresses:
 
-1. Enter your email address in the text box, and click **Add.**
+1. Navigate to **Settings > Email Management** .
+2. On the **EMAIL MANAGEMENT** page, Enter your email address in the text box and click **Add.**
 
-<figure><img src="../../../../.gitbook/assets/2023-08-03_22h19_36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2023-09-15_15h14_49.png" alt=""><figcaption></figcaption></figure>
 
 2. After adding your email address, you will receive a verification notification on your email address.
-3. once you verify your email address, it will be displayed on this page.
+3. Once you verify your email address, it will be displayed on this page.
 
 {% hint style="info" %}
 A maximum of 10 email addresses can be added to this page.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/email_management.PNG" alt=""><figcaption><p>Email Management</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2023-09-15_15h16_15.png" alt=""><figcaption><p>Email Management</p></figcaption></figure>
 
 ### Manage your communication preferences
 
 Follow this step-by-step procedure to efficiently manage your email preferences:
 
-1. On the **EMAIL MANAGEMENT** page, click on the **Email Preferences** tab.
-2. Under the **Email Preferences** tab, you will see a list of email addresses associated with your account.
+1. On the **EMAIL MANAGEMENT** page, you will see a list of email addresses associated with your account.
 
 {% hint style="info" %}
 If you have added only one email address, then by default the same email address will be used for Primary and meeting invitations.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/2023-08-03_22h36_22.png" alt=""><figcaption></figcaption></figure>
-
 3. Click on the radio button next to the chosen email address for Meeting Invitations. A checkmark should appear, indicating your selection.
 
-<figure><img src="../../../../.gitbook/assets/2023-08-03_22h42_29.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2023-09-15_15h14_49 (1).png" alt=""><figcaption></figcaption></figure>
 
 4. After selecting your preferences, you will receive the following email at your preferred email address.
 
