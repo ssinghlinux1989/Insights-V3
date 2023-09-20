@@ -9,7 +9,7 @@ Tux Rewards Membership is our loyalty program that rewards you for purchasing tr
 Connect your GitHub and LinkedIn accounts to receive a 50% discount coupon for LF training or certification.
 
 {% hint style="info" %}
-1. This is a one-time reward and you can get a maximum of 500 reward points.
+1. This is a one-time reward, and you can get a maximum of 500 reward points.
 2. If you already have 500 reward points applied to your profile or have been previously rewarded 500 points, you will not qualify for these new 500 points.
 3. Complete the following steps:
    1. Connect to your [Github account](https://docs.linuxfoundation.org/lfx/my-profile/know-your-individual-dashboard/about-me/profile#connect-linkedin-account). You can connect as many Github accounts as you like, but the reward point will be granted only once per identity.
@@ -30,7 +30,7 @@ When you spend $500 with us, you will be automatically enrolled as a Tux Rewards
 
 ### Will my previous orders be counted toward my current status?
 
-If you spent $500 or more with us between October 11, 2019 and October 11, 21 you will be automatically enrolled in the Tux Rewards program and receive a 50% discount coupon code to be used toward all courses, certification exams, bundles, and bootcamps.
+If you spent $500 or more with us between October 11, 2019, and October 11, 21 you will be automatically enrolled in the Tux Rewards program and receive a 50% discount coupon code to be used toward all courses, certification exams, bundles, and boot camps.
 
 ### What happens if I refund a purchase?
 
@@ -50,7 +50,7 @@ How to Redeem Your Coupon Code:
 
 4\. Click on **Redeemable Coupons** to claim the coupon code.
 
-5\. Once you finish generating the coupon code, go to the Training and Certification catalog and select the product you are interested in purchasing, choose to enroll, and log into your Linux Foundation account. Then paste the coupon code into the box and proceed through the rest of the checkout process.
+5\. Once you finish generating the coupon code, go to the Training and Certification catalog select the product you are interested in purchasing, choose to enroll, and log into your Linux Foundation account. Then paste the coupon code into the box and proceed through the rest of the checkout process.
 
 6\. If you experience issues with your coupon code, please click the orange ‘Get Help’ button on the top right corner of your MyProfile Dashboard.
 
@@ -78,12 +78,4 @@ When you reach 500 points, you will receive a 50% discount coupon that you may u
 
 ### How long will it take for my points to show up after I purchase?
 
-Once you make a purchase that qualifies for Tux Rewards points, it may take up to 72 hours for the points to show up in your portal account.\
-
-
-### &#x20;<a href="#tuxrewardsfaq-canicombinetuxrewardspointsformultiplelinuxfoundationaccounts" id="tuxrewardsfaq-canicombinetuxrewardspointsformultiplelinuxfoundationaccounts"></a>
-
-
-
-
-
+Once you make a purchase that qualifies for Tux Rewards points, it may take up to 72 hours for the points to show up in your portal account.
