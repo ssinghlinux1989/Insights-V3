@@ -571,6 +571,8 @@
       * [Global Certification Insights](organization-dashboard/global-statistics/global-training-and-certifications/global-certification-insights.md)
   * [Managing Teams](organization-dashboard/managing-teams.md)
   * [Employee Management](organization-dashboard/employee-management.md)
+  * [Users Management](organization-dashboard/users-management/README.md)
+    * [User Access](organization-dashboard/users-management/user-access.md)
   * [Organization Profile](organization-dashboard/organization-profile.md)
 * [Project Control Center](project-control-center/README.md)
   * [V2 (Current)](project-control-center/v2-current/README.md)
