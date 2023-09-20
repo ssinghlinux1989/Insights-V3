@@ -15,4 +15,16 @@ Users will not be able to see Missing to LFX and only see users who need access 
 
 <figure><img src="../../.gitbook/assets/User access.png" alt=""><figcaption><p>User Access</p></figcaption></figure>
 
+## User Access table
+
+The User Access table provides you with a list of users from your organization along with their dashboard access whether they have admin or view access to the dashboard. It also displays if a user is in a pending invite or removal state.&#x20;
+
+{% hint style="info" %}
+An **Admin** user has Grants privileges such as editing, inviting or removing user access, editing or removing key contacts, requesting changes in membership entitlement roles, and editing the profile.
+
+A **Viewer** user can view and download reports.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Admin viewer.png" alt=""><figcaption><p>User Access</p></figcaption></figure>
+
 \

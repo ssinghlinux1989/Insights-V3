@@ -4,8 +4,7 @@ The User Management page allows users in navigating access and managing roles wi
 
 * User Access
 * Key Contacts
-* Boards and Committees \
-
+* Boards and Committees&#x20;
 
 {% hint style="warning" %}
 The Employees tab is replaced by Used tab in the latest release.&#x20;
