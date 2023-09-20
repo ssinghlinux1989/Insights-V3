@@ -1,7 +1,5 @@
 # Rewards
 
-5\. The same coupon code can be viewed by clicking **View Coupon Code**.
-
 ## Transactions
 
 To view your transactions for all the purchases you made through the Linux Foundation:
