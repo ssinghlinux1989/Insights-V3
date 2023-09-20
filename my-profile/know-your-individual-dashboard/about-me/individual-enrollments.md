@@ -1,19 +1,26 @@
 # Individual Enrollments
 
-The individual enrollments page of individual dashboard lets you view and manage your individual subscriptions as a user. By enrolling as an individual member or supporter, you show support for the Linux Foundation and its projects.
+The **Individual Enrollments** page of the individual dashboard lets you view and manage your individual subscriptions as a user. By enrolling as an individual member or supporter, you show support for the Linux Foundation and its projects.
 
 #### Why you should enroll:
 
 * Get big discounts on certification, training, and events.
-* The Linux Foundation individual membership gives you $100 off certification exams, you save your fee in one use.
+* Individual membership in the Linux Foundation saves you $100 off certification examinations, which you can utilize once.
 
-#### To view all individual projects that are available to enroll in as individual:
+#### To view all individual projects that are available to enroll in as an individual:
 
-1\. Log in to [https://openprofile.dev](https://openprofile.dev).
+1. Log in to [https://openprofile.dev](https://openprofile.dev).
+2. From the left navigation pane, navigate to **Purchases> Individual Enrollments**.
+3. From the list of the available projects , click **Enroll as an Invidual Supporter** CTA to enroll.
 
-2\. From left side navigation pane, navigate to **My Individual Enrollments**.
+<figure><img src="../../../.gitbook/assets/2023-09-20_13h18_06 (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/individual enrollment.png>)
+4. On the **Member Enrollment** page, enter you contact details and click **Next**.
+
+<figure><img src="../../../.gitbook/assets/2023-09-20_13h26_09.png" alt=""><figcaption></figcaption></figure>
+
+5. On the next page, enter your oder details and payment information.&#x20;
+6. confirm your purchase.&#x20;
 
 For each project, you can have one of the below individual status:
 
@@ -51,16 +58,6 @@ Disabling the auto renew, allow you to **renew manually**.
 
 ![Auto Renew](<../../../.gitbook/assets/auto renew.png>)
 
-4\. Purchase History of Individual Enrollments
-
-To \*\*\*\* view the purchase history of your enrollments; you have to look at the **purchase history section** from "My Profile" page
-
-![Menu Access to "My Profile"](<../../../.gitbook/assets/image (66).png>)
-
-![My Transaction Section (My Profile)](<../../../.gitbook/assets/image (9).png>)
-
 6\. To view all individual projects that you have enrolled in from my profile.
-
-You can view the projects that you have enrolled in from my profile (My Individual Enrollments Section), with the status of your enrollments.
 
 ![Individual Enrollment Section (My Profile)](<../../../.gitbook/assets/image (67).png>)
