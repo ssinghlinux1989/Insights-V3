@@ -71,3 +71,57 @@ To filter users by access, perform the following steps:
 
 <figure><img src="../../.gitbook/assets/Filters (3).png" alt=""><figcaption><p>Filters</p></figcaption></figure>
 
+## Profile View of a User
+
+You can view the details related to a user by viewing their profile. Profile View provides the following details related to the user:
+
+* Name of the user
+* Activities associated with the user such as Technical, Events and Trainings&#x20;
+* Project name for which user user is associated with
+* List of repositories for which the user is a maintainer &#x20;
+
+To view the profile of a user, perform the following steps:
+
+1.Click the User Name.
+
+<figure><img src="../../.gitbook/assets/User name (2).png" alt=""><figcaption><p>User Profile </p></figcaption></figure>
+
+2.The Profile dialog box appears with all the details.&#x20;
+
+<figure><img src="../../.gitbook/assets/Details profile.gif" alt=""><figcaption><p>Profile Details </p></figcaption></figure>
+
+## Editing User Access&#x20;
+
+Administrator can edit the access of the user from Admin to Viewer or the other way.&#x20;
+
+To edit the  user access, perform the following steps:
+
+1.Click the pencil icon available under the Actions column.&#x20;
+
+<figure><img src="../../.gitbook/assets/Act.png" alt=""><figcaption><p>Edit </p></figcaption></figure>
+
+2.The Edit Access dialog box appears. Click **Save Changes** to update the access.&#x20;
+
+{% hint style="info" %}
+The **Remove all access** button will initiate the deletion of the  user.&#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Edit access.png" alt=""><figcaption><p>Save Changes </p></figcaption></figure>
+
+{% hint style="info" %}
+There will not be any automated email sent to the user. The Administrator has to inform the user about the update to their access. &#x20;
+{% endhint %}
+
+## Delete a User&#x20;
+
+Administrator has an option to remove a user from a project. &#x20;
+
+To remove a user from the project, perform the following steps:
+
+1.Click the delete icon available under the Actions column.&#x20;
+
+<figure><img src="../../.gitbook/assets/Del.png" alt=""><figcaption><p>Delete </p></figcaption></figure>
+
+2.A confirmation message dialog box appears. Click **Remove** to remove a user.&#x20;
+
+<figure><img src="../../.gitbook/assets/Conf.png" alt=""><figcaption><p>Confirmation Message </p></figcaption></figure>
