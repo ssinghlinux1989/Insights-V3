@@ -59,8 +59,6 @@ To invite bulk users,  select **Upload a CSV** radio button, drag and drop the C
 The **Preview Invitation Email** link will provide the preview of the email invitation which will be shared with the invitee. The Preview email contains the details about the invitation as well as FAQs related to the Organization Dashboard.&#x20;
 {% endhint %}
 
-4\. An invitation link will be shared with the recipient. The employee should update the details from the invitation that has been shared to add themselves as new employee for an open source project.&#x20;
-
 ## Filtering of Employees&#x20;
 
 Administrator can filter users based on access (admin or viewer access).&#x20;
@@ -77,7 +75,7 @@ You can view the details related to a user by viewing their profile. Profile Vie
 
 * Name of the user
 * Activities associated with the user such as Technical, Events and Trainings&#x20;
-* Project name for which user user is associated with
+* Project name for which user is associated with
 * List of repositories for which the user is a maintainer &#x20;
 
 To view the profile of a user, perform the following steps:
