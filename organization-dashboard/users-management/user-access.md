@@ -123,3 +123,19 @@ To remove a user from the project, perform the following steps:
 2.A confirmation message dialog box appears. Click **Remove** to remove a user.&#x20;
 
 <figure><img src="../../.gitbook/assets/Conf.png" alt=""><figcaption><p>Confirmation Message </p></figcaption></figure>
+
+## FAQ's on User Access
+
+**Q: When you delete a user, what happens if they are in a failed state?**
+
+Ans: You will not be able to successfully delete the user. Some actions to reassign and remove roles will appear, however the remaining ones are the ones that have been removed/changed.
+
+**Q: When you delete a user what happens?**
+
+* The user you’ve deleted no longer has access to the Organization Dashboard.
+* Any future company affiliation data from the user will no longer appear - Training, Events, Project Contributions, etc. You’ll still see their past activity data.
+* All the reassignment/edits will appear instantaneously on the users.
+
+**Q: What if I no longer see Committee seats for my Active Membership?**
+
+* Before deleting a user, always ensure the Committee seats are checked and coordinated with the Program Manager for proper reassignment.
