@@ -18,11 +18,11 @@ The Key Contacts page also performs the following actions:
 
 The Key Contact table provides you with a list of users from your organization along with their with their affiliated roles. You can view the Key contacts in a list or  in a group view. List View provides you the list of users with their affiliated roles and group view provides you with the list of users grouped for a particular project.&#x20;
 
-You can use the toogle button to dispaly Key contacts in Group View or List View.&#x20;
+You can use the toggle button to display Key contacts in Group View or List View.&#x20;
 
 <figure><img src="../../.gitbook/assets/Ke Group.png" alt=""><figcaption><p>Key Contacts </p></figcaption></figure>
 
-## Filtering of Employees&#x20;
+## Filtering of Key Contacts
 
 Administrator can filter key contacts based on a particular project.&#x20;
 

@@ -59,7 +59,7 @@ To invite bulk users,  select **Upload a CSV** radio button, drag and drop the C
 The **Preview Invitation Email** link will provide the preview of the email invitation which will be shared with the invitee. The Preview email contains the details about the invitation as well as FAQs related to the Organization Dashboard.&#x20;
 {% endhint %}
 
-## Filtering of Employees&#x20;
+## Filtering of Users
 
 Administrator can filter users based on access (admin or viewer access).&#x20;
 

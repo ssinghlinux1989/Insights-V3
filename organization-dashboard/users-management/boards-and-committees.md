@@ -13,4 +13,39 @@ The Board and Committees page also performs the following actions:
 * Profile view of the user&#x20;
 * Edit access of a user
 
-\
+## Board and Committees table
+
+The Board and Committees table provides you with a list of users from your organization along with their with their affiliated roles. You can view the Board and Committees users in a list or  in a group view. List View provides you the list of users with their affiliated roles and group view provides you with the list of users grouped for a particular project. It also provides group view of different committees in the project.&#x20;
+
+You can use the toggle button to display Board and Committees users in Group View or List View.
+
+<figure><img src="../../.gitbook/assets/B@C (1).png" alt=""><figcaption><p>Board and Committees Table </p></figcaption></figure>
+
+## Filtering of Boards and Committees Users
+
+Administrator can filter Boards and Committees users based on a particular project.&#x20;
+
+To filter Boards and Committees users by project, perform the following steps:
+
+1.Click **Filters**.  Select the required project and click **Apply**.
+
+<figure><img src="../../.gitbook/assets/Filter BC.png" alt=""><figcaption><p>Filters</p></figcaption></figure>
+
+## Profile View of a Board and Committee User
+
+You can view the details related to a Board and Committee user by viewing their profile. Profile View provides the following details related to the user:
+
+* Name of the Board and Committee user
+* Activities associated with the key contact such as Technical, Events and Trainings&#x20;
+* Project name for which Board and Committee user is associated with
+* List of repositories for which the Board and Committee user is a maintainer &#x20;
+
+To view the profile of a Board and Committee user, perform the following steps:
+
+1.Click the Name.
+
+<figure><img src="../../.gitbook/assets/BCP.png" alt=""><figcaption><p>Profile  Name</p></figcaption></figure>
+
+2.The Profile dialog box appears with all the details.&#x20;
+
+<figure><img src="../../.gitbook/assets/BCProfile.png" alt=""><figcaption><p>Profile Details </p></figcaption></figure>
