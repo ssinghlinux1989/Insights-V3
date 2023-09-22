@@ -49,7 +49,7 @@ You can add up to 8 users at a time while sending out the invitations.&#x20;
 
 <figure><img src="../../.gitbook/assets/Invite LFX.png" alt=""><figcaption><p>Send Invitation </p></figcaption></figure>
 
-To invite bulk users,  select **Upload a CSV** radio button, drag and drop the CSV file which has user details and click **Send Invitation(s**) button. &#x20;
+To invite bulk users(user belonging to your organization),  select **Upload a CSV** radio button, drag and drop the CSV file which has user details and click **Send Invitation(s**) button. &#x20;
 
 <figure><img src="../../.gitbook/assets/CSV.png" alt=""><figcaption><p>Bulk Invitation</p></figcaption></figure>
 
@@ -110,25 +110,13 @@ The **Remove all access** button will initiate the deletion of the  user.&#x20;
 There will not be any automated email sent to the user. The Administrator has to inform the user about the update to their access. &#x20;
 {% endhint %}
 
-## Delete a User&#x20;
 
-Administrator has an option to remove a user from a project. &#x20;
-
-To remove a user from the project, perform the following steps:
-
-1.Click the delete icon available under the Actions column.&#x20;
-
-<figure><img src="../../.gitbook/assets/Del.png" alt=""><figcaption><p>Delete </p></figcaption></figure>
-
-2.A confirmation message dialog box appears. Click **Remove** to remove a user.&#x20;
-
-<figure><img src="../../.gitbook/assets/Conf.png" alt=""><figcaption><p>Confirmation Message </p></figcaption></figure>
 
 ## FAQ's on User Access
 
 **Q: When you delete a user, what happens if they are in a failed state?**
 
-Ans: You will not be able to successfully delete the user. Some actions to reassign and remove roles will appear, however the remaining ones are the ones that have been removed/changed.
+* You will not be able to successfully delete the user. Some actions to reassign and remove roles will appear, however the remaining ones are the ones that have been removed/changed.
 
 **Q: When you delete a user what happens?**
 
