@@ -56,7 +56,8 @@ To add a user as a key contact,  perform the following steps:
 <figure><img src="../../.gitbook/assets/Add Jey Dialog.png" alt=""><figcaption><p>Add Key Contact Dialog Box</p></figcaption></figure>
 
 {% hint style="info" %}
-If a user has not provided first name, last name and title. Such a user is displayed with Email under the Name Column. If the user has LF ID, then the user name is displayed. You can also re invite mail to the user by clicking the mail icon. &#x20;
+* If a user has not provided first name, last name and title. Such a user is displayed with Email under the Name Column. If the user has LF ID, then the user name is displayed. You can also re invite mail to the user by clicking the mail icon. &#x20;
+* In Contact Type, if the domain alias is not matching, you need to raise a customer supper ticket by contacting the [customer Support](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/467) team.&#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Invite ke.png" alt=""><figcaption></figcaption></figure>
