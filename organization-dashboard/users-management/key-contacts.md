@@ -80,3 +80,30 @@ To view the profile of a key contact, perform the following steps:
 2.The Profile dialog box appears with all the details.&#x20;
 
 <figure><img src="../../.gitbook/assets/Profile Key Snap.png" alt=""><figcaption><p>Profile Details </p></figcaption></figure>
+
+Edit Key Contact&#x20;
+
+Edit Key Contact allows you to either remove the user or reassign with another user.&#x20;
+
+To edit a key contact, perform the following steps:
+
+1.Click the edit icon associated with a key contact.&#x20;
+
+<figure><img src="../../.gitbook/assets/Edit KC.png" alt=""><figcaption><p>Edit Key Contact</p></figcaption></figure>
+
+2.The Edit User dialog box appears. You can see a table with the list of projects the user is associated with. The following points are important while edit a user:
+
+* You can reassign the project to yourself or any other user. &#x20;
+* You can either remove the user by clicking the cross mark.&#x20;
+* You cannot remove the user who is the primary contact for the project. You need to reassign it to any other user.&#x20;
+* If a user is associated with the committees, you need to raise a [Customer Support](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/467) ticket to delete a user.&#x20;
+* **Delete User** will delete the key contact
+
+3.After reassigning of the user, click **Save Changes**.&#x20;
+
+{% hint style="info" %}
+When you update a user, there are two actions will be performed. A **Happy** Path where the user is updated or **Error** path where the user is not updated for some back end reasons. You can retry updating it again. If you face issues again, you need to raise a [Customer Support](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/467) ticket.&#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Edit Dial KC.png" alt=""><figcaption><p>Edit Dialog box</p></figcaption></figure>
+
