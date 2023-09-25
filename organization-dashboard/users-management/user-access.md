@@ -125,8 +125,17 @@ To delete a user, perform the following steps:
 * You need to reassign the project to yourself or any other user. &#x20;
 * You can either remove the user by clicking the cross mark.&#x20;
 * You cannot remove the user who is the primary contact for the project. You need to reassign it to any other user.&#x20;
+* If a user is associated with the committees, you need to raise a [Customer Support](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/467) ticket to delete a user.&#x20;
 
+<figure><img src="../../.gitbook/assets/Dele tab (2).png" alt=""><figcaption><p>Delete User </p></figcaption></figure>
 
+3.After reassigning of the user, select the I understand message and click **Delete User**.&#x20;
+
+{% hint style="info" %}
+When you delete a user, there are two actions will be performed. A **Success**  Path where the user is deleted or **Error** path where the user is not deleted for some back end reasons. You can retry deleting it again. If you face issues again, you need to raise a [Customer Support](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/467) ticket.&#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/DC.png" alt=""><figcaption><p>Delete User </p></figcaption></figure>
 
 ## FAQ's on User Access
 
