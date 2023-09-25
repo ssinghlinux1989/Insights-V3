@@ -53,7 +53,6 @@
   * [TUX Rewards FAQs](my-profile/tux-rewards-faqs.md)
 * [Insights](insights/README.md)
   * [V3 (Current)](insights/v3-current/README.md)
-    * [Cheat sheet for All Charts](insights/v3-current/cheat-sheet-for-all-charts.md)
     * [Release Notes](insights/v3-current/release-notes.md)
     * [What is Insights V3](insights/v3-current/what-is-insights-v3.md)
     * [Intended Audience](insights/v3-current/intended-audience.md)
