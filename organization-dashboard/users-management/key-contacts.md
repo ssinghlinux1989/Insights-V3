@@ -97,7 +97,6 @@ To edit a key contact, perform the following steps:
 * You can either remove the user by clicking the cross mark.&#x20;
 * You cannot remove the user who is the primary contact for the project. You need to reassign it to any other user.&#x20;
 * If a user is associated with the committees, you need to raise a [Customer Support](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/467) ticket to delete a user.&#x20;
-* **Delete User** will delete the key contact
 
 3.After reassigning of the user, click **Save Changes**.&#x20;
 
@@ -107,3 +106,6 @@ When you update a user, there are two actions will be performed. A **Happy** Pat
 
 <figure><img src="../../.gitbook/assets/Edit Dial KC.png" alt=""><figcaption><p>Edit Dialog box</p></figcaption></figure>
 
+{% hint style="info" %}
+For users listed under Key Contacts, you have the ability to remove their affiliation if they don't have access to the Organization Dashboard (They only appear with "User Access"). To do this, click the **Delete User**. The procedure is identical to the one outlined in the "User Access (Delete User)" section
+{% endhint %}
