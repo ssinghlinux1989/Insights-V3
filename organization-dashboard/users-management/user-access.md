@@ -110,6 +110,22 @@ The **Remove all access** button will initiate the deletion of the  user.&#x20;
 There will not be any automated email sent to the user. The Administrator has to inform the user about the update to their access. &#x20;
 {% endhint %}
 
+## Delete a User&#x20;
+
+An administrator can remove the user from the user access table.&#x20;
+
+To delete a user, perform the following steps:
+
+1.Click the delete icon associated with a user.&#x20;
+
+<figure><img src="../../.gitbook/assets/Delete Use.png" alt=""><figcaption><p>Delete </p></figcaption></figure>
+
+2.The Delete User dialog box appears. You can see a table with the list of projects the user is associated with. The following points are important while delete a user:
+
+* You need to reassign the project to yourself or any other user. &#x20;
+* You can either remove the user by clicking the cross mark.&#x20;
+* You cannot remove the user who is the primary contact for the project. You need to reassign it to any other user.&#x20;
+
 
 
 ## FAQ's on User Access
