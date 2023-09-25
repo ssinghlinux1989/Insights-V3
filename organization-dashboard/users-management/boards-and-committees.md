@@ -49,3 +49,28 @@ To view the profile of a Board and Committee user, perform the following steps:
 2.The Profile dialog box appears with all the details.&#x20;
 
 <figure><img src="../../.gitbook/assets/BCProfile.png" alt=""><figcaption><p>Profile Details </p></figcaption></figure>
+
+## Edit Board and Committees User
+
+Administrator can edit the user belonging to board and committee.&#x20;
+
+To edit Board and Committee user, perform the following steps:
+
+1.Click the edit icon associated with a user.
+
+<figure><img src="../../.gitbook/assets/BC Edit (1).png" alt=""><figcaption><p>Edit </p></figcaption></figure>
+
+2.The Profile Snapshot of the user appears. Click **Request Change**.&#x20;
+
+<figure><img src="../../.gitbook/assets/PSEdit.png" alt=""><figcaption><p>Request Change</p></figcaption></figure>
+
+3.The Request Change dialog box appears. Provide the **Email** of the new assignee and give a brief **Reason for the Change** and click **Submit**.&#x20;
+
+{% hint style="info" %}
+* Program Management team should validate the change request.&#x20;
+* In order to delete the user, you need to raise the [customer Support](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4/create/467) ticket.&#x20;
+{% endhint %}
+
+
+
+<figure><img src="../../.gitbook/assets/RCSubmi.png" alt=""><figcaption><p>Submit</p></figcaption></figure>

@@ -81,7 +81,7 @@ To view the profile of a key contact, perform the following steps:
 
 <figure><img src="../../.gitbook/assets/Profile Key Snap.png" alt=""><figcaption><p>Profile Details </p></figcaption></figure>
 
-Edit Key Contact&#x20;
+## Edit Key Contact&#x20;
 
 Edit Key Contact allows you to either remove the user or reassign with another user.&#x20;
 
