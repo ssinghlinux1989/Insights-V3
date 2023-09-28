@@ -4,7 +4,7 @@ The **Landing Page** provides you with all the important information about your 
 
 This page focuses on the **Foundation Cards** and the individual **Project Cards**, which serve as the core navigational elements, presenting the key data metrics.
 
-
+<figure><img src="../../../../.gitbook/assets/2023-09-25_18h46_36 (2).gif" alt=""><figcaption></figcaption></figure>
 
 1. **Select the Projects and the Foundations:** The search box at the top of the main menu helps you find a particular project or repository.
 
