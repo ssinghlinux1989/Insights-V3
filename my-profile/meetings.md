@@ -33,9 +33,13 @@ To view meetings in List View, perform the following steps:
 
 1. On the **Upcoming Meetings** tab, you will see the list of meetings.
 2. Click on the meeting row to see the meeting details.
-3.
+3. On the **Meeting Details** pop-up window, you will see the following details:
 
+&#x20;       1\. Zoom link that you can copy and share.
 
+&#x20;        2\. Resend Invitation CTA.
+
+&#x20;        3\. Add to Calender CTA.
 
 <figure><img src="../.gitbook/assets/2023-09-29_10h53_39.gif" alt=""><figcaption></figcaption></figure>
 
