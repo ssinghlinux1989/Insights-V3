@@ -29,6 +29,16 @@ To view meetings in List View, perform the following steps:
 
 ![List View](../.gitbook/assets/2023-09-28\_22h47\_23.gif)
 
+### Add meetings to your Calendar
+
+1. On the **Upcoming Meetings** tab, you will see the list of meetings.
+2. Click on the meeting row to see the meeting details.
+3.
+
+
+
+<figure><img src="../.gitbook/assets/2023-09-29_10h53_39.gif" alt=""><figcaption></figcaption></figure>
+
 ### Viewing Meetings in Calendar View
 
 The calendar view provides details of the scheduled meetings on a calendar. The number of meetings planned for the day is shown on the date and day of the calendar. A table with details of the meetings is also available to check the following information related to the discussion:
