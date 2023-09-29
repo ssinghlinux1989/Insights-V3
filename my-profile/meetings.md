@@ -37,9 +37,9 @@ To view meetings in List View, perform the following steps:
 
 &#x20;       1\. Zoom link that you can copy and share.
 
-&#x20;        2\. Resend Invitation CTA.
+&#x20;        2\. **Resend Invitation** CTA.
 
-&#x20;        3\. Add to Calender CTA.
+&#x20;        3\. **Add to Calendar** CTA.
 
 <figure><img src="../.gitbook/assets/2023-09-29_10h53_39.gif" alt=""><figcaption></figcaption></figure>
 
@@ -64,4 +64,4 @@ To view meetings in List View, perform the following steps:
 1. Log into [My Profile](https://openprofile.dev) using your LF account, and from the left navigation pane, click **Meetings**.&#x20;
 2. On the **My Meetings** page, select **Calendar** View.
 
-![Calendar View](<../.gitbook/assets/2023-06-24\_17h50\_48 (1).gif>)
+<figure><img src="../.gitbook/assets/2023-09-28_22h52_39 (1).png" alt=""><figcaption></figcaption></figure>
