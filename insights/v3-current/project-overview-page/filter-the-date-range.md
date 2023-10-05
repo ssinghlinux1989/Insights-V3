@@ -11,15 +11,13 @@ Follow these steps to utilize the date-filtering feature:
 2. Click on the "Date Filter" section to expand the options.
 3. Choose from the predefined date range options: Today, Last Week, Last 30 days, Last Quarter, Last Year, Last Two Years, or All Time.
 4. Select the desired option by clicking on it.
-5. Click the **Bots** checkbox, If you want to hide the bots' data from the analytics.
+5. Click the **Bots** checkbox if you want to hide the bots' data from the analytics.
 
 {% hint style="info" %}
 The filter has **This Year** as a default time period.&#x20;
-
-
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/2023-07-03_22h52_19.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2023-10-05_19h19_02.gif" alt=""><figcaption></figcaption></figure>
 
 ### Select Custom Date Range
 
@@ -34,4 +32,4 @@ The filter has **This Year** as a default time period.&#x20;
 
 ### Modifying or Clearing the Date Filter
 
-To clear the date filter and display data for the entire available range, click the **Clear Dates** button.
+To display data for the entire available range and remove the date filter, click on the **Clear Dates** button.
