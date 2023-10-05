@@ -19,5 +19,5 @@ This page focuses on the **Foundation Cards** and the individual **Project Cards
 </details>
 
 2. **Foundation Cards:** Foundation Cards are like summary cards that provide key insights into different open source foundations. When you click on one of these cards, you will be redirected to a detailed page specifically dedicated to that foundation.
-3. **Project Cards:** On the main page, you will see the project cards. Each card represents an individual open source project. When you click on a project card, it takes you to a dedicated [overview page](../../overview-page/) for that project. These cards show you real-time data about each project, such as important numbers and updates.
+3. **Project Cards:** On the main page, you will see the project cards. Each card represents an individual open source project. When you click on a project card, it takes you to a dedicated [overview page](../../project-overview-page/) for that project. These cards show you real-time data about each project, such as important numbers and updates.
 

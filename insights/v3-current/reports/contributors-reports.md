@@ -18,7 +18,7 @@ The **Contributors'** reports provide insights into the individuals who have con
 3. Select the desired start and end dates for the data you want to analyze.
 4. Click **Apply** to update the dashboard with the selected date range.
 
-For more information, see [Filter Date Range](../overview-page/filter-the-date-range.md).
+For more information, see [Filter Date Range](../project-overview-page/filter-the-date-range.md).
 
 #### &#x20;Data Source Selection
 

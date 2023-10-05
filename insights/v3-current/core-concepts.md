@@ -79,14 +79,6 @@ Currently, the contribution is defined as any of the following:
 
 <details>
 
-<summary>Contribution role</summary>
-
-
-
-</details>
-
-<details>
-
 <summary>New Contributor</summary>
 
 A new contributor is someone who contributes the first [contribution](https://github.com/LF-Engineering/lfx-insights-ui/blob/main/DEFINITIONS.md#contribution) in a specific time range and can also be in a particular project.
@@ -120,13 +112,5 @@ An identity is virtually affiliated with a company when the [identity](https://g
 Those _virtual affiliations_ are not project specific and have no time ranges.
 
 They are just helpers to allow finding more company affiliations.
-
-</details>
-
-<details>
-
-<summary>Repository</summary>
-
-
 
 </details>

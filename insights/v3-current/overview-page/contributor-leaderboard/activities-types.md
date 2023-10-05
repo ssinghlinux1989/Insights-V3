@@ -1,2 +1,0 @@
-# Activities Types
-
