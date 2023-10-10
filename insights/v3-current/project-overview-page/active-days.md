@@ -2,11 +2,31 @@
 
 The **Active Days** metric measures the number of days a contributor has made at least one contribution to a project. It counts the number of days on which a contributor has been actively engaged in the project's development.
 
-The active days metric can be used to compare the activity levels of different projects. This can be helpful in deciding which project to contribute to or invest in.
+<details>
+
+<summary>Active Days</summary>
+
+Active Days counts the number of unique days in a given time frame when contributions (such as commits, pull requests, or issues) were made to your project.
+
+A higher number of active days indicates a higher contributor engagement.&#x20;
+
+</details>
+
+<details>
+
+<summary><strong>Average Contributions per Active Day</strong></summary>
+
+It shows the average number of contributions (such as commits, pull requests, or issues) made to an open-source project per active day within a specific time frame.
+
+This metric helps project maintainers and contributors understand the efficiency and effectiveness of their project's development process.
+
+</details>
 
 ### Interact with the chart
 
-<figure><img src="../../../.gitbook/assets/2023-06-24_16h29_25.png" alt=""><figcaption><p>Active Days and Inactive days</p></figcaption></figure>
+The Active Day chart also displays two bars for the current data and the previous data, allowing you to compare them.
+
+<figure><img src="../../../.gitbook/assets/2023-10-10_19h54_06.png" alt=""><figcaption></figcaption></figure>
 
 The Active Days dashboard provides you with the following insights:
 
