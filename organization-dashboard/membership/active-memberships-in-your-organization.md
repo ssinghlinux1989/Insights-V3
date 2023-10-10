@@ -2,10 +2,10 @@
 
 Active Membership tab under Membership provides you an overview on the active membership availed by your organization for various open source projects. This table provides you the following details related to the active membership:
 
-* Open source project name for which your organization has availed the membership.
+* Open source project name for which your organization has availed the membership (On click of the Project Name, you will be navigated to the Membership page. For more information refer [Membership](https://docs.linuxfoundation.org/lfx/organization-dashboard/projects/membership-details-of-a-project)).
 * Type of membership that your organization has purchased.
 * Renewal date of the membership.
-* Benefits claimed from the membership.
+* Benefits claimed from the membership (On click of the Benefits, you will be navigated to the Benefits page. For more information refer [Benefits](https://docs.linuxfoundation.org/lfx/organization-dashboard/projects/benefits)).
 
 <figure><img src="../../.gitbook/assets/Membership.png" alt=""><figcaption><p>Active Membership</p></figcaption></figure>
 

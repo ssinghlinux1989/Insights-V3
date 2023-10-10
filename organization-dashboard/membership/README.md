@@ -29,4 +29,4 @@ To access your Membership, perform the following steps:
 
 2.On the vertical sidebar navigation menu, in the **Search** box enter your company or organization name. By default, the dashboard page appears. Click the **Membership** menu available on the Vertical Sidebar navigation menu.
 
-<figure><img src="../../.gitbook/assets/Membership_Main.png" alt=""><figcaption><p>Membership</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Acces Mem.png" alt=""><figcaption><p>Membership</p></figcaption></figure>
