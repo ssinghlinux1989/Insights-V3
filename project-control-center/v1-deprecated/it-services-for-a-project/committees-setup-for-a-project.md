@@ -21,7 +21,7 @@ The Committee overview section provides the overview information on:
 
 <figure><img src="../../../.gitbook/assets/Comt Char.png" alt=""><figcaption><p>Committee Overview </p></figcaption></figure>
 
-## Committee <a href="#billing-information" id="billing-information"></a>
+## Add a Committee <a href="#billing-information" id="billing-information"></a>
 
 You can add and update committee information related to the project such as name, mailing list, committee website, permissions and description.
 
@@ -56,6 +56,22 @@ If you want to delete the existing committee, click the delete ![](../../../.git
 {% endhint %}
 
 ![Creating a Committee](../../../.gitbook/assets/Add\_Com.gif)
+
+### Import Members into a Committee&#x20;
+
+You have an option to import members from the mailing list into the committee.&#x20;
+
+To import members into the committee, perform the following steps:
+
+1.Click **+Add Committee** to add the committee.
+
+2.The Create Committee page. Enter the Committee Name, Select the committee Type and Click **Import Members**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Import.png" alt=""><figcaption><p>Import Members</p></figcaption></figure>
+
+3.The Import Mailing Lists to Committee dialog box appears. Select the required Mailing Lists from the **Select Mailing Lists** drop down and click **Import**. All the members belonging to the selected mailing list are imported to the committee.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Importttt.gif" alt=""><figcaption><p>Import Members</p></figcaption></figure>
 
 ### Adding Members to a Committee
 
