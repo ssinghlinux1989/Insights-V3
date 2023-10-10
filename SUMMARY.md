@@ -548,6 +548,8 @@
   * [Events Insights](organization-dashboard/events-insights/README.md)
     * [Attendee Insights](organization-dashboard/events-insights/attendee-insights.md)
     * [Speaker Insights](organization-dashboard/events-insights/speaker-insights.md)
+    * [Sponsorship Insights](organization-dashboard/events-insights/sponsorship-insights.md)
+    * [Travel Funding](organization-dashboard/events-insights/travel-funding.md)
   * [Training and Certifications](organization-dashboard/training-and-certifications/README.md)
     * [Training and Certifications Widget](organization-dashboard/training-and-certifications/training-and-certifications-widget.md)
     * [Training Insights](organization-dashboard/training-and-certifications/training-insights.md)
