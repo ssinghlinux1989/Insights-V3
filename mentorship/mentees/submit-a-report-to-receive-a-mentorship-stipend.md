@@ -43,12 +43,14 @@ Click **Save.**
 
 1\. **United States residents:** please add the US bank deposit account to Expensify when first setting up the Expensify account
 
-2\. **International mentees not residing in the US:** please add “ - International Bank” after your name. The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend payment
+2\. **International mentees not residing in the US:** please add "International Bank” after your name. The Linux Foundation will use the Wire Transfer Form you submitted with your acceptance letter to process your stipend expense.
+
+
 
 3\. If you need to **update your bank information,** please download and use the wire transfer form below, add "updated" to the title, and attach it as a receipt with your report.
 {% endhint %}
 
-8\. After you're redirected to the Reports page, click **Submit** from the top left corner.
+8\. After you are redirected to the Reports page, click **Submit** from the top left corner.
 
 9\. (Optional) Provide the email address of an individual in the **CC** field if you want to share the report with the individual.
 
@@ -61,5 +63,6 @@ If you reside in the United States, add a U.S. bank deposit account to Expensify
 ![](<../../.gitbook/assets/Add US Bank Account.png>)
 
 {% hint style="warning" %}
-**NOTE:** It may take up to 30 business days for the funds to be processed via wire transfer and released by a bank outside the United States.
+**NOTE:** ~~It may take up to 30 business days for the funds to be processed via wire transfer and released by a bank outside the United States.~~
 {% endhint %}
+
