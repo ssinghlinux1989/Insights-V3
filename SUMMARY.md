@@ -65,7 +65,7 @@
         * [Foundation Dashboard](insights/v3-current/getting-started/dashboard-overview/foundation-dashboard.md)
         * [Foundation Analytics](insights/v3-current/getting-started/dashboard-overview/foundation-analytics.md)
         * [Project Cards](insights/v3-current/getting-started/dashboard-overview/project-cards.md)
-        * [COCOMO](insights/v3-current/getting-started/dashboard-overview/cocomo.md)
+        * [Cost Estimation Simplified:  COCOMO](insights/v3-current/getting-started/dashboard-overview/cost-estimation-simplified-cocomo.md)
       * [Navigation and Menus](insights/v3-current/getting-started/navigation-and-menus.md)
       * [Search the Projects and Repositories](insights/v3-current/getting-started/search-the-projects-and-repositories.md)
     * [Project Overview Page](insights/v3-current/project-overview-page/README.md)
