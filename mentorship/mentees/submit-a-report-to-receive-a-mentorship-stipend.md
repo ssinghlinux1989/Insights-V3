@@ -36,14 +36,14 @@ To create and submit an **Expensify Report:**
 
 
 {% hint style="warning" %}
-**Important: International mentees not residing in the US:** please add "International Bank” after your name. The Linux Foundation will use the **Wire Transfer Form** you submitted with your acceptance letter to process your stipend expense.
+**Important: International mentees not residing in the US:** please add "International Bank” after your name. The Linux Foundation will use the details on the **Wire Transfer Form** you submit to pay your stipend.
 
-1. Download the attached wire transfer form.
-2. Fill in all the required information.&#x20;
-3. Upload the form with your report.
+1. Download the **Wire Transfer Form** found below.
+2. Fill in all the required information. It must be hand-written.
+3. Upload and attach the form as a receipt with your report.
 {% endhint %}
 
-{% file src="../../.gitbook/assets/The Linux Foundation Wire Transfer Form (2) (1).pdf" %}
+{% file src="../../.gitbook/assets/The Linux Foundation Wire Transfer Form (1).pdf" %}
 
 7. Click **Save.**
 
