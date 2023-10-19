@@ -1,4 +1,6 @@
-# What is Insights V3
+# Unlocking Data-Driven Potential with Insight V3
+
+## What is Insights V3
 
 Insights V3 is an open source analytical tool that provides insights from analyzing open source software (OSS) projects.
 

@@ -53,7 +53,7 @@
 * [Insights](insights/README.md)
   * [V3 (Current)](insights/v3-current/README.md)
     * [Release Notes](insights/v3-current/release-notes.md)
-    * [What is Insights V3](insights/v3-current/what-is-insights-v3.md)
+    * [Unlocking Data-Driven Potential with Insight V3](insights/v3-current/unlocking-data-driven-potential-with-insight-v3.md)
     * [Intended Audience](insights/v3-current/intended-audience.md)
     * [System Requirements](insights/v3-current/system-requirements.md)
     * [How does Insights V3 help you?](insights/v3-current/how-does-insights-v3-help-you.md)
