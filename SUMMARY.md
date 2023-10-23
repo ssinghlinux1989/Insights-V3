@@ -65,6 +65,7 @@
         * [Accessing the Foundation Overview Page](insights/v3-beta-version-current/getting-started/landing-page/accessing-the-foundation-dashboard/README.md)
           * [Foundation Overview](insights/v3-beta-version-current/getting-started/landing-page/accessing-the-foundation-overview-page/foundation-overview/README.md)
             * [Project Ecosystem](insights/v3-beta-version-current/getting-started/landing-page/accessing-the-foundation-overview-page/foundation-overview/project-ecosystem.md)
+            * [Distribution of Projects](insights/v3-beta-version-current/getting-started/landing-page/accessing-the-foundation-overview-page/foundation-overview/distribution-of-projects.md)
             * [Project Velocity](insights/v3-beta-version-current/getting-started/landing-page/accessing-the-foundation-overview-page/foundation-overview/project-velocity.md)
           * [Foundation's Projects](insights/v3-beta-version-current/getting-started/landing-page/accessing-the-foundation-dashboard/foundation-analytics.md)
         * [Project Cards](insights/v3-beta-version-current/getting-started-with-insights-v3-your-dynamic-analytics-companion/landing-page/project-cards.md)
