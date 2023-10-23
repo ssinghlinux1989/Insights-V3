@@ -20,7 +20,7 @@ A foundation card displays the following key metrics:
 
 ### Interact with Foundation Cards
 
-When you click on a foundation card, it opens up a [Foundation Dashboard](foundation-overview.md) dedicated to that foundation. Here, you will find more detailed information about the foundation's contributions to the open source community.
+When you click on a foundation card, it opens up a [Foundation Dashboard](../../getting-started/landing-page/accessing-the-foundation-dashboard/foundation-overview.md) dedicated to that foundation. Here, you will find more detailed information about the foundation's contributions to the open source community.
 
 A foundation card has the following details:
 
@@ -32,5 +32,5 @@ A foundation card has the following details:
 
 4. **Download Icon:** click <img src="../../../../.gitbook/assets/image (1).png" alt="" data-size="original"> icon **(2)** to download the foundation card.
 5. It shows the key metrics of the foundation.
-6. **Software Value:** Constructive Cost Modal (COCOMO) is a procedural cost estimate model for software projects.
+6. **Software Value:** [Constructive Cost Modal (COCOMO)](cocomo-cost-estimation-simplified.md) is a procedural cost estimate model for software projects.
 

@@ -1,14 +1,8 @@
 # Foundation Overview
 
-#### Accessing the Foundation Dashboard
-
-1. Click on a **Foundation Card** from the **Landing Page** or search (2) for the foundation using the search box at the top.
-
-<figure><img src="../../../../.gitbook/assets/2023-08-28_14h00_51.png" alt=""><figcaption></figcaption></figure>
-
 #### Analyze the Foundation Dashboard
 
-<figure><img src="../../../../.gitbook/assets/2023-08-28_19h12_23.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/2023-08-28_19h12_23.gif" alt=""><figcaption></figcaption></figure>
 
 #### Key Metrics
 
@@ -29,7 +23,7 @@ Monitoring project velocity helps teams assess their performance and plan future
 
 The **Project Velocity** chart displays data from the last calendar year.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -54,9 +48,9 @@ To compute velocity, the following metrics are used:
 
 </details>
 
-* Click ![](<../../../../.gitbook/assets/image (2) (1).png>)icon to explore the chart.
+* Click ![](<../../../../../.gitbook/assets/image (2) (1).png>)icon to explore the chart.
 
-<figure><img src="../../../../.gitbook/assets/2023-08-28_19h47_00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/2023-08-28_19h47_00.png" alt=""><figcaption></figcaption></figure>
 
 1. On the Y-axis, there's a logarithmic scale representing PRs and Issues.
 2. On the X-axis, there's a logarithmic scale representing commits.
@@ -90,4 +84,4 @@ To compute velocity, the following metrics are used:
 
 #### Navigating Back
 
-Click the <img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original"> icon to return to the **Landing Page**.
+Click the <img src="../../../../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original"> icon to return to the **Landing Page**.
