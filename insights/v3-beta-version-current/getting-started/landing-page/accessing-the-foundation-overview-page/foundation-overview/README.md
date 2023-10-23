@@ -8,7 +8,7 @@ The **Foundation Overview** page in Insights V3 provides a comprehensive snapsho
 
 ### Header Section
 
-<figure><img src="../../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 At the top of the page, you'll find the Header Section, which includes the following elements:
 
@@ -29,6 +29,10 @@ At the top, you will see the following four high-level metrics:
 3. **Lines of Code:** Displays the total lines of code written for all the projects within the foundation.
 4. **Organizations:** The metric shows the total number of organizations that have contributed to the projects within the foundation.
 
+#### Left Navigation&#x20;
+
+
+
 #### Navigating Back
 
-Click the <img src="../../../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original"> icon to return to the **Landing Page**.
+From the left navigation pane, click the  ![](<../../../../../../.gitbook/assets/image (1).png>)  icon to return to the **Landing Page**.
