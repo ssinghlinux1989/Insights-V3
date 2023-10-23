@@ -2,7 +2,7 @@
 description: Constructive Cost Model
 ---
 
-# COCOMO
+# COCOMO: Cost Estimation Simplified
 
 The COCOMO (Constructive Cost Model) is a widely used model that estimates the effort, time, and cost associated with software development projects.
 
