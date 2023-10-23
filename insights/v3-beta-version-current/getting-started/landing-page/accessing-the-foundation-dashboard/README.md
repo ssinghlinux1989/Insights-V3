@@ -1,4 +1,4 @@
-# Accessing the Foundation Dashboard
+# Accessing the Foundation Overview Page
 
 Click on a **Foundation Card** from the **Landing Page** or search (2) for the foundation using the search box at the top.
 

@@ -20,7 +20,7 @@ A foundation card displays the following key metrics:
 
 ### Interact with Foundation Cards
 
-When you click on a foundation card, it opens up a [Foundation Dashboard](../../getting-started/landing-page/accessing-the-foundation-overview-page/foundation-overview.md) dedicated to that foundation. Here, you will find more detailed information about the foundation's contributions to the open source community.
+When you click on a foundation card, it opens up a [Foundation Dashboard](../../getting-started/landing-page/accessing-the-foundation-overview-page/foundation-overview/) dedicated to that foundation. Here, you will find more detailed information about the foundation's contributions to the open source community.
 
 A foundation card has the following details:
 
