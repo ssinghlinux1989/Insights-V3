@@ -62,7 +62,7 @@
       * [Accessing Insights V3](insights/v3-current/getting-started/accessing-insights-v3.md)
       * [Landing Page](insights/v3-current/getting-started/landing-page/README.md)
         * [Foundation Cards](insights/v3-current/getting-started/landing-page/foundation-cards.md)
-        * [Foundation Dashboard](insights/v3-current/getting-started/landing-page/foundation-dashboard.md)
+        * [Foundation Overview](insights/v3-current/getting-started/landing-page/foundation-overview.md)
         * [Foundation Analytics](insights/v3-current/getting-started/landing-page/foundation-analytics.md)
         * [Project Cards](insights/v3-current/getting-started/landing-page/project-cards.md)
         * [COCOMO: Cost Estimation Simplified](insights/v3-current/getting-started/landing-page/cocomo-cost-estimation-simplified.md)

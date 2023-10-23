@@ -1,6 +1,6 @@
 # Foundation Cards
 
-On the landing page, the Foundation cards are designed to show you real-time data and key metrics related to the foundation and its projects.
+On the landing page, the **foundation cards** are designed to show you real-time data and key metrics related to the foundation and its projects.
 
 A foundation card displays the following key metrics:
 
@@ -14,12 +14,13 @@ A foundation card displays the following key metrics:
 * Lines of code
 * PRs
 * Commits
+* Software Value (COCOMO)
 
 </details>
 
 ### Interact with Foundation Cards
 
-When you click on a foundation card, it opens up a [Foundation Dashboard](foundation-dashboard.md) dedicated to that foundation. Here, you'll find more detailed information about the foundation's contributions to the open source community.
+When you click on a foundation card, it opens up a [Foundation Dashboard](foundation-overview.md) dedicated to that foundation. Here, you will find more detailed information about the foundation's contributions to the open source community.
 
 A foundation card has the following details:
 
