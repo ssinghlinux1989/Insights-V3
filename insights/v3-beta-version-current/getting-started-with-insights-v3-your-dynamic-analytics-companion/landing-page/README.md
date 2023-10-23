@@ -18,7 +18,7 @@ This page focuses on the **Foundation Cards** and the individual **Project Cards
 
 </details>
 
-2. **Foundation Cards:** Foundation Cards are like summary cards that provide key insights into different open source foundations. When you click on one of these cards, you will be redirected to a [**Foundation Overview**](../../getting-started/landing-page/accessing-the-foundation-dashboard/foundation-overview.md) dashboard specifically dedicated to that foundation.
+2. **Foundation Cards:** Foundation Cards are like summary cards that provide key insights into different open source foundations. When you click on one of these cards, you will be redirected to a [**Foundation Overview**](../../getting-started/landing-page/accessing-the-foundation-overview-page/foundation-overview.md) dashboard specifically dedicated to that foundation.
 
 {% hint style="info" %}
 When you click on a foundation card that has only one project, you will be redirected to the [**Project Overview**](../../project-overview-page/) page.
