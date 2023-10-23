@@ -64,7 +64,7 @@
         * [Foundation Cards](insights/v3-beta-version-current/getting-started-with-insights-v3-your-dynamic-analytics-companion/landing-page/foundation-cards.md)
         * [Accessing the Foundation Dashboard](insights/v3-beta-version-current/getting-started/landing-page/accessing-the-foundation-dashboard/README.md)
           * [Foundation Overview](insights/v3-beta-version-current/getting-started/landing-page/accessing-the-foundation-dashboard/foundation-overview.md)
-          * [Foundation Analytics](insights/v3-beta-version-current/getting-started/landing-page/accessing-the-foundation-dashboard/foundation-analytics.md)
+          * [Foundation's Projects](insights/v3-beta-version-current/getting-started/landing-page/accessing-the-foundation-dashboard/foundations-projects.md)
         * [Project Cards](insights/v3-beta-version-current/getting-started-with-insights-v3-your-dynamic-analytics-companion/landing-page/project-cards.md)
         * [COCOMO: Cost Estimation Simplified](insights/v3-beta-version-current/getting-started-with-insights-v3-your-dynamic-analytics-companion/landing-page/cocomo-cost-estimation-simplified.md)
       * [Navigation and Menus](insights/v3-beta-version-current/getting-started-with-insights-v3-your-dynamic-analytics-companion/navigation-and-menus.md)
