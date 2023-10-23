@@ -8,7 +8,7 @@ To change your basic information, such as name, email address, postal address, a
 
 1\. Log in to [https://openprofile.dev/](https://openprofile.dev)
 
-2\. From the left-side navigation pane, click the arrow <img src="../../../.gitbook/assets/image.png" alt="" data-size="original"> to expand, and navigate to **Settings > Basic Information**.
+2\. From the left-side navigation pane, click the arrow <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original"> to expand, and navigate to **Settings > Basic Information**.
 
 ![Profile Information](../../../.gitbook/assets/2023-09-14\_21h02\_34.gif)
 
