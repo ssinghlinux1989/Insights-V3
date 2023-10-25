@@ -95,7 +95,7 @@
       * [Contributor Dependency](insights/v3-beta-version-current/project-overview-page/contributor-dependency.md)
       * [Organization Dependency](insights/v3-beta-version-current/project-overview-page/organization-dependency.md)
       * [Organization Leaderboard](insights/v3-beta-version-current/project-overview-page/organization-leaderboard.md)
-      * [Work Time Distribution](insights/v3-beta-version-current/project-overview-page/work-time-distribution.md)
+      * [Contribution outside work hours](insights/v3-beta-version-current/project-overview-page/contribution-outside-work-hours.md)
     * [Velocity](insights/v3-beta-version-current/velocity/README.md)
       * [Performance Metrics](insights/v3-beta-version-current/velocity/performance-metrics.md)
       * [Lead Time](insights/v3-beta-version-current/velocity/lead-time.md)
