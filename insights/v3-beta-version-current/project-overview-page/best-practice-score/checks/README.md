@@ -9,3 +9,7 @@ The check’s file must declare the following information:
 * `ID`: check identifier.
 * `WEIGHT`: weight of this check, used to calculate scores.
 * `CHECK_SETS`: check sets this new check belongs to.
+
+### Reference
+
+{% embed url="https://clomonitor.io/docs/topics/checks/#github-discussions" %}

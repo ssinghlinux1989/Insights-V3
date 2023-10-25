@@ -86,7 +86,7 @@
       * [Best Practice Score](insights/v3-beta-version-current/project-overview-page/best-practice-score/README.md)
         * [Checks](insights/v3-beta-version-current/project-overview-page/best-practice-score/checks/README.md)
           * [Documentation Checks](insights/v3-beta-version-current/project-overview-page/best-practice-score/checks/documentation-checks.md)
-          * [Best Practices Checks](insights/v3-beta-version-current/project-overview-page/best-practice-score/checks/best-practices-checks.md)
+          * [Standards](insights/v3-beta-version-current/project-overview-page/best-practice-score/checks/standards.md)
           * [Security Checks](insights/v3-beta-version-current/project-overview-page/best-practice-score/checks/security-checks.md)
           * [Legal Checks](insights/v3-beta-version-current/project-overview-page/best-practice-score/checks/legal-checks.md)
         * [Calculating Global Score](insights/v3-beta-version-current/project-overview-page/best-practice-score/calculating-global-score.md)
