@@ -2,6 +2,10 @@
 
 The **Foundation Overview** page in Insights V3 provides a comprehensive snapshot of your open source foundation, enabling you to gain valuable insights into your projects' performance and growth.
 
+{% hint style="danger" %}
+**Disclaimer:** It is not necessary that **all** the foundations follow the same maturity level categorization. So, the **Foundation Overview** page may look different for your foundation.
+{% endhint %}
+
 #### Analyze the Foundation Dashboard
 
 <figure><img src="../../../../../../.gitbook/assets/Foundation overview page.gif" alt=""><figcaption></figcaption></figure>
