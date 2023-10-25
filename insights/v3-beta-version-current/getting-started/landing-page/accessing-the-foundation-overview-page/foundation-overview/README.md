@@ -41,4 +41,4 @@ Using this search box, you can select another foundation or a project.
 
 #### Navigating Back
 
-From the left navigation pane, click the  ![](<../../../../../../.gitbook/assets/image (1).png>)  icon to return to the **Landing Page**.
+From the left navigation pane, click the  ![](<../../../../../../.gitbook/assets/image (1) (1).png>)  icon to return to the **Landing Page**.

@@ -35,9 +35,9 @@ The Project Card has the following details:
 
 &#x20;     &#x20;
 
-<figure><img src="../../../../.gitbook/assets/project cards (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/project cards.png" alt=""><figcaption></figcaption></figure>
 
-2. **Download Icon:** click <img src="../../../../.gitbook/assets/image (50).png" alt="" data-size="line">icon **(2)** to download the project card.
+2. **Download Icon:** click the ![](../../../../.gitbook/assets/image.png) icon **(2)** to download the project card.
 3. **Aggregated data:** it shows the real-time data of contributions, commits, PRs, issues, stars, and forks for the project.
 4. **Info Icon:** shows the date and the time when the  **Best Practice Score** was last updated.
 5. **Software Value:** Constructive Cost Modal (COCOMO) is a procedural cost estimate model for software projects.
