@@ -13,5 +13,5 @@ The overview page should provide a high-level summary of the project's activity,
 The analytics tools on the overview page provide a range of features and visualizations that can help you gain insights into the project's performance, identify areas for improvement, and make informed decisions about development and collaboration.
 
 {% hint style="info" %}
-The primary data sources for Insights V3 are the code repositories and the publicly available GitHub database.
+The primary data sources for Insights V3 are the code repositories and the publicly available GitHub and Git databases.
 {% endhint %}
