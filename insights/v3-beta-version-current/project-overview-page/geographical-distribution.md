@@ -8,7 +8,7 @@
 
 Hover over the chart to view the number of contributors for each region during the selected period. This information provides a more granular view of contributor activity within specific regions.
 
-<figure><img src="../../../.gitbook/assets/2023-06-24_16h16_56.png" alt=""><figcaption><p>Geoloaction distribution</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/geo_distribution (2).png" alt=""><figcaption><p>Geoloaction distribution</p></figcaption></figure>
 
 ### Why is this metric important?
 

@@ -24,7 +24,7 @@ Only commit data is used for this dashboard.
 
 ### Interact with the chart
 
-<figure><img src="../../../.gitbook/assets/work time distribution.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/work time distribution (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### Why is this metric important?
 
