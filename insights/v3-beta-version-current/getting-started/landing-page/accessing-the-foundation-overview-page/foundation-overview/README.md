@@ -29,9 +29,11 @@ At the top, you will see the following four high-level metrics:
 3. **Lines of Code:** Displays the total lines of code written for all the projects within the foundation.
 4. **Organizations:** The metric shows the total number of organizations that have contributed to the projects within the foundation.
 
-#### Left Navigation&#x20;
+Left Navigation Search Box
 
+### Left Navigation Search Box
 
+Using this search box, you can select another foundation or a project.
 
 #### Navigating Back
 
