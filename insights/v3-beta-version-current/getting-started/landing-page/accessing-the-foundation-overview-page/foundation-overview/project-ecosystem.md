@@ -2,6 +2,10 @@
 
 On the **Foundation Overview** page, you will find the Project Ecosystem Metrics. This section includes two informative charts:
 
+{% hint style="danger" %}
+**Disclaimer:** It is not necessary that **all** the foundations follow the same maturity level categorization. So, the **Foundation Overview** page may look different for your foundation.
+{% endhint %}
+
 You will see the total number of projects of the foundation as per their maturity level.
 
 <figure><img src="../../../../../../.gitbook/assets/Project Ecosystem (1).png" alt=""><figcaption></figcaption></figure>
