@@ -74,7 +74,7 @@ To redirect a domain from one domain to another domain, perform the following:
 
 <figure><img src="../../../.gitbook/assets/Dom7.png" alt=""><figcaption><p>Add </p></figcaption></figure>
 
-4.The redirected domain is listed under **Redirects** list.
+5.The redirected domain is listed under **Redirects** list.
 
 <figure><img src="../../../.gitbook/assets/Dom8.png" alt=""><figcaption><p>Redirect List</p></figcaption></figure>
 
@@ -92,13 +92,17 @@ To setup service record, perform the following steps:
 
 1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project.
 
-2.Click ![](../../../.gitbook/assets/Edit\_Icon.png) icon available under Manage pane.
+2.Click <img src="../../../.gitbook/assets/Domdot.png" alt="" data-size="line"> icon and select **Manage Records**.
 
-![Domain Edit](../../../.gitbook/assets/PD2.png)
+<figure><img src="../../../.gitbook/assets/Dom5.png" alt=""><figcaption><p>Manage Records</p></figcaption></figure>
 
-3.The Edit Domain dialog box appears. Click **Services**, select the required Service from the list and click **Add**.
+3.Click **+Add Service Record** from the Manage Records page.
 
-![Services](../../../.gitbook/assets/Service.png)
+<figure><img src="../../../.gitbook/assets/Dom9.png" alt=""><figcaption><p>Add Service Records</p></figcaption></figure>
+
+3.The Add Service Record dialog box appears. Click **Services**, select the required Service from the list and click **Add**.
+
+<figure><img src="../../../.gitbook/assets/Dom10.png" alt=""><figcaption><p>Add</p></figcaption></figure>
 
 4.The service records are listed under **Existing Service Records** list.
 
@@ -110,7 +114,7 @@ To disable the auto renew of the domain, perform the following:
 
 1.Click the ![](../../../.gitbook/assets/Dot\_Icon.png) icon and select **Disable auto-renew**.
 
-![Auto Renew](<../../../.gitbook/assets/Auto renew.png>)
+<figure><img src="../../../.gitbook/assets/Dom11.png" alt=""><figcaption><p>Disable Auto Renew</p></figcaption></figure>
 
 2.The Disable auto renew dialog box appears. Click Yes to cancel the auto renewal of the domain.
 
