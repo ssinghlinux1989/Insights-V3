@@ -8,11 +8,7 @@ To setup a domain for the project, perform the following steps:
 
 2\. Search for the required project. The Project dashboard appears. Click **Domains** from the **Operations** tab.
 
-{% hint style="info" %}
-You can also navigate to Domains from the Vertical Sidebar navigation menu. Click **Operations** and then select **Domains**.
-{% endhint %}
-
-<figure><img src="../../../.gitbook/assets/Domains.png" alt=""><figcaption><p>Domains </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Dom1.png" alt=""><figcaption><p>Domains</p></figcaption></figure>
 
 3.The Domains page appears. Click **+ Add Domain** to add a domain for your project.
 
@@ -20,11 +16,7 @@ You can also navigate to Domains from the Vertical Sidebar navigation menu. Clic
 You cannot change the primary domain for the project, if you want to change the primary domain, you need to raise a support ticket.
 {% endhint %}
 
-{% hint style="info" %}
-You can update the details of the domain by click of the edit ![](../../../.gitbook/assets/Edit\_Icon.png) icon.
-{% endhint %}
-
-![Add Domain](<../../../.gitbook/assets/Add\_Domains (1).png>)
+<figure><img src="../../../.gitbook/assets/Dom2.png" alt=""><figcaption><p>Add Domain</p></figcaption></figure>
 
 4.The Add Domain dialog box appears. Enter the **Domain Name** and click the **Check Availability** button.
 
@@ -38,7 +30,7 @@ You can update the details of the domain by click of the edit ![](../../../.gitb
 
 6.If the domain name is available, a green tick mark is displayed next to the **Domain Name**. Click the **Register Domain** button to register the domain. Refer Register Domain for more details.
 
-![Register Domain](https://gblobscdn.gitbook.com/assets%2F-MEMVgDuxi7j4ZpeENUY%2F-MKV83M2RA5cwHGboqCZ%2F-MKV9Lcayqjh66ZZqTZF%2FRegister\_Domain.png?alt=media\&token=90354b3d-75a2-4e5c-a06f-e85c9334b549)
+<figure><img src="../../../.gitbook/assets/Dom3.png" alt=""><figcaption><p>Register Domain</p></figcaption></figure>
 
 7.If the domain is already taken by an another project, you have the option to bid for that domain.
 
@@ -70,17 +62,21 @@ To redirect a domain from one domain to another domain, perform the following:
 
 1.Go to the Domains page for the required project. The domain page appears with the list of domains registered with the project.
 
-2.Click ![](../../../.gitbook/assets/Edit\_Icon.png) icon available under Manage pane.
+2.Click <img src="../../../.gitbook/assets/Domdot.png" alt="" data-size="line"> icon and select **Manage Records**.
 
-![Manage](../../../.gitbook/assets/PD2.png)
+<figure><img src="../../../.gitbook/assets/Dom5.png" alt=""><figcaption><p>Manage Records</p></figcaption></figure>
 
-3.The Edit Domain dialog box appears. Click **Redirects**, enter the redirect domain under **To** box and click **Add**.
+3.Click **+Add Redirect** from the Manage Records page.&#x20;
 
-![Redirect](../../../.gitbook/assets/Redirect.png)
+<figure><img src="../../../.gitbook/assets/Dom6.png" alt=""><figcaption><p>Add Redirect</p></figcaption></figure>
 
-4.The redirected domain is listed under **Existing Redirects** list.
+4.The Add Redirect dialog box appears. Enter the redirect domain under **To** box and click **Add**.
 
-![Existing Redirect](<../../../.gitbook/assets/Redirect list.png>)
+<figure><img src="../../../.gitbook/assets/Dom7.png" alt=""><figcaption><p>Add </p></figcaption></figure>
+
+4.The redirected domain is listed under **Redirects** list.
+
+<figure><img src="../../../.gitbook/assets/Dom8.png" alt=""><figcaption><p>Redirect List</p></figcaption></figure>
 
 {% hint style="info" %}
 If you want to update the redirect domain, click the edit ![](../../../.gitbook/assets/Edit.png) icon.
