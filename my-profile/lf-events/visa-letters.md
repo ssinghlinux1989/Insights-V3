@@ -22,14 +22,12 @@ To apply for the new visa letter, follow these steps:
 <figure><img src="../../.gitbook/assets/select_event.png" alt=""><figcaption><p>Select an event</p></figcaption></figure>
 
 {% hint style="info" %}
-If you have not registered for an event, then you must register for the event first.
+If you have not registered for an event, then you must register for the event first. Click **Navigate to LF Events** CTA.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Visa Request Application.png" alt=""><figcaption><p>Pop-up window</p></figcaption></figure>
 
 5. On the **Terms and Conditions** page, read the terms and conditions for the visa application and click **Next Step**.
-
-
 
 <details>
 
@@ -37,9 +35,11 @@ If you have not registered for an event, then you must register for the event fi
 
 You select this option when you apply for someone else who has registered for the event. For example, you are applying for your CEO.
 
-1. Click on **Apply for someone else** CTA.&#x20;
+1. Click on **Apply for someone else,** CTA.&#x20;
 2. On the next page, fill in all the required details of the person to whom you are applying.&#x20;
 3. Click **Submit Application**.
+
+**Note:** The Email address you use here must be the same one that is used in event registration. If it is not same then the request will fail.
 
 </details>
 
@@ -47,7 +47,7 @@ You select this option when you apply for someone else who has registered for th
 * Click the **Previous Step** button to go back to the event selection page.
 * For questions, contact [visaletters@linuxfoundation.org](mailto:visaletters@linuxfoundation.org).
 
-7\. On the **Apply** page, fill out the following information to complete the application:
+6. On the **Apply** page, fill out the following information to complete the application:
 
 * **I am applying for:** From the drop-down, select if you are applying for yourself or someone else.
 * **Attendee Type:** Select whether you are attending the event or are invited as a speaker.
@@ -62,7 +62,7 @@ You select this option when you apply for someone else who has registered for th
 * **Accommodation paid by:** Select the accommodation paid from the drop-down.
 * **Mailing Address:** Enter your mailing address for future communication.
 
-8. Click the **Submit Application** button.
+7. Click the **Submit Application** button.
 
 {% hint style="info" %}
 Check and verify your details before submitting the request, once you submit the request you cannot change your details.
@@ -72,13 +72,10 @@ Check and verify your details before submitting the request, once you submit the
 
 <figure><img src="../../.gitbook/assets/Visa_letter_submission.png" alt=""><figcaption><p>Submit Application</p></figcaption></figure>
 
-9\. After you submit your application, the event team reviews your visa letter application.
-
-10\. You can see your application status on the **Visa Letters** page.
-
-11\. Once your request is approved by the events team, your application status is changed to '**Approved**'.
-
-12\. Click the download icon next to the **Status** to download your visa letter.
+8. After you submit your application, the event team reviews your visa letter application.
+9. You can see your application status on the **Visa Letters** page.
+10. Once your request is approved by the events team, your application status is changed to '**Approved**'.
+11. Click the download icon next to the **Status** to download your visa letter.
 
 <figure><img src="../../.gitbook/assets/image-2023-5-24_13-48-31.png" alt=""><figcaption></figcaption></figure>
 
