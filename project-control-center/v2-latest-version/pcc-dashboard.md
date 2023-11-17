@@ -37,13 +37,59 @@ To create a support ticket, perform the following steps:
 
 You can host your project in the Linux Foundation. Once the company decides to host its project on the Linux Foundation, you (administrator) needs to create a project for every new company that hosts their projects or foundation on Linux Foundation using PCC.&#x20;
 
-For more information on how to add a project, refer [add a project](https://docs.linuxfoundation.org/lfx/project-control-center/adding-a-main-project).&#x20;
+1.Login into PCC.
+
+{% hint style="info" %}
+If you do not have access to PCC, you need to raise the service ticket to get access to PCC. Refer [PCC Overview](https://docs.linuxfoundation.org/lfx/project-control-center-pre-release/overview).
+{% endhint %}
 
 {% hint style="warning" %}
 As a administrator, you need to create the projects and sub projects as per the needs of the company.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Add A project.png" alt=""><figcaption><p>Add a Project </p></figcaption></figure>
+2.The PCC dashboard appears. Click **+Add Project**.
+
+<figure><img src="../../.gitbook/assets/D1.png" alt=""><figcaption><p>Add Project</p></figcaption></figure>
+
+3.The Add Project dialog box appears. Update the following details and click **Next**.
+
+| **Field**                  | **Action**                                                                                                                                                              |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Common Name**            | <p>Enter the name of the project that you identify the project name with.<br><br>This is a mandatory field. </p>                                                        |
+| **Category**               | Category will be enabled only when you select a Parent Project. You can select the project to categorize for better grouping and navigation.                            |
+| **Slug**                   | Slug will be auto added when you provide the common name. You can also edit it if you need.                                                                             |
+| **Parent Project**         | <p>Select the parent project if you want to associate or add your project as a child project.</p><p>Select No Parent, if you do not want to add any parent project.</p> |
+| **Stage**                  | Select the appropriate stage of the project. By default, the stage is selected to Prospect when you create a new project.                                               |
+| **Primary Website/Domain** | Enter the primary website or domain of the project.                                                                                                                     |
+| **Repository URL**         | Enter the GitHub repository url.                                                                                                                                        |
+| **Project Logo**           | You can upload the relevant logo for your project.                                                                                                                      |
+
+<figure><img src="../../.gitbook/assets/D2.png" alt=""><figcaption><p>Add Project</p></figcaption></figure>
+
+4.The Add Project dialog box with additional fields appears. Update the following details and click **Create Project**.
+
+| **Field**                       | **Action**                                                                                                                                                                                                                |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Technology Sector**           | <p>Select an appropriate technology sector for your project. You can also select more than one sector.</p><p>If you feel that your project falls across all sectors, check the <strong>Cross Technology</strong> box.</p> |
+| **Industry Sector**             | <p>Select an appropriate industry sector for your project. You can also select more than one sector.</p><p>If you feel that your project falls across all sectors, check the <strong>Cross-Industry</strong> box.</p>     |
+| **Technical Activity Type**     | Select an appropriate technical activity for your project. You can also select more than one sector.                                                                                                                      |
+| **Formation Date**              | Select the formation date of the project.                                                                                                                                                                                 |
+| **Expected Announcement Date**  | Select the date when the project will be expected to be released.                                                                                                                                                         |
+| **Primary Open Source License** | Select the required primary open source license for your project.                                                                                                                                                         |
+| **Description**                 | Provide a short description for your project.                                                                                                                                                                             |
+| **Mission Statement**           | <p>Provide a single line mission statement that depicts your project followed by primary goal of your project. <br><br>This is a mandatory field. </p>                                                                    |
+
+<figure><img src="../../.gitbook/assets/D3.png" alt=""><figcaption><p>Create Project</p></figcaption></figure>
+
+4.A success message is displayed when a project is created successfully. You can see the newly added project under My Projects tab.
+
+{% hint style="info" %}
+For a new project, by default the project status is set to **Draft**. You can change the status in the Basic setup service.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/New.png" alt=""><figcaption><p>New Project </p></figcaption></figure>
+
+​
 
 ## View All Projects
 
