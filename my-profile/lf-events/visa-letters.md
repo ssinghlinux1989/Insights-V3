@@ -4,6 +4,10 @@ Visa letters are needed for events with international participants. They provide
 
 Providing visa letters helps expedite the visa application procedure and ensures that event attendees receive the required travel documents to enter the host country.
 
+{% hint style="info" %}
+You can raise a visa letter request only if you have registered for an event.
+{% endhint %}
+
 To apply for the new visa letter, follow these steps:
 
 1. Navigate to the **Individual Dashboard** login page. Type your login credentials and sign in. For more information, see the\
@@ -11,19 +15,33 @@ To apply for the new visa letter, follow these steps:
 2. From the left-side navigation pane, navigate to **EVENTS>LF Events**.
 3. On the MY EVENTS page, click the **Visa Letters** tab. Click the **New Letter Application** CTA to access the application page.
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-05-01 at 9.23.01 AM.png" alt=""><figcaption><p>New Letter Application</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-01 at 9.23.01 AM.png" alt=""><figcaption><p>New Letter Application</p></figcaption></figure>
 
-4\. On the **Visa Letter Application** page, scroll down and check the events that you have registered. Click **Select** to choose the event. After selecting the event, click **Next**.
+4. On the **Visa Letter Application** page, scroll down and check the events that you have registered. Click **Select** to choose the event. After selecting the event, click **Next**.
 
-<figure><img src="../../../.gitbook/assets/select_event.png" alt=""><figcaption><p>Select an event</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/select_event.png" alt=""><figcaption><p>Select an event</p></figcaption></figure>
 
 {% hint style="info" %}
 If you have not registered for an event, then you must register for the event first.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/2023-07-14_15h58_17.png" alt=""><figcaption><p>Pop-up window</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Visa Request Application.png" alt=""><figcaption><p>Pop-up window</p></figcaption></figure>
 
-5\. On the Terms and Conditions page, read the terms and conditions for the visa application and click **Next Step**.
+5. On the **Terms and Conditions** page, read the terms and conditions for the visa application and click **Next Step**.
+
+
+
+<details>
+
+<summary>Apply for someone else</summary>
+
+You select this option when you apply for someone else who has registered for the event. For example, you are applying for your CEO.
+
+1. Click on **Apply for someone else** CTA.&#x20;
+2. On the next page, fill in all the required details of the person to whom you are applying.&#x20;
+3. Click **Submit Application**.
+
+</details>
 
 * Click the **Cancel** button if you want to cancel your new visa application.
 * Click the **Previous Step** button to go back to the event selection page.
@@ -33,7 +51,7 @@ If you have not registered for an event, then you must register for the event fi
 
 * **I am applying for:** From the drop-down, select if you are applying for yourself or someone else.
 * **Attendee Type:** Select whether you are attending the event or are invited as a speaker.
-* **LFID Username:** Enter your LFID if you are applying for yourself; Otherwise the LFID of the person for who you are applying.
+* **LFID Username:** Enter your LFID if you are applying for yourself.
 * **First and Last Name:** Enter your name if you are applying for yourself; otherwise, enter the name for whom you are applying.
 * **Name as per passport:** Enter your name the same as the passport. (Many countries do not have first and last names on passports).
 * **Email Address:** Enter your email address if you are applying for yourself; otherwise, enter the email address for whom you are applying.
@@ -44,7 +62,7 @@ If you have not registered for an event, then you must register for the event fi
 * **Accommodation paid by:** Select the accommodation paid from the drop-down.
 * **Mailing Address:** Enter your mailing address for future communication.
 
-8. Click **Submit Application** button.
+8. Click the **Submit Application** button.
 
 {% hint style="info" %}
 Check and verify your details before submitting the request, once you submit the request you cannot change your details.
@@ -52,9 +70,9 @@ Check and verify your details before submitting the request, once you submit the
 
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Visa_letter_submission.png" alt=""><figcaption><p>Submit Application</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Visa_letter_submission.png" alt=""><figcaption><p>Submit Application</p></figcaption></figure>
 
-9\. After you submit your application, the even team reviews your visa letter application.
+9\. After you submit your application, the event team reviews your visa letter application.
 
 10\. You can see your application status on the **Visa Letters** page.
 
@@ -62,6 +80,6 @@ Check and verify your details before submitting the request, once you submit the
 
 12\. Click the download icon next to the **Status** to download your visa letter.
 
-<figure><img src="../../../.gitbook/assets/image-2023-5-24_13-48-31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-2023-5-24_13-48-31.png" alt=""><figcaption></figcaption></figure>
 
 \

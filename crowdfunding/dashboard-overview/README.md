@@ -89,4 +89,3 @@ Each General Fund card shows the following information:
 
 ![General Funds](<../../.gitbook/assets/general funds.png>)
 
-***

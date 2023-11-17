@@ -4,7 +4,7 @@ The LFX Insights, September 2021 release delivers support for the new [Trends](.
 
 A global trends dashboard, the default landing page, for LFX Insights shows data aggregated across all the onboarded projects on LFX Insights. These data visualizations help project teams understand project performance and monitor the health of the project.
 
-***
+
 
 * [**Global Trends**](../trends.md#global-trends)**:** Shows aggregated performance data of all projects onboarded to Insights.
 * **Project Group Trends:** Shows aggregated performance data of all sub projects under the project group or foundation.

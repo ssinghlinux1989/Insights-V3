@@ -8,7 +8,7 @@ You can add, edit, or delete an organization to sponsor a fund on behalf of the 
     \*\*\*\*\
     ![](../../../.gitbook/assets/7418578.png)\\
 
-    ***
+
 2. Complete the dialog fields and click **Submit.**\
    \*\*\*\*\
    \*\*\*\*![](<../../../.gitbook/assets/7418586 (3).png>)\

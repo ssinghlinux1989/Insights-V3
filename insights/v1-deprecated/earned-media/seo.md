@@ -10,4 +10,3 @@ Search engine optimization (SEO) is the process of optimizing a website's online
 
 **Total Coverage vs. Total Web Traffic** shows the potential impact your total news coverage has on your total website traffic\_.\_ These values are color coded. Total coverage or total sessions shows periodic analysis of how many times your website is visited from both PR and Non-PR activities. Total coverage is based on your search value, and includes traffic from articles and blog posts with and without backlinks.
 
-***

@@ -46,7 +46,7 @@ Overview shows information about issues in repositories and who submitted the is
 
 **Issues By Organization** shows a table that lets you sort values by organization name, number of issues, submitters, assignees, average number of watchers, and average time in days to close the issues over time.
 
-***
+
 
 ## Effort
 
