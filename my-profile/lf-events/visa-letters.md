@@ -15,17 +15,17 @@ To apply for the new visa letter, follow these steps:
 2. From the left-side navigation pane, navigate to **EVENTS>LF Events**.
 3. On the MY EVENTS page, click the **Visa Letters** tab. Click the **New Letter Application** CTA to access the application page.
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-05-01 at 9.23.01 AM.png" alt=""><figcaption><p>New Letter Application</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-01 at 9.23.01 AM.png" alt=""><figcaption><p>New Letter Application</p></figcaption></figure>
 
 4. On the **Visa Letter Application** page, scroll down and check the events that you have registered. Click **Select** to choose the event. After selecting the event, click **Next**.
 
-<figure><img src="../../../.gitbook/assets/select_event.png" alt=""><figcaption><p>Select an event</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/select_event.png" alt=""><figcaption><p>Select an event</p></figcaption></figure>
 
 {% hint style="info" %}
 If you have not registered for an event, then you must register for the event first. Click **Navigate to LF Events** CTA.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Visa Request Application.png" alt=""><figcaption><p>Pop-up window</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Visa Request Application.png" alt=""><figcaption><p>Pop-up window</p></figcaption></figure>
 
 5. On the **Terms and Conditions** page, read the terms and conditions for the visa application and click **Next Step**.
 
@@ -70,13 +70,13 @@ Check and verify your details before submitting the request, once you submit the
 
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Visa_letter_submission.png" alt=""><figcaption><p>Submit Application</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Visa_letter_submission.png" alt=""><figcaption><p>Submit Application</p></figcaption></figure>
 
 8. After you submit your application, the event team reviews your visa letter application.
 9. You can see your application status on the **Visa Letters** page.
 10. Once your request is approved by the events team, your application status is changed to '**Approved**'.
 11. Click the download icon next to the **Status** to download your visa letter.
 
-<figure><img src="../../../.gitbook/assets/image-2023-5-24_13-48-31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-2023-5-24_13-48-31.png" alt=""><figcaption></figcaption></figure>
 
 \
