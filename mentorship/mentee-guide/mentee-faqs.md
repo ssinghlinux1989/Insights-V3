@@ -2,11 +2,11 @@
 
 **How many mentorship terms are there per year?**
 
-The Linux Foundation offers mentorship programs throughout the year with specific term dates. Please check the programs you're interested in to find all the details of the program term dates.
+The Linux Foundation provides mentorship programs throughout the year, each with specific term dates. To access detailed information about the program term dates, please refer to the programs you are interested in.
 
 **How long is a mentee engaged in the program?**
 
-It might vary based on project guidelines. In general, there is an application period and a formal program for participation and contribution. Mentees can be engaged with the community even after the completion of the program.
+The process can vary based on the project's guidelines but usually involves applying, participating, and contributing. Even after the program ends, mentees can stay involved with the community.
 
 **How much stipend do the mentees get?**
 
