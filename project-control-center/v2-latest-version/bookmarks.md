@@ -10,3 +10,5 @@ To bookmark a project, perform the following steps:
 
 2.The project will be bookmarked and available under the **Bookmarks** tab.&#x20;
 
+<figure><img src="../../.gitbook/assets/Bookm2.png" alt=""><figcaption><p>Bookmark Tab</p></figcaption></figure>
+
