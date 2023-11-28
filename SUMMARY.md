@@ -602,6 +602,7 @@
       * [Wiki](project-control-center/v2-latest-version/collaborations/wiki.md)
       * [Issue Tracker](project-control-center/v2-latest-version/collaborations/issue-tracker.md)
       * [Surveys](project-control-center/v2-latest-version/collaborations/surveys.md)
+    * [Bookmarks](project-control-center/v2-latest-version/bookmarks.md)
   * [V1 (Prior Version)](project-control-center/v1-prior-version/README.md)
     * [Release Notes](project-control-center/v1-prior-version/release-notes/README.md)
       * [PCC V1.6.6 Release](project-control-center/v1-prior-version/release-notes/pcc-v1.6.6-release.md)
