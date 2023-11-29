@@ -1,6 +1,6 @@
 # Sign in with Google
 
-You can use your Google (Gmail) login credentials to sign in to the protected Linux Foundation service instead of creating an LF account. The first time you sign in, you will enter your Gmail credentials to authenticate your Google account. Subsequent logins will not require you to enter the credentials⏤you will simply click the **Google** icon to sign in. This one-click approach simplifies your login process.
+You can use your Gmail login to access the protected Linux Foundation service. The first time, you'll enter your Gmail credentials to authenticate your Google account. Afterward, you can simply click the Google icon to sign in, streamlining the login process.
 
 ## To Sign in with Google <a href="#to-log-in-with-google" id="to-log-in-with-google"></a>
 
@@ -20,8 +20,8 @@ You can use your Google (Gmail) login credentials to sign in to the protected Li
 
 ![](<../../.gitbook/assets/Create LF Account if authenticating via Other.png>)
 
-5\. Enter username, and click on **Create Account** CTA button. You will be redirected to the Linux Foundation service page that you are trying to access.
+5\. Enter your username, and click on the **Create Account** CTA button. You will be redirected to the Linux Foundation service page that you are trying to access.
 
 {% hint style="info" %}
-This username will be your new LF Account username, and will be synced with your email address.
+This username will be your new LF account username and will be synced with your email address.
 {% endhint %}
