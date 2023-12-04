@@ -18,6 +18,7 @@
     * [V0.6.25 and V0.6.26](my-profile/release-notes/v0.6.25-and-v0.6.26.md)
   * [Complete your LFX Profile](my-profile/complete-your-lfx-profile.md)
   * [Home Page](my-profile/home-page.md)
+  * [Share Your Experience- Help Us Improve](my-profile/share-your-experience-help-us-improve.md)
   * [Profile](my-profile/profile/README.md)
     * [Badges and Skills](my-profile/profile/badges-and-skills.md)
     * [Open Source Event Speaking Experience](my-profile/profile/open-source-event-speaking-experience.md)
