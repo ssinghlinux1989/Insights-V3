@@ -36,10 +36,10 @@ The LFX tools are provided as a value to developers and sponsors of open source 
 
 ## How do I get started using LFX for my project? <a href="#communitybridgefaqs-howdoisubmitmyprojecttocommunitybridge" id="communitybridgefaqs-howdoisubmitmyprojecttocommunitybridge"></a>
 
-Log into \[Project Control Center] using your Linux Foundation account and follow the step-by-step instructions. The application process takes just a few minutes, then your submission will be reviewed by the LFX team. You’ll receive communication from us once your project has been set up.
+Log in to **Project Control Center (PCC)** using your Linux Foundation account and follow the step-by-step instructions. The application process takes just a few minutes, and then the LFX team will review your submission. You’ll receive communication from us once the project setup is completed.
 
 &#x20;**Note:** Only project maintainers or collaborators with administrative control can set up a project in LFX.
 
 ## Can I add other maintainers to my project? <a href="#communitybridgefaqs-caniaddothermaintainersonmyproject" id="communitybridgefaqs-caniaddothermaintainersonmyproject"></a>
 
-LFX supports one maintainer per project at this time. This user serves as the admin of the project within the platform.
+LFX supports one maintainer per project at this time. This user serves as the administrator of the project within the platform.
