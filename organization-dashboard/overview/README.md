@@ -1,6 +1,10 @@
 # Overview
 
-The Organization Dashboard provides a powerful dashboard for companies or organizations that assists you in envisioning complex data into easy-to-read and meaningful data. The Organization Dashboard enables you to gather, combine, and organize key project data from a single console. The Organization Dashboard provides dashboards, charts, and widgets that will analyze and display Key Performance Indicators (KPIs), metrics, and key data points related to the management of your projects.
+The Organization Dashboard provides a powerful dashboard for companies or organizations that assists you in envisioning complex data into easy-to-read and meaningful data.&#x20;
+
+The Organization Dashboard enables you to gather, combine, and organize key project data from a single console.&#x20;
+
+The Organization Dashboard provides dashboards, charts, and widgets that will analyze and display Key Performance Indicators (KPIs), metrics, and key data points related to the management of your projects.
 
 ## Key Benefits of Organization Dashboard <a href="#key-benefits-of-organization-dashboard" id="key-benefits-of-organization-dashboard"></a>
 
