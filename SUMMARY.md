@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [LFX Platform](README.md)
+* [Page](readme-1.md)
