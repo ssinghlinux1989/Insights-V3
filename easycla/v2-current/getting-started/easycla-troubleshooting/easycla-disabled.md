@@ -8,7 +8,7 @@ EasyCLA was previously enabled for a GitHub repository, but someone other than t
 
 ### Enable Branch Protection <a href="#enable-branch-protection" id="enable-branch-protection"></a>
 
-GitHub is set up to permit administrators and organization owners to have maximum flexibility, which includes disabling installed applications, such as EasyCLA. To avoid this, you must enable branch protection by [selecting the Enable Branch Protection check box](http://127.0.0.1:5000/s/-M2DCN9UgoRgMEkgnLyP-3789850253/easycla/getting-started/easycla-troubleshooting/easycla-is-disabled) after the GitHub organization is added to a project.
+GitHub is set up to permit administrators and organization owners to have maximum flexibility, which includes disabling installed applications, such as EasyCLA. To avoid this, you must enable branch protection by [selecting the Enable Branch Protection check box](https://app.gitbook.com/s/-M2DCN9UgoRgMEkgnLyP-3789850253/easycla/getting-started/easycla-troubleshooting/easycla-is-disabled) after the GitHub organization is added to a project.
 
 You can also add the branch protection rule manually, as described below:
 
@@ -16,17 +16,17 @@ You can also add the branch protection rule manually, as described below:
 
 2\. Click Settings from the top menu.
 
-![CLA GitHub Repository Settings](../../../../.gitbook/assets/cla-github-repository-settings.png)
+![CLA GitHub Repository Settings](broken-reference)
 
 3\. Settings appear with Options in the left pane.
 
 4\. Click Branches under Options.
 
-![](../../../../.gitbook/assets/cla-github-options.png)
+![](broken-reference)
 
 5\. Select master for the Default branch. Click Edit or Add rule for Branch protection rules of your organization.
 
-![CLA GitHub branch Add Rule](../../../../.gitbook/assets/cla-github-branch-add-rule.png)
+![CLA GitHub branch Add Rule](broken-reference)
 
 6\. Select the following check boxes under **Rule settings**, and click **Create**:
 

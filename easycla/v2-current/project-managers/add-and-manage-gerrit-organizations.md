@@ -21,7 +21,7 @@ After you successfully add Git organizations, you can:
 
 1\. Click the **+** sign at the top right of Add Gerrit Organization.
 
-![Add Gerrit Organization](<../../../.gitbook/assets/add gerrit organization.png>)
+![Add Gerrit Organization](broken-reference)
 
 2\. Complete the form fields, and click **Connect**.
 
@@ -45,10 +45,10 @@ The EasyCLA project console lists the CLA-enabled instances, as shown below.â€‹â
 
 **Note:** You cannot disable the CLA check for individual Gerrit repositories.
 
-![Gerrit Instances](<../../../.gitbook/assets/gerrit instances.png>)
+![Gerrit Instances](broken-reference)
 
 ## Disassociate Gerrit Organization <a href="#disassociate-gerrit-organization" id="disassociate-gerrit-organization"></a>
 
 1\. Click **Disassociate Gerrit** next to a Gerrit Instance, and click **Yes, Disconnect** on the confirmation page.
 
-![Disassociate Gerrit](<../../../.gitbook/assets/disassociate gerrit organization.png>)
+![Disassociate Gerrit](broken-reference)

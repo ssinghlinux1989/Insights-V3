@@ -2,7 +2,7 @@
 
 Click a project from the dashboard, or expand **Projects**, search for a project, and click **EasyCLA** under the project to view the related EasyCLA information.
 
-![](<../../../.gitbook/assets/search a project.png>)
+![](broken-reference)
 
 ## Project Hierarchy
 
@@ -82,6 +82,6 @@ Shows the child projects that have EasyCLA enabled. Click **View Details** to na
 
 If your company has not yet signed a CCLA for a project, the following screen will appear.
 
-![CLA not signed](<../../../.gitbook/assets/company has not signed cla.png>)
+![CLA not signed](broken-reference)
 
 For details about signing a CCLA, see [Getting Started](../../v1-deprecated/getting-started/) and [coordinating signing a CCLA](https://github.com/communitybridge/docs/blob/master/easycla/v2-current/corporate-cla-console/broken-reference/README.md).

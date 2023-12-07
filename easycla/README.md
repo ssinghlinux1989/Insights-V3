@@ -29,7 +29,7 @@ For either a CCLA or an ICLA, after the contributor is authorized under a signed
 
 Following is a high-level diagram, showing the different flows and roles that EasyCLA supports:
 
-![CLA Flow Diagram](<../.gitbook/assets/cla flow diagram.png>)
+![CLA Flow Diagram](broken-reference)
 
 ## Different Consoles of EasyCLA:
 

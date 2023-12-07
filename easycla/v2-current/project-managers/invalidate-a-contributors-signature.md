@@ -9,6 +9,6 @@ Project Managers can anytime invalidate a contributor's signature for any valid 
 5. From Signed ICLAs tab, under Actions column, click **Invalidate** .
 6. Click **Invalidate** again on the window that appears.
 
-![Invalidate Signature](<../../../.gitbook/assets/invalidate signature.png>)
+![Invalidate Signature](broken-reference)
 
-![Invalidate](<../../../.gitbook/assets/invalidate CTA.png>)
+![Invalidate](broken-reference)
