@@ -16,7 +16,7 @@ To access the Project Definition, perform the following steps:
 
 2.The Project dashboard appears. Click **Project Definition** from the **Operations** tab.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Project Defination</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Project Defination</p></figcaption></figure>
 
 ## Project Details&#x20;
 
@@ -28,7 +28,7 @@ To update basic information for a project, perform the following steps:
 
 2.Click **Edit** from the Project Details section to update basic information.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Edit Project Details </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Edit Project Details </p></figcaption></figure>
 
 3.The Edit Basic dialog box appears. Update the following details and click **Save**.
 
@@ -47,7 +47,7 @@ To update basic information for a project, perform the following steps:
 | **OpenSSF Best Practice Badge  ID** | Enter the OPenSSF Best Practice Badge ID. Earlier referred as CII Project ID.                                                                                                                                             |
 | **Description**                     | Provide a short description for your project.                                                                                                                                                                             |
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Edit Basic</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Edit Basic</p></figcaption></figure>
 
 ## Legal Details
 
@@ -61,7 +61,7 @@ To update legal details for a project, perform the following steps:
 
 2.Click **Edit** from the Project Details section to update legal information.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Legal Details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Legal Details</p></figcaption></figure>
 
 3.The Edit Legal Details page appears. Update the following details and click **Save**:
 
@@ -101,7 +101,7 @@ To update branding and media information for a project, perform the following st
 
 2.Click **Edit** from the Branding and Media section to update branding and media information.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Branding and Media</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Branding and Media</p></figcaption></figure>
 
 3.The Edit Branding and Media Details page appears. Update the following details and click **Save**:
 
@@ -131,11 +131,11 @@ To update project staff information for a project, perform the following steps:
 
 2.Click **Edit** from the Project Staff section to update project staff information.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Project Staff </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Project Staff </p></figcaption></figure>
 
 3.The Edit Project Staff dialog box appears. Update the project staff details and click **Confirm**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Project Staff</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Project Staff</p></figcaption></figure>
 
 ## Artifacts&#x20;
 
@@ -147,7 +147,7 @@ To add artifacts for a project, perform the following steps:
 
 2.Click **Add** from the Artifacts section to add artifacts.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Artifacts </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Artifacts </p></figcaption></figure>
 
 3.The Add Artifacts dialog box appears. Upload the required artifacts of the project and click **Save**.&#x20;
 

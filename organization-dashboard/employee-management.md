@@ -207,7 +207,7 @@ Administrator has an option to remove an employee from a project. &#x20;
 
 To remove an employee from the project, perform the following steps:
 
-1.Click the ellipsis <img src="../.gitbook/assets/Icon (12).png" alt="" data-size="line"> icon and select **Remove from Organization**.&#x20;
+1.Click the ellipsis <img src="../.gitbook/assets/Icon (1).png" alt="" data-size="line"> icon and select **Remove from Organization**.&#x20;
 
 <figure><img src="../.gitbook/assets/Remove .png" alt=""><figcaption><p>Remove Employee</p></figcaption></figure>
 
@@ -221,13 +221,13 @@ You can download or export list of employees in a XLS sheet.&#x20;
 
 To download the employee list, click the <img src="../.gitbook/assets/Downicon.png" alt="" data-size="line">download icon. The XLS sheet with list of employee will be downloaded to the local system. &#x20;
 
-<figure><img src="../.gitbook/assets/Download.png" alt=""><figcaption><p>Download </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Download (2).png" alt=""><figcaption><p>Download </p></figcaption></figure>
 
 ## Tagging an Employee as OSPO
 
 You can tag the required employee as OSPO leader.&#x20;
 
-To tag an employee as OSPO leader, click the <img src="../.gitbook/assets/OSicon (1).png" alt="" data-size="line"> icon and select the tag <img src="../.gitbook/assets/Os2ic.png" alt="" data-size="line"> icon and click **OSPO Leader**. The employee is tagged as OSPO leader.&#x20;
+To tag an employee as OSPO leader, click the <img src="../.gitbook/assets/OSicon.png" alt="" data-size="line"> icon and select the tag <img src="../.gitbook/assets/Os2ic.png" alt="" data-size="line"> icon and click **OSPO Leader**. The employee is tagged as OSPO leader.&#x20;
 
 {% hint style="info" %}
 You can remove the OSPO tag by clicking the x mark. &#x20;

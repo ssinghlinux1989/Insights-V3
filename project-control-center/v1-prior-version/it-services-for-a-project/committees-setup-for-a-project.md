@@ -50,9 +50,9 @@ You can also navigate to Committees from the Vertical Sidebar navigation menu. C
 | Committee Documentation/Website | Enter the committee website URL of the committee which can provide the committee details such as policies, meetings and schedules |
 
 {% hint style="info" %}
-If you want to update the existing committee details, click the edit ![](../../../.gitbook/assets/Edit\_Icon.png) icon.
+If you want to update the existing committee details, click the edit ![](<../../../.gitbook/assets/Edit\_Icon (2).png>) icon.
 
-If you want to delete the existing committee, click the delete ![](../../../.gitbook/assets/Delete\_Icon.png)icon.
+If you want to delete the existing committee, click the delete ![](<../../../.gitbook/assets/Delete\_Icon (1).png>)icon.
 {% endhint %}
 
 ![Creating a Committee](../../../.gitbook/assets/Add\_Com.gif)
@@ -125,7 +125,7 @@ After adding a first member to a committee, if you want to add another member to
 * If a member does not have a LFID, <img src="../../../.gitbook/assets/Inv (1).png" alt="" data-size="line"> icon is displayed.&#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Icons (1).png" alt=""><figcaption><p>Member LFID Status </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Icons.png" alt=""><figcaption><p>Member LFID Status </p></figcaption></figure>
 
 ## Send a Message&#x20;
 
@@ -137,7 +137,7 @@ To send a message to a member, perform the following steps:
 
 2.You can see the list of committees that are created for the project. Click the committee from which you want to remove or delete a member from a committee.
 
-3.The Committee page appears with list of members in it. Click the click <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Send Message**.&#x20;
+3.The Committee page appears with list of members in it. Click the click <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> icon and select **Send Message**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Send Messa.png" alt=""><figcaption><p>Send a Message</p></figcaption></figure>
 
@@ -173,7 +173,7 @@ To delete a member, perform the following steps:
 
 ![Committee](../../../.gitbook/assets/Del\_Mem\_Com.png)
 
-3.The Committee page appears with list of members in it. Click Click the click <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Delete**.&#x20;
+3.The Committee page appears with list of members in it. Click Click the click <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> icon and select **Delete**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Dele Mem.png" alt=""><figcaption><p>Delete</p></figcaption></figure>
 
@@ -191,9 +191,9 @@ You can update or modify the committee.&#x20;
 
 To update the committee, perform the following steps:
 
-1.Under Manage, click the <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> and select **Edit**.&#x20;
+1.Under Manage, click the <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> and select **Edit**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Edit (1).png" alt=""><figcaption><p>Edit</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Edit (2).png" alt=""><figcaption><p>Edit</p></figcaption></figure>
 
 2.The Manage Committee dialog box appears. Update the committee as per your requirements and click **Save**.&#x20;
 
@@ -205,7 +205,7 @@ You can also add a sub committee under a committee.&#x20;
 
 To add a sub committee, perform the following steps:
 
-1.Under Manage, click the <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> and select **Add Subcommittee**.
+1.Under Manage, click the <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> and select **Add Subcommittee**.
 
 &#x20;
 
@@ -225,7 +225,7 @@ You can move a committee under an exisitng committe.&#x20;
 
 To move a committee, perform  the following steps:
 
-1.Under Manage, click the <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> and select **Move**.
+1.Under Manage, click the <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> and select **Move**.
 
 <figure><img src="../../../.gitbook/assets/Move.png" alt=""><figcaption><p>Move</p></figcaption></figure>
 
@@ -239,7 +239,7 @@ You can delete a committee if you want to. Deleting a committee will also remove
 
 To delete a committee, perform the following steps:
 
-1.Under Manage, click the <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> and select **Delete**.
+1.Under Manage, click the <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> and select **Delete**.
 
 <figure><img src="../../../.gitbook/assets/Del Com.png" alt=""><figcaption><p>Delete</p></figcaption></figure>
 

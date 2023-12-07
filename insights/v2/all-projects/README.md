@@ -12,7 +12,7 @@ As a project leader, maintainer, administrator, or anyone wanting to understand 
 
 To analyze the key metrics of the **All Projects** dashboard for your project, follow these steps:
 
-1. Visit the [Insights](https://insights-v2.lfx.linuxfoundation.org/) login page and login with your LF account. <img src="../../../.gitbook/assets/All project (1).png" alt="" data-size="original">
+1. Visit the [Insights](https://insights-v2.lfx.linuxfoundation.org/) login page and login with your LF account. <img src="../../../.gitbook/assets/All project.png" alt="" data-size="original">
 2. On the side navigation menu of the **LFX Insights**, click **All Projects**. This opens the main **All Projects** dashboard.
 3. Type your project name in the **search box** on the left navigation pane.&#x20;
 4. You now have full access to your project and its sub-project metrics.  Note that each metric graph is downloadable.&#x20;

@@ -19,7 +19,7 @@ The dashboard shows the commits snapshot and a detailed chart. The detailed char
 3. The high-level tile (3) shows you the total commits for the selected time range.
 4. The detailed analysis chart shows you the New commits and the [cumulative](contributor.md#:\~:text=Cumulative%20chart%20description) count of total commits for the selected period. On the left side, the chart shows the chart trend summary (4). &#x20;
 
-<figure><img src="../../../../.gitbook/assets/2023-06-27_16h11_58 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2023-06-27_16h11_58.png" alt=""><figcaption></figcaption></figure>
 
 
 

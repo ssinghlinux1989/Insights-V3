@@ -15,4 +15,4 @@ Below are task statuses and their descriptions:
 * You can sort tasks by ascending or descending order from the **Sorting Order** dropdown.
 {% endhint %}
 
-![tasks assigned to me](<../../.gitbook/assets/tasks assigned to me (2).png>)
+![tasks assigned to me](<../../.gitbook/assets/tasks assigned to me.png>)

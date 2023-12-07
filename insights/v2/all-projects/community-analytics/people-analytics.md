@@ -20,7 +20,7 @@ By default, **Trends** page is displayed.
 
 3.Under **Community Analytics**, click **People**.
 
-<figure><img src="../../../../.gitbook/assets/CM1.png" alt=""><figcaption><p>People</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/CM1 (1).png" alt=""><figcaption><p>People</p></figcaption></figure>
 
 ## Date Range <a href="#date-range" id="date-range"></a>
 
@@ -120,7 +120,7 @@ To search the contributor, perform the following steps:
 * Enter the email ID of the contributor if you have selected **Email**.
 * Enter the organization name of the contributor if you have selected **Organization**.
 
-<figure><img src="../../../../.gitbook/assets/SE.gif" alt=""><figcaption><p>Search a contributor </p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/SE (1).gif" alt=""><figcaption><p>Search a contributor </p></figcaption></figure>
 
 ## Technical Contributors with Missing LFID <a href="#technical-contributors-with-missing-lfid" id="technical-contributors-with-missing-lfid"></a>
 
@@ -166,7 +166,7 @@ You can check issues raised from the contributors for the project. Click **Issue
 
 ## Emailing a Contributor <a href="#emailing-a-contributor" id="emailing-a-contributor"></a>
 
-You have an option to send an email to the contributor by clicking the Eclipsys <img src="../../../../.gitbook/assets/Icon (9).png" alt="" data-size="line"> icon and selecting the **Send a Message**. You can send the email to the contributor in case you want to appreciate the contributor on their contributions or else you can also send the email to the drifting away contributors on informing about the latest development on the project.
+You have an option to send an email to the contributor by clicking the Eclipsys <img src="../../../../.gitbook/assets/Icon (5).png" alt="" data-size="line"> icon and selecting the **Send a Message**. You can send the email to the contributor in case you want to appreciate the contributor on their contributions or else you can also send the email to the drifting away contributors on informing about the latest development on the project.
 
 <figure><img src="../../../../.gitbook/assets/EM.png" alt=""><figcaption><p>Send Message</p></figcaption></figure>
 

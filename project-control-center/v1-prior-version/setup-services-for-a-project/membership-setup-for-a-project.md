@@ -67,7 +67,7 @@ To add membership tier information for a project, perform the following steps:
 ![Membership Tier List](../../../.gitbook/assets/MS\_Tier.png)
 
 {% hint style="info" %}
-If you want to update the existing membership tiers details, click the edit ![](../../../.gitbook/assets/Edit\_Icon.png) icon.
+If you want to update the existing membership tiers details, click the edit ![](<../../../.gitbook/assets/Edit\_Icon (2).png>) icon.
 
-If you want to delete the existing membership tiers, click the delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon.
+If you want to delete the existing membership tiers, click the delete ![](<../../../.gitbook/assets/Delete\_Icon (1).png>) icon.
 {% endhint %}

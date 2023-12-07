@@ -8,7 +8,7 @@ Before you enable Git repositories for CLA check or remove them from CLA mechani
 
 3\. From **Tools Status** drop-down menu, click **EasyCLA**.
 
-![Tools Status Tab](broken-reference)
+![Tools Status Tab](<../../../.gitbook/assets/tools status tab.png>)
 
 4\. Select the CLA group to which you have added the project.5. Click **Manage** next to the project for which you want to manage repositories.
 
@@ -22,13 +22,13 @@ Before you enable Git repositories for CLA check or remove them from CLA mechani
 2. Turn on or turn off the **Enforce CLA** toggle key to enforce or remove all the repositories from CLA mechanism at a time.
 3. To enforce CLA for individual repositories, select the check box next to a repository, and click **Save**.
 
-![Add or Remove Git Repositories](broken-reference)
+![Add or Remove Git Repositories](<../../../.gitbook/assets/add or remove git repositories.png>)
 
 ## Enforce CLA Mechanism for Gerrit Repositories <a href="#enforce-cla-mechanism-for-gerrit-repositories" id="enforce-cla-mechanism-for-gerrit-repositories"></a>
 
 After you add a [Gerrit organization](add-and-manage-gerrit-organizations.md#add-gerrit-organization), by default all of its repositories are CLA enabled. You cannot disable CLA for an individual Gerrit repository. However, you can [disassociate the Gerrit organization](add-and-manage-gerrit-organizations.md#disassociate-gerrit-organization) to disable CLA for the organization and all of its repositories.
 
-![Gerrit Instance showing all its repositories CLA enabled](broken-reference)
+![Gerrit Instance showing all its repositories CLA enabled](<../../../.gitbook/assets/gerrit instances.png>)
 
 ## Enforce or Remove CLA Mechanism from GitLab Projects <a href="#enforce-or-remove-cla-mechanism-from-gitlab-projects" id="enforce-or-remove-cla-mechanism-from-gitlab-projects"></a>
 
@@ -36,4 +36,4 @@ After you add a [Gerrit organization](add-and-manage-gerrit-organizations.md#add
 2. Turn on or turn off the **Enforce CLA** toggle key to enforce or remove all the projects from CLA mechanism at a time.
 3. To enforce or remove CLA from individual projects, turn on the toggle key next to a project, and click **Yes**.
 
-![Enforce or Remove CLA from GitLab](broken-reference)
+![Enforce or Remove CLA from GitLab](<../../../.gitbook/assets/enforce or remove CLA for GitLab.png>)

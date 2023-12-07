@@ -44,4 +44,4 @@ Navigate to **SIGNATURES** tab to view signed ICLAs and CCLAs.
 
 It shows the recent CLA activities for the projects within the CLA group, such as activity description, name of the person who did the activity, date and time of the activity, the corresponding company name where applicable, and the applicable project.
 
-![Activity Log](broken-reference)
+![Activity Log](<../../../.gitbook/assets/activity log.png>)

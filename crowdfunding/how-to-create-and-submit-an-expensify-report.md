@@ -23,7 +23,7 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 
 6\. On **Add Expense To Report** window, click **New Expense**.
 
-![](<../.gitbook/assets/New Expense (1).png>)
+![](<../.gitbook/assets/New Expense.png>)
 
 6\. Click ![](<../.gitbook/assets/plus icon.png>) on **New Expense** window to add receipt, and provide the following details:\
 **Merchant:** Name of the Merchant.\
@@ -34,7 +34,7 @@ Consolidate all of the travel expenses eligible for reimbursement to apply them 
 **Description:** A brief description of _category_ + _event name_ as shown in the "New Expense" image.\
 ![](<../.gitbook/assets/Choose Event.png>)
 
-![New Expense](<../.gitbook/assets/New Expense.png>)
+![New Expense](<../.gitbook/assets/New Expense (1).png>)
 
 7\. Click **Save** and repeat Step 6 if you want to add more receipts.
 

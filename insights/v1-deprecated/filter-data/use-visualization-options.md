@@ -4,7 +4,7 @@ Useful options let you perform actions on a visualization, such as exporting dat
 
 1\. Open a dashboard and then go to a visualization of interest.
 
-2\. For a doughnut chart visualization, click a value or organization as shown below, and then click ![](<../../../.gitbook/assets/plus sign (1).png>) to view data specifically for the selected value or ![](<../../../.gitbook/assets/minus sign.png>) to remove its data for a dashboard.
+2\. For a doughnut chart visualization, click a value or organization as shown below, and then click ![](<../../../.gitbook/assets/plus sign.png>) to view data specifically for the selected value or ![](<../../../.gitbook/assets/minus sign.png>) to remove its data for a dashboard.
 
 Following example shows data specifically for a selected organization:
 

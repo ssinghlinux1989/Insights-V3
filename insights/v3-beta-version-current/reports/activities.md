@@ -16,7 +16,7 @@
 1. Find the **Platforms** drop-down menu.&#x20;
 2. Choose a data source from the available options (e.g., GitHub or Git).
 
-<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 #### Total Activities Chart
 

@@ -107,7 +107,7 @@ In GitHub, an _issue_ is a suggested improvement, task, or question that is rela
 
 _Jenkins_ is an open source continuous integration software tool for testing and reporting on changes in a code base in real time.
 
-### Jira ![](<../../.gitbook/assets/18088260 (3) (3) (3) (3).png>)
+### Jira ![](<../../.gitbook/assets/18088260 (3) (3) (3) (3) (1).png>)
 
 _Jira_ is an issue tracking product that allows bug tracking and agile project management.
 

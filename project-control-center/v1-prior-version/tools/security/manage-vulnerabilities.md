@@ -19,7 +19,7 @@ To enable or disable a repository for vulnerability scan, perform the following 
 You can also navigate to Security from the Vertical Sidebar navigation menu. Click **LFX Tools** and then select **Security**.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/Sec2 (2).png" alt=""><figcaption><p>Security</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Sec2 (3).png" alt=""><figcaption><p>Security</p></figcaption></figure>
 
 3.The Security page appears. Click **Manage Vulnerabilities** tab, all repositories of the project are listed in alphabetical order.
 

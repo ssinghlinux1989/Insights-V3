@@ -14,7 +14,7 @@ The GitHub PR dashboards represent a set of metrics that shows pull request info
 
 By default, **Bot** commits are filtered. To apply more filters, see [add and manage data filters](../../filter-data/add-and-manage-data-filters.md).
 
-Click ![](<../../../../.gitbook/assets/get short url (1).png>) to copy the path of respective dashboards.
+Click ![](<../../../../.gitbook/assets/get short url.png>) to copy the path of respective dashboards.
 
 ## Overview
 

@@ -10,7 +10,7 @@ To view your transactions for all the purchases you made through the Linux Found
    2. Event Tickets Training and Certifications
    3. Individual Support and Linux.com Purchase
 
-![My Transactions](<../../../.gitbook/assets/my transactions.png>)
+![My Transactions](<../../.gitbook/assets/my transactions.png>)
 
 In this section, you can view the following transaction details:
 
@@ -24,7 +24,7 @@ In this section, you can view the following transaction details:
 
 All Transactions provides the transaction details related to all the transactions.
 
-![All Transactions](<../../../.gitbook/assets/all transactions (1).png>)
+![All Transactions](<../../.gitbook/assets/all transactions.png>)
 
 #### Event Tickets
 

@@ -12,39 +12,39 @@ This dashboard provides details such as:
 
 The following icons are available on the dashboard:
 
-| **Icons**                                     | **Description**        |
-| --------------------------------------------- | ---------------------- |
-| **Operations**                                | \*\*\*\*               |
-| ![](<../../.gitbook/assets/PD (2).png>)       | Project Definition     |
-| ![](<../../.gitbook/assets/Mem (1).png>)      | Membership             |
-| ![](../../.gitbook/assets/CP.png)             | Cloud Providers        |
-| ![](<../../.gitbook/assets/Domain .png>)      | Domains                |
-| ![](../../.gitbook/assets/Leg.png)            | Legal                  |
-|                                               |                        |
-| **Collaborations**                            | \*\*\*\*               |
-| ![](../../.gitbook/assets/Com.png)            | Committee              |
-| ![](../../.gitbook/assets/Met.png)            | Meetings               |
-| ![](../../.gitbook/assets/ML.png)             | Mailing List           |
-| ![](../../.gitbook/assets/Wik.png)            | Wiki                   |
-| ![](../../.gitbook/assets/IT.png)             | Issue Tracker          |
-|                                               |                        |
-| **Development**                               | \*\*\*\*               |
-| ![](../../.gitbook/assets/SC.png)             | Source Control         |
-| ![](../../.gitbook/assets/CI.png)             | Continuous Integration |
-| ![](<../../.gitbook/assets/Dis (1).png>)      | Distribution           |
-|                                               |                        |
-| **LFX Tools**                                 | \*\*\*\*               |
-| ![](../../.gitbook/assets/Ins.png)            | Insights               |
-| ![](<../../.gitbook/assets/Sec (4).png>)      | Security               |
-| ![](../../.gitbook/assets/Eas.png)            | EasyCLA                |
-| ![](<../../.gitbook/assets/image (81).png>)   | Crowdfunding           |
-| ![](<../../.gitbook/assets/image (70).png>)   | Mentorship             |
-|                                               |                        |
-| **General Icons**                             | \*\*\*\*               |
-| ![](<../../.gitbook/assets/image (56).png>)   | Progress Bar           |
-| ![](<../../.gitbook/assets/Running .png>)     | Running                |
-| ![](<../../.gitbook/assets/image (23).png>)   | Warning                |
-| ![](<../../.gitbook/assets/Disabled (1).png>) | Disabled               |
+| **Icons**                                    | **Description**        |
+| -------------------------------------------- | ---------------------- |
+| **Operations**                               | \*\*\*\*               |
+| ![](<../../.gitbook/assets/PD (2).png>)      | Project Definition     |
+| ![](<../../.gitbook/assets/Mem (3).png>)     | Membership             |
+| ![](../../.gitbook/assets/CP.png)            | Cloud Providers        |
+| ![](<../../.gitbook/assets/Domain .png>)     | Domains                |
+| ![](../../.gitbook/assets/Leg.png)           | Legal                  |
+|                                              |                        |
+| **Collaborations**                           | \*\*\*\*               |
+| ![](../../.gitbook/assets/Com.png)           | Committee              |
+| ![](../../.gitbook/assets/Met.png)           | Meetings               |
+| ![](<../../.gitbook/assets/ML (1).png>)      | Mailing List           |
+| ![](../../.gitbook/assets/Wik.png)           | Wiki                   |
+| ![](../../.gitbook/assets/IT.png)            | Issue Tracker          |
+|                                              |                        |
+| **Development**                              | \*\*\*\*               |
+| ![](../../.gitbook/assets/SC.png)            | Source Control         |
+| ![](../../.gitbook/assets/CI.png)            | Continuous Integration |
+| ![](<../../.gitbook/assets/Dis (1).png>)     | Distribution           |
+|                                              |                        |
+| **LFX Tools**                                | \*\*\*\*               |
+| ![](../../.gitbook/assets/Ins.png)           | Insights               |
+| ![](<../../.gitbook/assets/Sec (3).png>)     | Security               |
+| ![](../../.gitbook/assets/Eas.png)           | EasyCLA                |
+| ![](<../../.gitbook/assets/image (55).png>)  | Crowdfunding           |
+| ![](<../../.gitbook/assets/image (121).png>) | Mentorship             |
+|                                              |                        |
+| **General Icons**                            | \*\*\*\*               |
+| ![](<../../.gitbook/assets/image (67).png>)  | Progress Bar           |
+| ![](<../../.gitbook/assets/Running .png>)    | Running                |
+| ![](<../../.gitbook/assets/image (97).png>)  | Warning                |
+| ![](../../.gitbook/assets/Disabled.png)      | Disabled               |
 
 To access PCC dashboard and its services, you need to login into [PCC](http://projectadmin.lfx.linuxfoundation.org) using your LF SSO account. As you login into the PCC, the Dashboard appears.
 
@@ -84,4 +84,4 @@ All Projects lists all the projects that are created irrespective of who has cre
 
 You can search for the required project using the search tabs available on right top of the dashboard as well as on the left menu bar.
 
-![Search](<../../.gitbook/assets/Search (1) (1).png>)
+![Search](<../../.gitbook/assets/Search (2).png>)

@@ -18,7 +18,7 @@ You can also navigate to Issue Tracking from the Vertical Sidebar navigation men
 
 <figure><img src="../../../.gitbook/assets/IT1.png" alt=""><figcaption><p>IssueTracker</p></figcaption></figure>
 
-3.The Issue Tracking page appears. Click the <img src="../../../.gitbook/assets/P Icon (1) (1).png" alt="" data-size="line"> icon available in front of **Connect Existing/Deploy New** and click **Deploy New**, enter the Jira **URL** and then click **Deploy**.
+3.The Issue Tracking page appears. Click the <img src="../../../.gitbook/assets/P Icon (2).png" alt="" data-size="line"> icon available in front of **Connect Existing/Deploy New** and click **Deploy New**, enter the Jira **URL** and then click **Deploy**.
 
 ![Deploy New](https://lh5.googleusercontent.com/LXHMBmL0NfWXWYIrl4S4UbYtRq9Rg3Ai8Hy2me2xXcXpvU89VMRZLH4HPkif\_PsHgGDCe5De4KdNz63tQx\_K1mQQXidEkXrAFSGdvjWveAjJ9Zgxvh5Lexpo9aGO-XggtBaEgFr3vR4jZuDFaro)
 
@@ -51,9 +51,9 @@ To add a Service Administrator to the Jira board for a project, perform the foll
 ![Add Service Administrator](https://lh6.googleusercontent.com/Btevp6m537vBEzJukC\_v2cgQFaAtrkFJ9zeDuHuKuVTb68xX3C7LRfBFZc0iSbjRaanoK3FsNZIZIdr96-jR8k1QfVAEQrAi3M0VNUkQIG2gJ\_OOGHrF\_TlS3pr23TtMxKSmv5OQOpu7-9wjVvE)
 
 {% hint style="info" %}
-If you want to update the existing Service Administrator details, click the edit <img src="../../../.gitbook/assets/Edit_Icon (2).png" alt="" data-size="line"> icon.
+If you want to update the existing Service Administrator details, click the edit <img src="../../../.gitbook/assets/Edit_Icon.png" alt="" data-size="line"> icon.
 
-If you want to delete the existing Service Administrator, click the delete <img src="../../../.gitbook/assets/Delete_Icon (1).png" alt="" data-size="line">icon.
+If you want to delete the existing Service Administrator, click the delete <img src="../../../.gitbook/assets/Delete_Icon.png" alt="" data-size="line">icon.
 {% endhint %}
 
 ## Adding a Jira Project <a href="#adding-a-jira-project" id="adding-a-jira-project"></a>

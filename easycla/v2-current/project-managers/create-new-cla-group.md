@@ -16,7 +16,7 @@ A single CLA Group includes a pair of CCLA and ICLA templates, if both types are
 
 3\. From left-side navigation, Navigate to **LFX Tools >** **EasyCLA**.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>EasyCLA</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Easy.png" alt=""><figcaption><p>EasyCLA</p></figcaption></figure>
 
 4\. Click **+Add New CLA Group**.
 

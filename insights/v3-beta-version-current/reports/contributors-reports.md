@@ -30,7 +30,7 @@ For more information, see [Filter Date Range](../project-overview-page/filter-th
 Currently, both GitHub and Git are selected as the data sources by default.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 #### Toggle Button for New Contributors
 

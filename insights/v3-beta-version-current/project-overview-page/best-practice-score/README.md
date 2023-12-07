@@ -12,7 +12,7 @@ It generates a score or rating based on how well the project meets these criteri
 2. Select the specific time period using the filter option.
 3. Scroll down to find the best practice score dashboard.
 4. You can see the aggregated score (3) and each category's score on the dashboard.
-5. Click the **Download** icon ![](<../../../../.gitbook/assets/image (93).png>)to download the dashboard.&#x20;
+5. Click the **Download** icon ![](<../../../../.gitbook/assets/image (105).png>)to download the dashboard.&#x20;
 6. Click on any category to see the expanded page where you can see the detailed analysis for each repository.
 
 <figure><img src="../../../../.gitbook/assets/2023-08-30_12h53_49.gif" alt=""><figcaption></figcaption></figure>

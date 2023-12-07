@@ -20,7 +20,7 @@ Connect your GitHub and LinkedIn accounts to complete your profile. After comple
 
 1. Click **LEARN MORE** to complete your profile.
 
-<figure><img src="../../.gitbook/assets/Learn more.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Learn more (1).PNG" alt=""><figcaption></figcaption></figure>
 
 &#x20;2\. On the next pop-up window, click **Get Started**.
 
@@ -47,7 +47,7 @@ Click **Add Email Address** to add your other Email addresses**.**
 <figure><img src="../../.gitbook/assets/review your email.png" alt=""><figcaption><p><strong>Add your Email Addresses</strong></p></figcaption></figure>
 
 {% hint style="info" %}
-![](<../../.gitbook/assets/image (45).png>) shows that the Email address is your primary Email address.
+![](<../../.gitbook/assets/image (34).png>) shows that the Email address is your primary Email address.
 {% endhint %}
 
 #### 5. About Me
@@ -70,10 +70,10 @@ The Linux Foundation values your privacy and does not share or use your data for
 
 From the right side pane of the window, you can view and manage profile visibility, view, and complete profile completion details, view any upcoming Linux Foundation events that you have registered for, and many more.
 
-1. On the right side panel, you can see basic details, such as your profile image, your organization name, designation, and location. Click the _pencil icon_ to navigate to the [Basic Information](../know-your-individual-dashboard/about-me/update-profile-information.md#update-basic-information) section to make changes.
+1. On the right side panel, you can see basic details, such as your profile image, your organization name, designation, and location. Click the _pencil icon_ to navigate to the [Basic Information](../settings/update-profile-information.md#update-basic-information) section to make changes.
 2. Below the basic details section, the icons of social accounts (LinkedIn) and technical accounts such as GitHub are listed. The icons are greyed or highlighted depending on their configuration. [Connect your LinkedIn and Git accounts](./#connect-or-disconnect-accounts) to add your open-source experience to your profile.
 
-<figure><img src="../../.gitbook/assets/profile visibility and profile completion.png" alt=""><figcaption><p>Profile completion Page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/profile visibility and profile completion (1).png" alt=""><figcaption><p>Profile completion Page</p></figcaption></figure>
 
 #### 5. Connect LinkedIn and GitHub
 
@@ -85,7 +85,7 @@ Your affiliations also get published to **LFX Insights Community** Dashboards an
 
 To connect your LinkedIn account with your LF account, follow these steps:
 
-1. Click ![](<../../.gitbook/assets/image (46).png>) icon on the profile complete page.
+1. Click ![](<../../.gitbook/assets/image (38).png>) icon on the profile complete page.
 2. On the LinkedIn login page, enter your credentials. Click **Sign in.**
 
 <figure><img src="../../.gitbook/assets/linkedIn sign in.PNG" alt=""><figcaption><p>LinkedIn login page </p></figcaption></figure>
@@ -98,7 +98,7 @@ To connect your LinkedIn account with your LF account, follow these steps:
 
 To connect your GitHub account with your LF account, follow these steps:
 
-1. Click ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) icon on the profile completion page.
+1. Click ![](<../../.gitbook/assets/image (48).png>) icon on the profile completion page.
 2. On the next page, authorize your GitHub account.
 
 {% hint style="info" %}

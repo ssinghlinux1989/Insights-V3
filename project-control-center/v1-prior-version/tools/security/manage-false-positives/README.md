@@ -16,7 +16,7 @@ To add a false positive pattern, perform the following steps:
 You can also navigate to Security from the Vertical Sidebar navigation menu. Click **LFX Tools** and then select **Security**.
 {% endhint %}
 
-<figure><img src="../../../../../.gitbook/assets/Sec2.png" alt=""><figcaption><p>Security</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Sec2 (4).png" alt=""><figcaption><p>Security</p></figcaption></figure>
 
 3.The Security page appears. From the **Manage False Positive** tab, click **Proceed**.
 
@@ -25,7 +25,7 @@ You can also navigate to Security from the Vertical Sidebar navigation menu. Cli
 4.The Manage False Positive page appears with the list of defined false positive parameters. Click **Add False Positive Pattern** to add a new false positive parameter.
 
 {% hint style="info" %}
-* You can delete the existing false positive parameter by click of delete ![](../../../../../.gitbook/assets/Delete\_Icon.png) icon.
+* You can delete the existing false positive parameter by click of delete ![](<../../../../../.gitbook/assets/Delete\_Icon (1).png>) icon.
 * You can update the existing false positive parameter by click of edit ![](<../../../../../.gitbook/assets/Edit\_Icon (1).png>) icon.
 {% endhint %}
 

@@ -39,7 +39,7 @@ A View button is available at the deeper level to go ahead and check the issue d
 
 ![View Button](../.gitbook/assets/Button.gif)
 
-A icon ![](<../.gitbook/assets/Icon (10).png>) is also available which suggests that there are issues still available further in the child level dependencies.
+A icon ![](<../.gitbook/assets/Icon (9).png>) is also available which suggests that there are issues still available further in the child level dependencies.
 
 ![Issues](../.gitbook/assets/Tree.gif)
 

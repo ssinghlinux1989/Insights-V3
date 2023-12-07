@@ -4,12 +4,12 @@ This section lets you add or update an open-source event that you attended as a 
 
 To add an event that you attended as a speaker, follow these steps:
 
-1. Click <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" data-size="original"> icon to **Add Speaking Experience.**
+1. Click <img src="../../.gitbook/assets/image (9).png" alt="" data-size="original"> icon to **Add Speaking Experience.**
 2. Provide event details such as title, date of the event, presentation file, and youtube URL if there is any, and click **Submit**.
 
 <figure><img src="../../.gitbook/assets/Open Source Event.PNG" alt=""><figcaption><p>Add Speaking Experience CTA</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/submit speaking experience.png" alt=""><figcaption><p>Submit Speaking Experience</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/submit speaking experience (1).png" alt=""><figcaption><p>Submit Speaking Experience</p></figcaption></figure>
 
 The following screen is displayed when you add one or more events that you attended as a speaker. You can edit or delete an event by clicking the edit (pencil icon) or delete icon on the event name.
 

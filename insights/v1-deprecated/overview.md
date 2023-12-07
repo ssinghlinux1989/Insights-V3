@@ -34,7 +34,7 @@ Each project card shows the following information:
 
 A project group is a group of individual projects. Click the name or click **Go to Projects** to see the trends dashboard and sub-projects under the project group. For details, see Project Group. To view the sub projects of a project group, and navigate to a sub project, click **View Sub Projects** from the top right corner to view the list of sub projects.
 
-![Sub projects of a project group](<../../.gitbook/assets/view sub projects of a project group (1).png>)
+![Sub projects of a project group](<../../.gitbook/assets/view sub projects of a project group.png>)
 
 ![Project Group Overview Card](<../../.gitbook/assets/project group overview card.png>)
 
@@ -48,7 +48,7 @@ Each card shows the following information:
 * **Projects** ![](../../.gitbook/assets/18088267.png)shows the logos of sub-projects under the project group.
 
 On a project dashboard, click **Get Short URL**, and click the icon next to the URL to copy the link of a respective dashboard for a project.\
-![](<../../.gitbook/assets/get short url.png>)
+![](<../../.gitbook/assets/get short url (1).png>)
 
 ## **Insights Features**
 

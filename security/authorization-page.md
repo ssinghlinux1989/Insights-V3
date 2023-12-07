@@ -38,7 +38,7 @@ You can also connect the GitHub account using My Profile, see [My Profile](https
 
 If your not a contributor or mentor, a red tick mark appears along with a message informing that your not a contributor or maintainer for the project.
 
-![](<../.gitbook/assets/2 (1).png>)
+![](../.gitbook/assets/2.png)
 
 {% hint style="info" %}
 Click **Change** to change the GitHub account.
@@ -68,7 +68,7 @@ For more information on adding organization details in My Profile, see [Organiza
 
 3.The **Send Code** button is enabled, click **Send Code** to get the authorization code. You will receive the authorization code in the registered email ID. Enter the code and click **Continue with Member Access** to view project issues.
 
-![](<../.gitbook/assets/4 (1).png>)
+![](../.gitbook/assets/4.png)
 
 ### Organization Details Available in My Profile
 
@@ -92,7 +92,7 @@ To authorize your account using Gerrit, perform the following:
 
 2.The Authorization page appears. Click **Connect to Gerrit**.
 
-![Gerrit](../.gitbook/assets/Sec1.png)
+![Gerrit](<../.gitbook/assets/Sec1 (1).png>)
 
 {% hint style="warning" %}
 You should have a valid Gerrit account setup in Individual Dashboard.

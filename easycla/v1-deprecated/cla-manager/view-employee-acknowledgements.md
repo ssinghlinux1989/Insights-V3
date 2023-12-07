@@ -9,7 +9,7 @@ CLA managers can view a list of employee acknowledgements.
 
     The CLA Corporate Console shows Signed CLAs.
 
-    ​![Signed CLAs](broken-reference)​
+    ​![Signed CLAs](../../../.gitbook/assets/cla-signed-clas.png)​
 3.  Click a **CLA**.
 
     Project Signatures lists the CLA Managers and the signed Employee Acknowledgements for the project. Each acknowledgement shows the employee name, the agreement name, and the date the employee acknowledged the agreement.

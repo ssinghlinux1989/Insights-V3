@@ -28,17 +28,17 @@ To add or remove your skill sets:
 
 1\. Log in to [https://openprofile.dev](https://openprofile.dev).
 
-2\. From the right-side pane of the window, scroll down to the **Skills** section and click ![](<../../../.gitbook/assets/image (88).png>) icon.
+2\. From the right-side pane of the window, scroll down to the **Skills** section and click ![](<../../.gitbook/assets/image (65).png>) icon.
 
-<figure><img src="../../../.gitbook/assets/skills (1).PNG" alt=""><figcaption><p>Add Skills</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/skills (1).PNG" alt=""><figcaption><p>Add Skills</p></figcaption></figure>
 
 3\. On the **Skills** subpage, click **+Add Another Skill,** type your skill set in the search box, and select the skills from the displayed list.
 
-<figure><img src="../../../.gitbook/assets/current skills.PNG" alt=""><figcaption><p>skills  box</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/current skills.PNG" alt=""><figcaption><p>skills  box</p></figcaption></figure>
 
 4\. To remove or edit a skill set, click the pencil icon, and then click the cross mark next to an added skill.
 
-![Skills](../../../.gitbook/assets/2023-09-13\_21h05\_48.png)
+![Skills](../../.gitbook/assets/2023-09-13\_21h05\_48.png)
 
 3\. On the **Skills** subpage, enter your skill set and select the skill from the displayed list.
 

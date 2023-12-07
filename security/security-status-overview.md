@@ -65,13 +65,13 @@ A project's criticality score defines the influence and importance of a project.
 * Number of months when the project was last updated
 * Number of dependents of your project
 
-![Project Criticality Score](../.gitbook/assets/PC.png)
+![Project Criticality Score](<../.gitbook/assets/PC (2).png>)
 
 ## Code Secrets Detected
 
 Code Secrets Detected donut chart provides you the number of code secrets detected in the project. It shows you various code secrets detected in the project. On click of the detected code secret, the page navigates to the Code Secret details page.
 
-![Code Secrets  Detected](<../.gitbook/assets/Code Secret (3).gif>)
+![Code Secrets  Detected](<../.gitbook/assets/Code Secret (2).gif>)
 
 ## Recent Alerts
 

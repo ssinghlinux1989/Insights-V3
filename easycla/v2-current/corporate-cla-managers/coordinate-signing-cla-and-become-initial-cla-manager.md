@@ -20,49 +20,49 @@ You may need to consult with your management or legal department for guidance on
 
 3\. Click **Start the CLA process**.
 
-![Start the CLA Process](broken-reference)
+![Start the CLA Process](<../../../.gitbook/assets/start cla process.png>)
 
 4\. Click an answer: **Are you authorized to be a CLA Manager for your organization?**
 
-![](broken-reference)
+![](<../../../.gitbook/assets/company has not signed cla (1).png>)
 
 * **Yes:** You _are_ going to be your company's initial CLA Manager. Continue to next step.
 * **No:** [Designate someone else as the initial CLA Manager](coordinate-signing-cla-and-become-initial-cla-manager.md#designating-another-initial-cla-manager).
 
 5\. Following screen appears. Under the **Action** column, click **Proceed with Signing**.
 
-![Proceed with Signing CLA](broken-reference)
+![Proceed with Signing CLA](<../../../.gitbook/assets/proceed with signing.png>)
 
 6\. Select an answer: **Are you authorized to sign CLAs on your company's behalf?**
 
-![](broken-reference)
+![](<../../../.gitbook/assets/identify cla signatory.png>)
 
 * **Yes:** Continue to next step.
 * **No:** [Choose someone else to sign the CCLA](coordinate-signing-cla-and-become-initial-cla-manager.md#choosing-another-cla-signatory).
 
 7\. The **Review CCLA** window appears. Click **Review & Sign CCLA**.
 
-![](broken-reference)
+![](<../../../.gitbook/assets/review ccla.png>)
 
 8\. The **Preparing CCLA** window appears. After CCLA preparation is completed, click **Sign CCLA**.
 
-![CCLA Ready for Signature](broken-reference)
+![CCLA Ready for Signature](<../../../.gitbook/assets/ccla ready for signature.png>)
 
 **Result:** You will be redirected to DocuSign to sign the CCLA.
 
 9\. Select the check box to agree to use electronic signatures, and click **Continue**. Follow the instructions in the DocuSign document to fill in the required fields, sign the CCLA, and click **Finish**.
 
-![](broken-reference)
+![](<../../../.gitbook/assets/docusign icla flow.png>)
 
 **Result:** The CCLA is signed. You are now the CLA Manager from your company for this project. You will be redirected to the project page in the EasyCLA Corporate Console, and your name and email address will appear under **CLA Managers From My Organization**:
 
-![CCLA signed successfully](broken-reference)
+![CCLA signed successfully](<../../../.gitbook/assets/cla managers from my organization example.png>)
 
 You will now be able to [approve contributors](approve-and-manage-contributors.md) to contribute to the project, and to [add others as additional CLA Managers](add-or-delete-cla-managers.md#add-a-cla-manager).
 
 {% hint style="info" %}
 * After signing the CCLA, you will receive an email from The Linux Foundation confirming that the CCLA is signed.
-* You can download the signed PDF document by clicking the link from that email, where you will be redirected to The Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](broken-reference)
+* You can download the signed PDF document by clicking the link from that email, where you will be redirected to The Linux Foundation's website. If the download doesn't start automatically, click **Proceed to Download**. ![](<../../../.gitbook/assets/proceed to download ccla.png>)
 * You can also download the signed CCLA at any time from within the EasyCLA Corporate Console.
 {% endhint %}
 
@@ -70,21 +70,21 @@ You will now be able to [approve contributors](approve-and-manage-contributors.m
 
 If you clicked **No** in step 4 above, the **Identify CLA Manager** form appears:
 
-![](broken-reference)
+![](<../../../.gitbook/assets/identify cla manager (1).png>)
 
 Enter the name and email address of the person who should be the initial CLA Manager, and click **Submit Request**.
 
 If you are not sure who is the initial CLA Manager, then click **Contact Company Admin**, which may let you reach out to your company's LFX administrative contact if your company has set someone up with this role, or reach out to your management or legal department for guidance.
 
 {% hint style="info" %}
-You should follow up with the specified person to confirm that they complete the CCLA signing process. They must have an [LF SSO](broken-reference) account to use the EasyCLA Corporate Console. If they don't have LF SSO account, they must [create one](broken-reference) before proceeding.
+You should follow up with the specified person to confirm that they complete the CCLA signing process. They must have an [LF SSO](../../../sso/) account to use the EasyCLA Corporate Console. If they don't have LF SSO account, they must [create one](../../../sso/create-an-account.md) before proceeding.
 {% endhint %}
 
 ## Choosing someone else to sign the CCLA <a href="#choosing-another-cla-signatory" id="choosing-another-cla-signatory"></a>
 
 If you clicked **No** in step 6 above, the **Identify Authorized Signatory** form appears:
 
-![](broken-reference)
+![](<../../../.gitbook/assets/identify authorized signatory.png>)
 
 Enter the name and email address of the person who should sign the CCLA, and click **Send Signature Request Email**.
 

@@ -24,7 +24,7 @@ A global trends dashboard, the default landing page, for LFX Insights shows data
 
 You can view all the sub projects under a project group, navigate to the sub project page by clicking a sub project, and search for a sub project using the Search project field.
 
-![](<../../../.gitbook/assets/view sub projects of a project group.png>)
+![](<../../../.gitbook/assets/view sub projects of a project group (1).png>)
 
 **High level aggregated all-time stats at the project level**: The aggregated statistics across key code and ecosystem related metrics at each project level are displayed which is an extension to the previous high level statistics that were available only at the project group level.
 

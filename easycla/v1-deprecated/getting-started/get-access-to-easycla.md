@@ -4,7 +4,7 @@
 **Prerequisites:**
 
 * Ensure that your project meets the [EasyCLA Requirements](easycla-requirements.md).
-* Ensure that you have an LF Single Sign-on (SSO) account, [create an account](broken-reference) if you do not have an SSO account.
+* Ensure that you have an LF Single Sign-on (SSO) account, [create an account](../../../sso/create-an-account.md) if you do not have an SSO account.
 {% endhint %}
 
 **To get access to EasyCLA:**

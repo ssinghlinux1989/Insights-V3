@@ -17,7 +17,7 @@ Earned coupons allow you to claim a discount for training, certifications, and e
 You need a minimum of 500 reward points to redeem a coupon.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 ### Claim the earned coupon:
 
@@ -27,9 +27,9 @@ You need a minimum of 500 reward points to redeem a coupon.
 
 3\. A pop-up message appears. Click **Claim Code.**
 
-<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 4. Copy the discount code and paste it at checkout on the [Training Portal](https://trainingportal.linuxfoundation.org).
 
-![Copy Code](<../../../.gitbook/assets/copy coupo code.png>)
+![Copy Code](<../../.gitbook/assets/copy coupo code.png>)
 

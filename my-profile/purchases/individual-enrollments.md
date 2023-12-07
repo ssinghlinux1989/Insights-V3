@@ -13,11 +13,11 @@ The **Individual Enrollments** page of the individual dashboard lets you view an
 2. From the left navigation pane, navigate to **Purchases> Individual Enrollments**.
 3. From the list of the available projects , click **Enroll as an Invidual Supporter** CTA to enroll.
 
-<figure><img src="../../../.gitbook/assets/2023-09-20_13h18_06 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2023-09-20_13h18_06 (1).png" alt=""><figcaption></figcaption></figure>
 
 4. On the **Member Enrollment** page, enter you contact details and click **Next**.
 
-<figure><img src="../../../.gitbook/assets/2023-09-20_13h26_09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2023-09-20_13h26_09.png" alt=""><figcaption></figcaption></figure>
 
 5. On the next page, enter your oder details and payment information.&#x20;
 6. confirm your purchase.&#x20;
@@ -42,11 +42,11 @@ If your enrollment is active and the auto renew is enabled.
 
 In this case you will have your membership to be renewed automatically.
 
-![Not Enrolled Status](<../../../.gitbook/assets/not enrolled.png>)
+![Not Enrolled Status](<../../.gitbook/assets/not enrolled.png>)
 
-![Enrolled and Expiring Soon Status](<../../../.gitbook/assets/image (13).png>)
+![Enrolled and Expiring Soon Status](<../../.gitbook/assets/image (68).png>)
 
-![Enrolled and Expired Status](<../../../.gitbook/assets/image (79).png>)
+![Enrolled and Expired Status](<../../.gitbook/assets/image (76).png>)
 
 3\. **Auto Renew:**
 
@@ -56,8 +56,8 @@ Enabling the auto renew, will automatically renew your next cycle before it will
 
 Disabling the auto renew, allow you to **renew manually**.
 
-![Auto Renew](<../../../.gitbook/assets/auto renew.png>)
+![Auto Renew](<../../.gitbook/assets/auto renew.png>)
 
 6\. To view all individual projects that you have enrolled in from my profile.
 
-![Individual Enrollment Section (My Profile)](<../../../.gitbook/assets/image (67).png>)
+![Individual Enrollment Section (My Profile)](<../../.gitbook/assets/image (43).png>)

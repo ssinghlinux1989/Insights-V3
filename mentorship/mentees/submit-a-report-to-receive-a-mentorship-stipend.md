@@ -20,7 +20,7 @@ To create and submit an **Expensify Report:**
 
 5. Click New Expenses to create a new expense on the **Add Expenses To Report page**.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>New Expense</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p>New Expense</p></figcaption></figure>
 
 6. Create a new expense by completing the fields as follows:
 

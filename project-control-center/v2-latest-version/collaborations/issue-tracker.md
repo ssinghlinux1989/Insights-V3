@@ -12,9 +12,9 @@ To deploy a new Jira board for a project, perform the following steps:
 
 2\. The Project dashboard appears. Click **Issue Tracker** from the **Collaboration** tab.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Issue Tracker </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Issue Tracker </p></figcaption></figure>
 
-3.The Issue Tracking page appears. Click the <img src="../../../.gitbook/assets/P Icon (1) (1).png" alt="" data-size="line"> icon available in front of **Connect** and click **Deploy New** and click **Connect**.
+3.The Issue Tracking page appears. Click the <img src="../../../.gitbook/assets/P Icon (2).png" alt="" data-size="line"> icon available in front of **Connect** and click **Deploy New** and click **Connect**.
 
 <figure><img src="../../../.gitbook/assets/Delpoy New Jira.gif" alt=""><figcaption><p>Deploy New Jira Account </p></figcaption></figure>
 
@@ -47,9 +47,9 @@ To add a Service Administrator to the Jira board for a project, perform the foll
 ![Add Service Administrator](https://lh6.googleusercontent.com/Btevp6m537vBEzJukC\_v2cgQFaAtrkFJ9zeDuHuKuVTb68xX3C7LRfBFZc0iSbjRaanoK3FsNZIZIdr96-jR8k1QfVAEQrAi3M0VNUkQIG2gJ\_OOGHrF\_TlS3pr23TtMxKSmv5OQOpu7-9wjVvE)
 
 {% hint style="info" %}
-If you want to update the existing Service Administrator details, click the edit <img src="../../../.gitbook/assets/Edit_Icon (2).png" alt="" data-size="line"> icon.
+If you want to update the existing Service Administrator details, click the edit <img src="../../../.gitbook/assets/Edit_Icon.png" alt="" data-size="line"> icon.
 
-If you want to delete the existing Service Administrator, click the delete <img src="../../../.gitbook/assets/Delete_Icon (1).png" alt="" data-size="line">icon.
+If you want to delete the existing Service Administrator, click the delete <img src="../../../.gitbook/assets/Delete_Icon.png" alt="" data-size="line">icon.
 {% endhint %}
 
 ## &#x20;<a href="#adding-a-jira-project" id="adding-a-jira-project"></a>

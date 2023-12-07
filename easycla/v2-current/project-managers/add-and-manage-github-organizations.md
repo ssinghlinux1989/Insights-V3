@@ -29,19 +29,19 @@ After you successfully add GitHub organization, you can:
 
 5\. Click **Manage** next to the project for which you want to manage repositories.
 
-![Add and Manage Repositories](broken-reference)
+![Add and Manage Repositories](<../../../.gitbook/assets/add and manage repositories.png>)
 
 6\. Under the GitHub tab, click the **+** sign at the top right of Add GitHub Organization.
 
-![Add GitHub Organization](broken-reference)
+![Add GitHub Organization](<../../../.gitbook/assets/add github organization.png>)
 
 7\. Type the GitHub organization name in the **Enter GitHub Organization** field, and click **Connect**.
 
-![Connect GitHub Organization](broken-reference)
+![Connect GitHub Organization](<../../../.gitbook/assets/connect github organization.png>)
 
 8\. Click **Install GitHub EasyCLA App**.
 
-![Install GitHub EasyCLA App](broken-reference)
+![Install GitHub EasyCLA App](<../../../.gitbook/assets/install github easycla app.png>)
 
 9\. Sign in to GitHub if the sign-in window appears, and click **Configure**.
 
@@ -49,7 +49,7 @@ After you successfully add GitHub organization, you can:
 
 ​11. Select repositories, and click **Install**.
 
-![Selecting Individual repositories and Install EasyCLA App](broken-reference)
+![Selecting Individual repositories and Install EasyCLA App](<../../../.gitbook/assets/selecting individual repositories.png>)
 
 {% hint style="info" %}
 **Note:**
@@ -63,7 +63,7 @@ If you select **Only select repositorie**s, then a newly added repository to the
 **Important:** To enable a CLA mechanism on a repository, you must [enforce CLA mechanism for GitHub repositories](enforce-or-remove-cla-mechanism.md#enforce-or-remove-cla-mechanism-from-github-repositories). Simply adding a GitHub organization to the project does not enable the EasyCLA mechanism for any CLA groups.
 {% endhint %}
 
-![GitHub Installation Completed](broken-reference)
+![GitHub Installation Completed](<../../../.gitbook/assets/installation completed.png>)
 
 ## Enable Branch Protection and Auto Enable New Repositories <a href="#enable-branch-protection-and-auto-enable-new-repositories" id="enable-branch-protection-and-auto-enable-new-repositories"></a>
 
@@ -72,16 +72,16 @@ After adding the GitHub organization, you should enable branch protection and au
 * **Enable Branch Protection** automatically enables the EasyCLA check for all the branches of the GitHub organization. If you select this check box, you do not need to [enable branch protection manually](../getting-started/easycla-troubleshooting/easycla-disabled.md#enable-branch-protection).
 * **Auto Enable New Repositories** automatically adds a repository under the GitHub organization on the project console when you add the repository to the GitHub organization.
 
-1\. Click the settings icon <img src="broken-reference" alt="" data-size="line">next to **Additional Settings** for a GitHub organization.
+1\. Click the settings icon <img src="../../../.gitbook/assets/settings.png" alt="" data-size="line">next to **Additional Settings** for a GitHub organization.
 
 2\. Click both the check boxes, and click **Save Changes**.
 
-![Additional Settings](broken-reference)
+![Additional Settings](<../../../.gitbook/assets/additional setttings.png>)
 
 ## Disassociate GitHub Organization <a href="#disassociate-github-organization" id="disassociate-github-organization"></a>
 
-1\. Click the settings icon <img src="broken-reference" alt="" data-size="line">next to **Additional Settings** for a GitHub organization.
+1\. Click the settings icon <img src="../../../.gitbook/assets/settings.png" alt="" data-size="line">next to **Additional Settings** for a GitHub organization.
 
 2\. Click **Disassociate GitHub Org**, and click the link to create a support ticket to disassociate the GitHub org.
 
-![Disassociate GitHub Org](broken-reference)
+![Disassociate GitHub Org](<../../../.gitbook/assets/disassociate github org.png>)

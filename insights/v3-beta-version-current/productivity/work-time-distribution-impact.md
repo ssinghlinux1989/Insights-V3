@@ -8,7 +8,7 @@ The purpose of the chart is to find out if there is a risk of burnout among cont
 
 ### Interact with the chart
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 ### Why is this important?
 

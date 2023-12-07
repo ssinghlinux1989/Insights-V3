@@ -49,7 +49,7 @@ To add a new member to the mailing list, perform the following steps:
 
 1.Go to the Mailing List and click on the **Members** listed in the Mailing List.
 
-![Add Member](<../../../.gitbook/assets/Member1 (1).png>)
+![Add Member](../../../.gitbook/assets/Member1.png)
 
 2\. The Manage List Members page appears with list of members available in the mailing list. Click **+ Add New List Member** to add a new member to the mailing list.
 
@@ -65,7 +65,7 @@ To add a new member to the mailing list, perform the following steps:
 ![Add Member](<../../../.gitbook/assets/Member Detail.gif>)
 
 {% hint style="info" %}
-To delete a member from the list, go to the Manage List Members page and click delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon listed in front of the member name.
+To delete a member from the list, go to the Manage List Members page and click delete ![](<../../../.gitbook/assets/Delete\_Icon (1).png>) icon listed in front of the member name.
 {% endhint %}
 
 ![Delete Member](<../../../.gitbook/assets/Delete Member.png>)

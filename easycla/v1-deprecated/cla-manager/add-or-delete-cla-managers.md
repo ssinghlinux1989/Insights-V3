@@ -13,7 +13,7 @@ CCLA managers have the following responsibilities:
 
     The CLA Corporate Console shows Signed CLAs.
 
-    ​![Signed CLAs](broken-reference)​
+    ​![Signed CLAs](../../../.gitbook/assets/cla-signed-clas.png)​
 3.  Click a **CLA**.
 
     Project Signatures lists the CCLA Managers and Employee Acknowledgements for the project.
@@ -27,10 +27,10 @@ CCLA managers have the following responsibilities:
 
     The Add CLA Manager dialog appears.
 
-    ​![Add CLA Manager pane](broken-reference)​
+    ​![Add CLA Manager pane](../../../.gitbook/assets/cla-managers-pane.png)​
 2.  Enter the Linux Foundation identification of the CCLA manager who you want to add and click **SAVE**.
 
-    ​![Add CLA Manager](broken-reference)​
+    ​![Add CLA Manager](../../../.gitbook/assets/cla-add-cla-manager.png)​
 
 The CCLA manager is listed under CLA Managers.
 

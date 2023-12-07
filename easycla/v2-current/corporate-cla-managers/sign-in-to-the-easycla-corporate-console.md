@@ -1,7 +1,7 @@
 # Sign in to the EasyCLA Corporate Console
 
 {% hint style="info" %}
-**Prerequisite**: You must have an LF SSO account. If you don't have an LF SSO account, you must [create](broken-reference) one.
+**Prerequisite**: You must have an LF SSO account. If you don't have an LF SSO account, you must [create](../../../sso/create-an-account.md) one.
 {% endhint %}
 
 A CLA Manager (or someone who will become an initial CLA Manager after a CCLA is signed) must sign in to the corporate console in order to [coordinate the CCLA signing process](coordinate-signing-cla-and-become-initial-cla-manager.md), and to perform other activities.

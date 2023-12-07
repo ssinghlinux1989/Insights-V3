@@ -18,7 +18,7 @@ The best practices health score is calculated for each repository that is config
 
 <figure><img src="../../../../../.gitbook/assets/Kubernetes.PNG" alt=""><figcaption><p>Kubernetes</p></figcaption></figure>
 
-Click![](<../../../../../.gitbook/assets/image (35).png>) to expand and see the [`check sets`](checks/) for each segment.
+Click![](<../../../../../.gitbook/assets/image (117).png>) to expand and see the [`check sets`](checks/) for each segment.
 
 <figure><img src="../../../../../.gitbook/assets/License.PNG" alt=""><figcaption></figcaption></figure>
 

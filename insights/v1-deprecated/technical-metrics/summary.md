@@ -24,7 +24,7 @@ Following dashboards are displayed under Technical Metrics:
 
 * Clicking **Go To Overview** and **View All** takes you to the respective dashboard of [Commits > Overview](source-control/git.md) page.
 
-![Source Control](<../../../.gitbook/assets/source control (1).png>)
+![Source Control](<../../../.gitbook/assets/source control.png>)
 
 **Commits** shows the following information:
 

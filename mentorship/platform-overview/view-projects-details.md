@@ -4,7 +4,7 @@ To view program details, navigate to the [Mentorship](https://people.communitybr
 
 ![Mentorship program](<../../.gitbook/assets/Mentorship screen.png>)
 
-<figure><img src="../../.gitbook/assets/mentors (1).png" alt=""><figcaption><p>Mentors</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mentors.png" alt=""><figcaption><p>Mentors</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/mentee.png" alt=""><figcaption><p>Meentee's profile</p></figcaption></figure>
 

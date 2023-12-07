@@ -12,7 +12,7 @@ The **Foundation Overview** page in Insights V3 provides a comprehensive snapsho
 
 ### Header Section
 
-<figure><img src="../../../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 At the top of the page, you'll find the Header Section, which includes the following elements:
 
@@ -41,4 +41,4 @@ Using this search box, you can select another foundation or a project.
 
 #### Navigating Back
 
-From the left navigation pane, click the  ![](<../../../../../../.gitbook/assets/image (1) (1) (1).png>)  icon to return to the **Landing Page**.
+From the left navigation pane, click the  ![](<../../../../../../.gitbook/assets/image (3).png>)  icon to return to the **Landing Page**.

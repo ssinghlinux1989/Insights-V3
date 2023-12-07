@@ -14,7 +14,7 @@ The **Drifting Away Contributors** metric focuses on identifying contributors wh
 
 ### Interact with the Dashboard
 
-<figure><img src="../../../.gitbook/assets/2023-06-26_22h42_46 (1).gif" alt=""><figcaption><p>Drifting Away Contributors</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2023-06-26_22h42_46.gif" alt=""><figcaption><p>Drifting Away Contributors</p></figcaption></figure>
 
 ### Why is this metric important?
 

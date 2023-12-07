@@ -11,4 +11,4 @@ The analysis is done based on the following parameters:
 * Product names are selected as popular programs, and they grouped by the number of enrollments.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/Popular Programs.png" alt=""><figcaption><p>Top training programs</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Popular Programs (1).png" alt=""><figcaption><p>Top training programs</p></figcaption></figure>

@@ -16,7 +16,7 @@ You can also sign in using one of the options given on the **SIGNIN** page. For 
 
 3\. On the **CREATE YOUR ACCOUNT** page, enter your first name, last name, Email address, username, and password. Click the **Create Account** CTA button.
 
-![Create Account](<../.gitbook/assets/Individual Dashboard (1).PNG>)
+![Create Account](<../.gitbook/assets/Individual Dashboard.PNG>)
 
 4\. You will receive a verification link to verify your account on your email address. If you do not receive the email, click the **Resend Email** CTA button.
 

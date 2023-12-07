@@ -29,7 +29,7 @@ The dashboard shows all vulnerabilities with their details, and total number of 
 
 ![Open Issues](<../.gitbook/assets/GHSA - Copy.png>)
 
-5.Click the ![](<../.gitbook/assets/Icon (1).png>) icon to see more details and to investigate the vulnerabilities. You can check the following details related to vulnerabilities:
+5.Click the ![](<../.gitbook/assets/Icon (4).png>) icon to see more details and to investigate the vulnerabilities. You can check the following details related to vulnerabilities:
 
 * Details about the issue, and when possible, a remediation and references to the corresponding PR, issue, CWE, CVE, or GHSA record, and so on.
 * Read the details and decide how you want to fix the vulnerability, for example, by applying a Snyk patch
@@ -50,7 +50,7 @@ You should have the necessary permission to dismiss the issue. With out necessar
 
 * Click a **GitHub PR** link, a **GitHub Commit**, and then a **GitHub Issue** link to learn more about the corresponding pull request, commit, and issue, respectively.
 
-![GitHub Links](../.gitbook/assets/Github.png)
+![GitHub Links](<../.gitbook/assets/Github (1).png>)
 
 ### Download Issues
 

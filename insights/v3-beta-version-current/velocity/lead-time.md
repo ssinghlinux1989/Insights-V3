@@ -8,7 +8,7 @@ It shows the entire lifecycle of a pull request, including the **PR raised> Revi
 
 The Lead Time metric can be effectively visualized using box plots. Box plots can provide a visual representation of the distribution of lead times.
 
-<figure><img src="../../../.gitbook/assets/2023-06-24_18h24_59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2023-06-24_18h24_59 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Why is this metric important?
 

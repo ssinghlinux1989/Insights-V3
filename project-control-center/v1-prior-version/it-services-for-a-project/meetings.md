@@ -17,7 +17,7 @@ The Meeting Management widget provides you the following details:
 
 You can view the meetings either in **List View** or in **Calendar View**. List view provides list of meetings that are scheduled and the Calendar view shows the scheduled meetings in a calendar.
 
-<figure><img src="../../../.gitbook/assets/Meeting View.gif" alt=""><figcaption><p>Meeting View</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Meeting View (1).gif" alt=""><figcaption><p>Meeting View</p></figcaption></figure>
 
 ### Scheduling a Meeting
 
@@ -54,7 +54,7 @@ You can also navigate to Meeting Management from the Vertical Sidebar navigation
 
 {% hint style="info" %}
 * You can also invite a member who does not belong to the committee. Click **+ Add New Invite**. Enter the details such as name, company , email ID and job title of the participant and click **Add Meeting Participant**.
-* You can also add yourself to the meeting by clicking the **+ Add yourself to the meeting**. You can remove the participant by click of delete ![](../../../.gitbook/assets/Delete\_Icon.png) icon.
+* You can also add yourself to the meeting by clicking the **+ Add yourself to the meeting**. You can remove the participant by click of delete ![](<../../../.gitbook/assets/Delete\_Icon (1).png>) icon.
 * If you are scheduling a **non recurring meeting**, you need to select **Does Not Repeat** while updating the frequency of the meeting.
 * A recurring meeting is indicated with ![](../../../.gitbook/assets/Rec.png)icon.&#x20;
 {% endhint %}
@@ -68,7 +68,7 @@ In the Meeting list, **Host Key** will be a blank field until the time is one ho
 <figure><img src="../../../.gitbook/assets/Host Key.png" alt=""><figcaption><p>Host Key</p></figcaption></figure>
 
 {% hint style="info" %}
-When the meeting is within one hour of the scheduled time, the Host Key appears as a masked key. You can click the <img src="../../../.gitbook/assets/Eye.png" alt="" data-size="line">  icon to see the host copy and click the <img src="../../../.gitbook/assets/Copy (1).png" alt="" data-size="line"> icon to copy the host key.&#x20;
+When the meeting is within one hour of the scheduled time, the Host Key appears as a masked key. You can click the <img src="../../../.gitbook/assets/Eye.png" alt="" data-size="line">  icon to see the host copy and click the <img src="../../../.gitbook/assets/Copy.png" alt="" data-size="line"> icon to copy the host key.&#x20;
 {% endhint %}
 
 ![Host  Key](../../../.gitbook/assets/Meetings\_Host.gif)
@@ -120,7 +120,7 @@ Manage Meetings also allows you to manage participants. You can resend the invit
 
 To manage meeting, perform the following steps:
 
-1.Select the scheduled meeting that you want to update, click <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Manage Meeting**.&#x20;
+1.Select the scheduled meeting that you want to update, click <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> icon and select **Manage Meeting**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/MM1 (2).png" alt=""><figcaption><p>Manage Meetings</p></figcaption></figure>
 
@@ -136,7 +136,7 @@ To manage meeting, perform the following steps:
 
 To resend the meeting invite again to a participant, perform the following steps:
 
-1.Select the scheduled meeting, click the <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Manage Meetings**.
+1.Select the scheduled meeting, click the <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> icon and select **Manage Meetings**.
 
 <figure><img src="../../../.gitbook/assets/MM1 (1).png" alt=""><figcaption><p>Manage Meetings</p></figcaption></figure>
 
@@ -154,7 +154,7 @@ You can remove the participant from the meeting.&#x20;
 
 To remove the participant, perfrom the following steps:
 
-1.Select the scheduled meeting, click the <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Manage Meetings**.
+1.Select the scheduled meeting, click the <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> icon and select **Manage Meetings**.
 
 <figure><img src="../../../.gitbook/assets/MM1.png" alt=""><figcaption><p>Manage Meeting</p></figcaption></figure>
 
@@ -162,13 +162,13 @@ To remove the participant, perfrom the following steps:
 
 <figure><img src="../../../.gitbook/assets/Mange Rec.png" alt=""><figcaption><p>Manage Recurring Meeting </p></figcaption></figure>
 
-3.Click the <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> icon and select **Remove Participant**.&#x20;
+3.Click the <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Remove Participant**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Remove.png" alt=""><figcaption><p>Remove Participant </p></figcaption></figure>
 
 4.A confirmation dialog box appears. Click **Delete** to remove the participant.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Del (1).png" alt=""><figcaption><p>Delete </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Del (2).png" alt=""><figcaption><p>Delete </p></figcaption></figure>
 
 ### Share Meeting&#x20;
 
@@ -176,11 +176,11 @@ You can share the public meeting link with the various participants who can get 
 
 To share a public meeting, perform the following steps:
 
-1.Select the scheduled public meeting that you want to share, click <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Share Meeting**.&#x20;
+1.Select the scheduled public meeting that you want to share, click <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> icon and select **Share Meeting**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Share.png" alt=""><figcaption><p>Share Meeting</p></figcaption></figure>
 
-2.The Share Meeting pop message appears. Click the Copy <img src="../../../.gitbook/assets/Copy.png" alt="" data-size="line"> icon to copy the meeting link and click **OK**.
+2.The Share Meeting pop message appears. Click the Copy <img src="../../../.gitbook/assets/Copy (1).png" alt="" data-size="line"> icon to copy the meeting link and click **OK**.
 
 <figure><img src="../../../.gitbook/assets/Share Mee.png" alt=""><figcaption><p>Meeting Link  </p></figcaption></figure>
 
@@ -190,7 +190,7 @@ You can clone a particular meeting and update the clone meeting as per your requ
 
 To clone a meeting, perform the following steps:
 
-1.Select the scheduled public meeting that you want to clone, click <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Clone Meeting**.&#x20;
+1.Select the scheduled public meeting that you want to clone, click <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> icon and select **Clone Meeting**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Clone.png" alt=""><figcaption><p>Clone Meeting</p></figcaption></figure>
 
@@ -204,7 +204,7 @@ You can delete the scheduled meetings. You also has an option either to delete a
 
 To delete a meeting,  perform the following steps:
 
-1.Select the scheduled meeting that you want to delete, click <img src="../../../.gitbook/assets/elicp.png" alt="" data-size="line"> icon and select **Delete Meeting**.&#x20;
+1.Select the scheduled meeting that you want to delete, click <img src="../../../.gitbook/assets/elicp (1).png" alt="" data-size="line"> icon and select **Delete Meeting**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Dele Meet.png" alt=""><figcaption><p>Delete Meeting </p></figcaption></figure>
 
